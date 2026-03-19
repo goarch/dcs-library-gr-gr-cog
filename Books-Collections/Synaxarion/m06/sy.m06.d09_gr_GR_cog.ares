@@ -1,0 +1,21 @@
+A_Resource_Whose_Name = sy.m06.d09_gr_GR_cog
+
+syMA.commemoration01.text = "Τῇ Θʹ τοῦ αὐτοῦ μηνός, μνήμη τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Κυρίλλου, Ἀρχιεπισκόπου Ἀλεξανδρείας."
+syMA.commemoration01.couplet1.title = titles_gr_GR_cog.ti.Verses
+syMA.commemoration01.couplet1.verse1 = "Κύριλλον ὑμνῶ τοῦ Κυρίου μου φίλον,"
+syMA.commemoration01.couplet1.verse2 = "Καὶ Κυρίας πρόμαχον Ἀειπαρθένου."
+syMA.commemoration01.single1 = "Εὕρατο τυμβοχοὴν ἔνατον Κύριλλος ἐς ἦμαρ."
+
+syMA.lastline = "Ταῖς αὐτοῦ αγίαις πρεσβείαις, Χριστὲ ὁ Θεός, ἐλέησον ἡμᾶς. Ἀμἠν."
+
+cl.syMA.commemoration01.text = "[saint/com 1]"
+
+cl.syMA.commemoration02.text = "[saint/com 2]"
+
+cl.syMA.commemoration03.text = "[saint/com 3]"
+
+cl.syMA.commemoration04.text = "[saint/com 4]"
+
+cl.syMA.commemoration05.text = "[saint/com 5]"
+
+cl.syMA.commemoration06.text = "[saint/com list]"

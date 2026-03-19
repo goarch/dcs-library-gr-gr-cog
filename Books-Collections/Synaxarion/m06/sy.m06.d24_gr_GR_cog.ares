@@ -1,0 +1,22 @@
+A_Resource_Whose_Name = sy.m06.d24_gr_GR_cog
+
+syMA.commemoration01.text = "Τῇ ΚΔʹ τοῦ αὐτοῦ μηνός, τὸ Γενέθλιον ἑορτάζομεν τοῦ τιμίου καὶ ἐνδόξου Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου."
+syMA.commemoration01.couplet1.title = titles_gr_GR_cog.ti.Verses
+syMA.commemoration01.couplet1.verse1 = "Ζαχαρία, χόρευε σὺν τῇ συζύγῳ"
+syMA.commemoration01.couplet1.verse2 = "Οὐ πολλὰ μὲν τίκτοντες, ἓν δὲ καὶ μέγα."
+syMA.commemoration01.single1 = "Πρόδρομον ἀμφὶ τετάρτην εἰκάδα γείνατο μήτηρ."
+syMA.commemoration01.narration.p01 = "Οὗτος ἐν γεννητοῖς γυναικῶν μαρτυρεῖται ὑπὸ τοῦ Χριστοῦ ὑπὲρ ἅπαντας, καὶ Προφήτου περισσότερον· ὁ προσκιρτήσας ἀπὸ γαστρός, καὶ τοῖς ἐν γῇ τὴν τοῦ Σωτῆρος κηρύξας παρουσίαν, καὶ προδραμὼν ἐν τῷ ᾅδη τὴν Ἀνάστασιν εὐαγγελίσασθαι. Οὗτος γέγονεν υἱὸς Ζαχαρίου Ἀρχιερέως, καὶ Ἐλισάβετ τῆς στείρας, τεχθεὶς ἐξ ἐπαγγελίας· ὃς τὴν τοῦ πατρὸς σιωπὴν ἐν τῷ γεννᾶσθαι ἐπιλυσάμενος, πάντα τὸν κόσμον χαρᾶς ἐπλήρωσε. Διὸ καὶ Ἄγγελοι τοῖς ἀνθρώποις σήμερον συναγάλλονται, καὶ πᾶσα κτίσις χαρᾶς καὶ εὐφροσύνης πεπλήρωται. Τελεῖται δὲ ἡ αὐτοῦ σύναξις ἐν τῷ ἁγιωτάτῳ αὐτοῦ εὐκτηρίῳ, τῷ ὄντι ἐν τοῖς Φωρακίου."
+
+syMA.lastline = "Ταῖς αὐτοῦ ἁγίαις πρεσβείαις, Χριστὲ ὁ Θεός, ἐλέησον ἡμᾶς. Ἀμήν."
+
+cl.syMA.commemoration01.text = "[saint/com 1]"
+
+cl.syMA.commemoration02.text = "[saint/com 2]"
+
+cl.syMA.commemoration03.text = "[saint/com 3]"
+
+cl.syMA.commemoration04.text = "[saint/com 4]"
+
+cl.syMA.commemoration05.text = "[saint/com 5]"
+
+cl.syMA.commemoration06.text = "[saint/com list]"
