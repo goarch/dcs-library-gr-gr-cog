@@ -32,6 +32,11 @@ cl.bishop2.fimi.text = ""
 cl.fimi.bishop1 = "yes" //blank or yes
 
 //Ordination parts in eu.ordination
+cl.ordinand.deacon.acc.text = "(δεῖνα)"
+cl.ordinand.deacon.gen.text = "(δεῖνος)"
+cl.ordinand.priest.acc.text = "(δεῖνα)"
+cl.ordinand.priest.gen.text = "(δεῖνος)"
+
 cl.euORD.EP.p402a = "," //name of candidate nominative
 cl.euORD.EP.p402b = "," //name of diocese genitive 
 cl.euORD.EP.p405a = "" //name of patriarch dative 
