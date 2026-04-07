@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = actors_gr_GR_cog
 
 ac.Archbishop = "ΑΡΧΙΕΠΙΣΚΟΠΟΣ"
+ac.Bishop = "ΕΠΙΣΚΟΠΟΣ"
 ac.Bishop_Elect = "ΕΨΗΦΙΣΜΕΝΟΣ ΕΠΙΣΚΟΠΟΣ"
 ac.Candidate_Sponsor = "ΚΑΤΗΧΟΥΜΕΝΟΣ/ΑΝΑΔΟΧΟΣ"
 ac.Chanter = "ΨΑΛΤΗΣ"
@@ -38,6 +39,7 @@ ac.Superior = "ΠΡΟΕΣΤΩΣ"
 ac.SuperiorOrReader = "ΠΡΟΕΣΤΩΣ ἢ ΑΝΑΓΝΩΣΤΗΣ"
 
 ac.IL.Archbishop = "ΑΡΧΙΕΠΙΣΚΟΠΟΣ:"
+ac.IL.Bishop = "ΕΠΙΣΚΟΠΟΣ:"
 ac.IL.Bishop_Elect = "ΕΨΗΦΙΣΜΕΝΟΣ ΕΠΙΣΚΟΠΟΣ:"
 ac.IL.Candidate_Sponsor = "ΚΑΤΗΧΟΥΜΕΝΟΣ/ΑΝΑΔΟΧΟΣ:"
 ac.IL.Chanter = "ΨΑΛΤΗΣ:"
