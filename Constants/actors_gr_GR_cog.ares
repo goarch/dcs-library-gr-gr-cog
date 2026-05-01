@@ -79,3 +79,16 @@ ac.IL.SuperiorOrReader = "ΠΡΟΕΣΤΩΣ ἢ ΑΝΑΓΝΩΣΤΗΣ:"
 ac.LC.Archbishop = "Ἀρχιεπίσκοπος"
 ac.LC.Hierarch = "Ἀρχιερεύς"
 ac.LC.Deacon = "Διάκονος"
+
+ac.sb.BlCh = "" //by default blank and updated to “Choir” as needed, e.g. Katavasias
+ac.sb.DeBl = "" //by default "Deacon" and updated to blank as needed
+ac.sb.BlHi = "" //by default blank and updated to “Hierarch” as needed, e.g. Katavasias
+
+ac.sb.ChClHi = "" //be default choir and updated to clergy or hierarch, e.g. small entrance
+ac.sb.ChHi = "" //(choir or hierarch)
+ac.sb.DePr = "" //by default Deacon and updated to Priest as needed
+ac.sb.PrCl = "" //by default Priest and updated to Clergy as needed
+ac.sb.PrHi = "" //by default Priest and updated to Hierarch as needed
+
+ac.sb.IL.DePr = "" //by default Deacon and updated to Priest as needed
+ac.sb.IL.PrHi = "" //by default Priest and updated to Hierarch as needed
