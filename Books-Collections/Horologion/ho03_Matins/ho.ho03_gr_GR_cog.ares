@@ -373,6 +373,8 @@ hoMA.PostGospelMaleSaint.text = "Ταῖς τοῦ σοῦ Ἁγίου πρεσ
 hoMA.SunPostGospelIdiomelon.incipit = "Ἀναστὰς ὁ Ἰησοῦς…"
 hoMA.SunPostGospelIdiomelon.text = "Ἀναστὰς ὁ Ἰησοῦς ἀπὸ τοῦ τάφου, καθὼς προεῖπεν, ἔδωκεν ἡμῖν τὴν αἰώνιον ζωήν, καὶ μέγα ἔλεος."
 
+hoMA.MM.PostGospelSundayMode2.text = properties_gr_GR_cog.media.key
+
 hoMA.SunExapVerse1.text = "" //for media
 
 //Triodion specific, not in Horologion
