@@ -80,16 +80,16 @@ ac.LC.Archbishop = "Ἀρχιεπίσκοπος"
 ac.LC.Hierarch = "Ἀρχιερεύς"
 ac.LC.Deacon = "Διάκονος"
 
-ac.sb.BlCh = "" //by default blank and updated to “Choir” as needed, e.g. Katavasias
+ac.sb.BlCh = "" //by default blank and updated to “ΧΟΡΟΣ” as needed, e.g. Katavasias
 ac.sb.DeBl = "ΔΙΑΚΟΝΟΣ" //by default "Deacon" and updated to blank as needed
-ac.sb.BlHi = "" //by default blank and updated to “Hierarch” as needed, e.g. Katavasias
+ac.sb.BlHi = "" //by default blank and updated to “ΑΡΧΙΕΡΕΥΣ” as needed, e.g. Katavasias
 
-ac.sb.ChClHi = "ΧΟΡΟΣ" //be default choir and updated to clergy or hierarch, e.g. small entrance
-ac.sb.ChHi = "" //(choir or hierarch)
-ac.sb.ClHi = "ΙΕΡΕΙΣ" //(clergy or hierarch)
-ac.sb.DePr = "ΔΙΑΚΟΝΟΣ" //by default Deacon and updated to Priest as needed
-ac.sb.PrCl = "ΙΕΡΕΥΣ" //by default Priest and updated to Clergy as needed
-ac.sb.PrHi = "ΙΕΡΕΥΣ" //by default Priest and updated to Hierarch as needed
+ac.sb.ChClHi = "ΧΟΡΟΣ" //be default choir and updated to ΙΕΡΕΙΣ or ΑΡΧΙΕΡΕΥΣ, e.g. small entrance
+ac.sb.ChHi = "" //(ΧΟΡΟΣ or ΑΡΧΙΕΡΕΥΣ)
+ac.sb.ClHi = "ΙΕΡΕΙΣ" //(clergy or ΑΡΧΙΕΡΕΥΣ)
+ac.sb.DePr = "ΔΙΑΚΟΝΟΣ" //by default Deacon and updated to ΙΕΡΕΥΣ as needed
+ac.sb.PrCl = "ΙΕΡΕΥΣ" //by default Priest and updated to ΙΕΡΕΙΣ as needed
+ac.sb.PrHi = "ΙΕΡΕΥΣ" //by default Priest and updated to ΑΡΧΙΕΡΕΥΣ as needed
 
-ac.sb.IL.DePr = "ΔΙΑΚΟΝΟΣ:" //by default Deacon and updated to Priest as needed
-ac.sb.IL.PrHi = "ΙΕΡΕΥΣ:" //by default Priest and updated to Hierarch as needed
+ac.sb.IL.DePr = "ΔΙΑΚΟΝΟΣ:" //by default Deacon and updated to ΙΕΡΕΥΣ: as needed
+ac.sb.IL.PrHi = "ΙΕΡΕΥΣ:" //by default Priest and updated to ΑΡΧΙΕΡΕΥΣ: as needed
