@@ -87,7 +87,8 @@ ac.sb.BlHi = "" //by default blank and updated to “ΑΡΧΙΕΡΕΥΣ” as ne
 ac.sb.ChClHi = "ΧΟΡΟΣ" //be default choir and updated to ΙΕΡΕΙΣ or ΑΡΧΙΕΡΕΥΣ, e.g. small entrance
 ac.sb.ChHi = "" //(ΧΟΡΟΣ or ΑΡΧΙΕΡΕΥΣ)
 ac.sb.ClHi = "ΙΕΡΕΙΣ" //(clergy or ΑΡΧΙΕΡΕΥΣ)
-ac.sb.DePr = "ΔΙΑΚΟΝΟΣ" //by default Deacon and updated to ΙΕΡΕΥΣ as needed
+ac.sb.DePe = "ΔΙΑΚΟΝΟΣ" //deacon or people
+ac.sb.DePr= "ΔΙΑΚΟΝΟΣ" //by default Deacon and updated to ΙΕΡΕΥΣ as needed
 ac.sb.PrCl = "ΙΕΡΕΥΣ" //by default Priest and updated to ΙΕΡΕΙΣ as needed
 ac.sb.PrHi = "ΙΕΡΕΥΣ" //by default Priest and updated to ΑΡΧΙΕΡΕΥΣ as needed
 
