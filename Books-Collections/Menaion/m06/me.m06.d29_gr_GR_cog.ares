@@ -790,3 +790,19 @@ meMA.AdditionalIdiomelonGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
 meMA.AdditionalIdiomelonGlory.incipit = "Ὑβριστὴς καὶ διώκτης τῆς Ἐκκλησίας…"
 meMA.AdditionalIdiomelonGlory.text = "Ὑβριστὴς καὶ διώκτης τῆς Ἐκκλησίας γέγονας, Παῦλε παμμακάριστε, οὐρανόθεν δὲ κληθείς, ὑπερήσπισας ταύτης παραδόξως, ἣν ἱκέτευε ῥυσθῆναι ἐκ κινδύνων, καὶ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
+alt1.meVE.Apolytikion1.poet = "Ποίημα Ἀρχιεπισκόπου Ἀθηνῶν Χρισοστόμου."
+alt1.meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meVE.Apolytikion1.melody = "Κανόνα πίστεως."
+alt1.meVE.Apolytikion1.incipit = "Ἐθνῶν σε κήρυκα…"
+alt1.meVE.Apolytikion1.text = "Ἐθνῶν σε κήρυκα καὶ φωστῆρα τρισμέγιστον, Ἀθηναίων διδάσκαλον, Οἰκουμένης ἀγλάϊσμα, εὐφροσύνως γεραίρομεν· τοὺς ἀγῶνας τιμῶμεν καὶ τὰς βασάνους διὰ Χριστόν· τὸ σεπτὸν σου μαρτύριον. Ἅγιε Παῦλε Ἀπόστολε, πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
+
+alt1.meVE.Apolytikion2.mode = miscellanea_gr_GR_cog.misc.Mode1
+alt1.meVE.Apolytikion2.melody = ""
+alt1.meVE.Apolytikion2.incipit = "…"
+alt1.meVE.Apolytikion2.text = ""
+
+alt1.meVE.Apolytikion3.mode = miscellanea_gr_GR_cog.misc.Mode4
+alt1.meVE.Apolytikion3.melody = ""
+alt1.meVE.Apolytikion3.incipit = "…"
+alt1.meVE.Apolytikion3.text = ""
+
