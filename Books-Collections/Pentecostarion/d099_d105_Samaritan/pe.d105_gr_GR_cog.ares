@@ -19,12 +19,12 @@ peVE.Stichera01.melody = pe.d099_gr_GR_cog.peVE.Stichera08.melody
 peVE.Stichera01.incipit = pe.d099_gr_GR_cog.peVE.Stichera08.incipit
 peVE.Stichera01.text = pe.d099_gr_GR_cog.peVE.Stichera08.text
 
-peVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode4
+peVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode2
 peVE.Stichera02.melody = pe.d099_gr_GR_cog.peVE.Stichera09.melody
 peVE.Stichera02.incipit = pe.d099_gr_GR_cog.peVE.Stichera09.incipit
 peVE.Stichera02.text = pe.d099_gr_GR_cog.peVE.Stichera09.text
 
-peVE.Stichera03.mode = miscellanea_gr_GR_cog.misc.Mode4
+peVE.Stichera03.mode = miscellanea_gr_GR_cog.misc.Mode2
 peVE.Stichera03.melody = pe.d099_gr_GR_cog.peVE.Stichera10.melody
 peVE.Stichera03.incipit = pe.d099_gr_GR_cog.peVE.Stichera10.incipit
 peVE.Stichera03.text = pe.d099_gr_GR_cog.peVE.Stichera10.text
