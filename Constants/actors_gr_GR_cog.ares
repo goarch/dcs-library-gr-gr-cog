@@ -92,6 +92,3 @@ ac.sb.DePr= "ΔΙΑΚΟΝΟΣ" //by default Deacon and updated to ΙΕΡΕΥΣ a
 ac.sb.PrCl = "ΙΕΡΕΥΣ" //by default Priest and updated to ΙΕΡΕΙΣ as needed
 ac.sb.PrHi = "ΙΕΡΕΥΣ" //by default Priest and updated to ΑΡΧΙΕΡΕΥΣ as needed
 ac.sb.ReHi = "ΑΝΑΓΝΩΣΤΗΣ" //by default Reader and updated to ΑΡΧΙΕΡΕΥΣ as needed
-
-ac.sb.IL.DePr = "ΔΙΑΚΟΝΟΣ:" //by default Deacon and updated to ΙΕΡΕΥΣ: as needed
-ac.sb.IL.PrHi = "ΙΕΡΕΥΣ:" //by default Priest and updated to ΑΡΧΙΕΡΕΥΣ: as needed
