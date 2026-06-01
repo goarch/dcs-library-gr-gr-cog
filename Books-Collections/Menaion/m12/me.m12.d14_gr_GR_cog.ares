@@ -26,34 +26,34 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
-meVE.Stichera01.incipit = "Θυρεῷ εὐσεβείας σε, θωρακίσας ὁ…"
-meVE.Stichera01.text = "Θυρεῷ εὐσεβείας σε, θωρακίσας ὁ Κύριος, δυνατὸν εἰργάσατο πρὸς παράταξιν, τοῦ δυσμενοῦς ἐξερχόμενον, Θύρσε παναοίδιμε· ὃν τῇ λόγχῃ τῆς ἐν σοί, καρτερίας κατέαξας, καὶ ἠφάνισας, τὰς αὐτοῦ μυριάδας, καὶ τῆς νίκης, τοὺς στεφάνους ἀνεδήσω, Μεγαλομάρτυς πολύαθλε."
+meVE.Stichera01.incipit = "Θυρεῷ εὐσεβείας σε…"
+meVE.Stichera01.text = "Θυρεῷ εὐσεβείας σε, θωρακίσας ὁ Κύριος, δυνατὸν εἰργάσατο πρὸς παράταξιν, τοῦ δυσμενοῦς ἐξερχόμενον, Θύρσε παναοίδιμε· ὃν τῇ λόγχῃ τῆς ἐν σοί, καρτερίας κατέαξας, καὶ ἠφάνισας, τὰς αὐτοῦ μυριάδας καὶ τῆς νίκης, τοὺς στεφάνους ἀνεδήσω, Μεγαλομάρτυς πολύαθλε."
 
 meVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
-meVE.Stichera02.incipit = "Τῆς ψυχῆς τὴν λευκότητα, τῷ…"
+meVE.Stichera02.incipit = "Τῆς ψυχῆς τὴν λευκότητα…"
 meVE.Stichera02.text = "Τῆς ψυχῆς τὴν λευκότητα, τῷ ὡραίῳ τοῦ σώματος, τῆς ὁμολογίας τε καθαρότητι, Μάρτυς ὑπέφηνας Λεύκιε· διὸ φερωνύμως σε, κλήσει ἔνδοξε Χριστός, ἐπὶ γῆς κατελάμπρυνεν· ὃν ἱκέτευε, ἐκ φθορᾶς καὶ κινδύνων λυτρωθῆναι, τοὺς ἐν πίστει ἐκτελοῦντας, τὴν ἀεισέβαστον μνήμην σου."
 
 meVE.Stichera03.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
-meVE.Stichera03.incipit = "Καλλινίκως διήνυσας, τοὺς ἀγῶνας Καλλίνικε…"
-meVE.Stichera03.text = "Καλλινίκως διήνυσας, τοὺς ἀγῶνας Καλλίνικε, προκληθεὶς ὃ ἔμελλες ἔργοις ἔσεσθαι, καὶ ἐκμιμούμενος Λεύκιον, ψυχὴν κατελεύκανας, ταῖς τῶν ἄθλων καλλοναῖς, καὶ βασάνων λευκότητι, καὶ τὴν ἄθεον, ἐστηλίτευσας γνώμην τῶν ἀνόμων, καὶ τὸν ζόφον τῆς ἀπάτης, θείᾳ δυνάμει ἐμείωσας."
+meVE.Stichera03.incipit = "Καλλινίκως διήνυσας…"
+meVE.Stichera03.text = "Καλλινίκως διήνυσας, τοὺς ἀγῶνας Καλλίνικε, προκληθεὶς ὃ ἔμελλες ἔργοις ἔσεσθαι· καὶ ἐκμιμούμενος Λεύκιον, ψυχὴν κατελεύκανας, ταῖς τῶν ἄθλων καλλοναῖς, καὶ βασάνων λευκότητι, καὶ τὴν ἄθεον, ἐστηλίτευσας γνώμην τῶν ἀνόμων, καὶ τὸν ζόφον τῆς ἀπάτης, θείᾳ δυνάμει ἐμείωσας."
 
 meVE.Stichera04.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera04.greekmelody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.greekname
 meVE.Stichera04.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
-meVE.Stichera04.incipit = "Θύρσος ὁ θαυμάσιος, καὶ ὁ…"
+meVE.Stichera04.incipit = "Θύρσος ὁ θαυμάσιος…"
 meVE.Stichera04.text = "Θύρσος ὁ θαυμάσιος, καὶ ὁ θεόφρων Καλλίνικος, καὶ ὁ ἔνδοξος Λεύκιος, Τριάδα τὴν ἄκτιστον, καθομολογοῦντες, πόνους βαρυτάτους, καὶ ἀνενδότους αἰκισμούς, ἀνδρειοτάτῃ γνώμῃ ὑπέμειναν, καὶ νίκης τὸ διάδημα, ὡς νικηφόροι ἀπέλαβον, συμπολῖται γενόμενοι, τῶν ἀΰλων δυνάμεων."
 
 meVE.Stichera05.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera05.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
-meVE.Stichera05.incipit = "Φιλήμων ὁ μέγιστος, Ἀῤῥιανὸς ὁ…"
+meVE.Stichera05.incipit = "Φιλήμων ὁ μέγιστος…"
 meVE.Stichera05.text = "Φιλήμων ὁ μέγιστος, Ἀῤῥιανὸς ὁ πανόλβιος, ὁ σοφὸς Ἀπολλώνιος, αἱμάτων τοῖς ῥεύμασι, τῆς πολυθεΐας, ἔσβεσαν τὴν φλόγα, πᾶσαν κατήρδευσαν τὴν γῆν, θεογνωσίας τοῖς θείοις ῥεύμασι, καὶ ὄμβροις τῶν ἰάσεων, τῶν παθημάτων ξηραίνουσι, ποταμοὺς θείᾳ χάριτι, οἱ Καλλίνικοι Μάρτυρες."
 
 meVE.Stichera06.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera06.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
-meVE.Stichera06.incipit = "Ἄνθη ὡραιότατα, ἐν τῷ λειμῶνι…"
-meVE.Stichera06.text = "Ἄνθη ὡραιότατα, ἐν τῷ λειμῶνι ἐξήνθησαν, τῶν Μαρτύρων οἱ ἔνδοξοι, τοῦ Πνεύματος πέμποντες, θείαν εὐωδίαν, καὶ τὰς διανοίας, εὐωδιάζοντες πιστῶς, τῶν ἐτησίαις μνήμαις τιμώντων αὐτῶν, τοὺς ἄθλους, τὰ παλαίσματα, τὴν μακαρίαν τελείωσιν, διʼ ἧς φῶς τὸ ἀνέσπερον, κατοικοῦσι γηθόμενοι."
+meVE.Stichera06.incipit = "Ἄνθη ὡραιότατα…"
+meVE.Stichera06.text = "Ἄνθη ὡραιότατα, ἐν τῷ λειμῶνι ἐξήνθησαν, τῶν Μαρτύρων οἱ ἔνδοξοι, τοῦ Πνεύματος πέμποντες, θείαν εὐωδίαν, καὶ τὰς διανοίας, εὐωδιάζοντες πιστῶς, τῶν ἐτησίαις μνήμαις τιμώντων αὐτῶν, τοὺς ἄθλους τὰ παλαίσματα, τὴν μακαρίαν τελείωσιν, διʼ ἧς φῶς τὸ ἀνέσπερον, κατοικοῦσι γηθόμενοι."
 
 meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.greekname

@@ -638,8 +638,8 @@ trMA.LaudsTheotokion.text = oc.m2.d7_gr_GR_cog.octrMA.LaudsTheotokion.text
 
 trMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
 trMA.AposGlory.melody = ""
-trMA.AposGlory.incipit = oc.m6.d7_gr_GR_cog.ocVE.Aposticha3.incipit
-trMA.AposGlory.text = oc.m6.d7_gr_GR_cog.ocVE.Aposticha3.text
+trMA.AposGlory.incipit = "Ἄλγος τῷ Ἀδὰμ…"
+trMA.AposGlory.text ="Ἄλγος τῷ Ἀδὰμ ἐχρημάτισεν, ἡ τοῦ ξύλου ἀπόγευσις, πάλαι ἐν Ἐδέμ, ὅτε ὄφις ἰὸν ἐξηρεύξατο· διʼ αὐτοῦ γὰρ εἰσῆλθεν ὁ θάνατος, παγγενῆ κατεσθίων τὸν ἄνθρωπον· ἀλλʼ ἐλθὼν ὁ Δεσπότης, καθεῖλε τὸν δράκοντα, καὶ ἀνάστασιν ἡμῖν ἐδωρήσατο· πρὸς αὐτὸν οὖν βοήσωμεν· Φεῖσαι Σωτήρ, καὶ οὓς προσελάβου, μετὰ τῶν ἐκλεκτῶν σου ἀνάπαυσον."
 
 trMA.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
 trMA.AposTheotokion.melody = ""
