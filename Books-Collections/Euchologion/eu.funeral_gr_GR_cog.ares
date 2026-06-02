@@ -28,7 +28,7 @@ euFUN.Key0111.text = prayers_gr_GR_cog.pr.res15.text
 euFUN.Key0112.text = prayers_gr_GR_cog.pr.res16.text
 
 euFUN.Key0200.title = "Η ΚΗΔΕΙΑ"
-euFUN.R21 = ""
+euFUN.R21.rubric = ""
 
 euFUN.Key0300.title = "ΣΤΑΣΙΣ ΠΡΩΤΗ"
 euFUN.Key0300.mode = miscellanea_gr_GR_cog.misc.Mode6
@@ -59,7 +59,7 @@ euFUN.Key0606.incipit = ho.ho03_gr_GR_cog.hoMA.FuneralEvlog8.incipit
 euFUN.Key0606.text = ho.ho03_gr_GR_cog.hoMA.FuneralEvlog8.text
 euFUN.Key0607.text = ho.ho03_gr_GR_cog.hoMA.FuneralEvlog9.text
 
-euFUN.R061 = "Ἐὰν ὦσι πλείονες τῶν τριῶν Ἱερεῖς, εἰς τὸ τέλος ἑκάστου Τροπαρίου ὁ Διάκονος ἐκφωνεῖ· Τοῦ Κυρίου δεηθῶμεν, οἱ δὲ Ἱερεῖς κατὰ τὴν τῶν πρεσβείων σειρὰν ἕκαστος ἐκ τῶν μὴ ἐκφωνησάντων· Ὅτι σὺ εἶ ἡ ἀνάστασις…, ἤτοι αἱ ἐκφωνήσεις γίνονται κατὰ τὸν ἀριθμὸν τῶν Ἱερέων."
+euFUN.R061.rubric = "Ἐὰν ὦσι πλείονες τῶν τριῶν Ἱερεῖς, εἰς τὸ τέλος ἑκάστου Τροπαρίου ὁ Διάκονος ἐκφωνεῖ· Τοῦ Κυρίου δεηθῶμεν, οἱ δὲ Ἱερεῖς κατὰ τὴν τῶν πρεσβείων σειρὰν ἕκαστος ἐκ τῶν μὴ ἐκφωνησάντων· Ὅτι σὺ εἶ ἡ ἀνάστασις…, ἤτοι αἱ ἐκφωνήσεις γίνονται κατὰ τὸν ἀριθμὸν τῶν Ἱερέων."
 
 euFUN.Key0700.title = titles_gr_GR_cog.ti.Kontakion
 euFUN.Key0700.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -135,7 +135,7 @@ euFUN.Key0908.text = ""
 
 euFUN.EpistleProkeimenon.text = "Μακαρία ἡ ὁδός, ᾗ πορεύει σήμερον, ὅτι ἡτοιμάσθη σοι τόπος ἀναπαύσεως."
 
-euFUN.brightweek.R091 = "Εἶτα ὁ Ἀπόστολος καὶ τὸ Εὐαγγέλιον τῆς ἡμέρας."
+euFUN.brightweek.R091.rubric = "Εἶτα ὁ Ἀπόστολος καὶ τὸ Εὐαγγέλιον τῆς ἡμέρας."
 
 euFUN.Key1000.title = "ΕΥΧΑΙ ΣΥΓΧΩΡΗΤΙΚΑΙ."
 euFUN.Key1001.title = "Εἰς πᾶσαν ἀρὰν καὶ ἀφορισμόν, εἰς τεθνεῶτα, ἀναγινωσκόμεναι παρὰ τοῦ Ἀρχιερέως."
@@ -168,8 +168,8 @@ euFUN.Key1105.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name
 euFUN.Key1105.incipit = oc.m6.d7_gr_GR_cog.ocVE.AposTheotokion.incipit
 euFUN.Key1105.text = oc.m6.d7_gr_GR_cog.ocVE.AposTheotokion.text
 
-euFUN.brightweek.R111 = "Ἀντὶ δὲ τοῦ «Δεῦτε τελευταῖον ἀσπασμόν», ψάλλομεν τὸ ἑξῆς·"
-euFUN.brightweek.R112 = "Ἐκ τοῦ Ναοῦ μέχρι τοῦ τάφου ψάλλεται τὸ ἑξῆς·"
+euFUN.brightweek.R111.rubric = "Ἀντὶ δὲ τοῦ «Δεῦτε τελευταῖον ἀσπασμόν», ψάλλομεν τὸ ἑξῆς·"
+euFUN.brightweek.R112.rubric = "Ἐκ τοῦ Ναοῦ μέχρι τοῦ τάφου ψάλλεται τὸ ἑξῆς·"
 
 euFUN.Key1200.title = "ΕΠΙ ΤΟΥ ΤΑΦΟΥ"
 

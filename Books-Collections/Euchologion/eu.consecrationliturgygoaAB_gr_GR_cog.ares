@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = eu.consecrationliturgygoaAB_gr_GR_cog
 
-euMA.R001 = "Ὁ Ἀρχιεπίσκοπος λέγει τὰς εὐχὰς τοῦ Πατ. Καλλίστου."
+euMA.R001.rubric = "Ὁ Ἀρχιεπίσκοπος λέγει τὰς εὐχὰς τοῦ Πατ. Καλλίστου."
 
 euCON.Key4000.title = "ΕΓΚΑΙΝΙΑ ΚΑΙ ΛΕΙΤΟΥΡΓΙΑ"
 euCON.Key4100.title = "ΕΓΚΑΙΝΙΑ"

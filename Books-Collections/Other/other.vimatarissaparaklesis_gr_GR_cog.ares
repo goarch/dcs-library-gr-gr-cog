@@ -8,9 +8,9 @@ hoCA.Insert1 = ""
 
 hoCA.media.text = "" //for complete music
 
-R01 = ""
-R02 = "Καὶ εὐθὺς τό· Θεὸς Κύριος, ἐξ ἑκατέρων τῶν Χορῶν, ὡς ἑξῆς·"
-R03 = ""
+R01.rubric = ""
+R02.rubric = "Καὶ εὐθὺς τό· Θεὸς Κύριος, ἐξ ἑκατέρων τῶν Χορῶν, ὡς ἑξῆς·"
+R03.rubric = ""
 
 hoCA.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
@@ -32,8 +32,8 @@ hoCA.Apolytikion4.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
 hoCA.Apolytikion4.incipit = "Εἰκὼν ἡλιόμορφε Βηματαρίσσης σεπτή, ἐν…"
 hoCA.Apolytikion4.text = "Εἰκὼν ἡλιόμορφε Βηματαρίσσης σεπτή, ἐν φρέατι δύσασα, ἐν τῇ βαρβάρων ὁρμῇ, ἑπτάδεκα ἔτεσιν, αὖθις σὺν ζωηφόρῳ ξύλῳ ἐξανατέλλεις, πέμπουσα τὰς ἀκτῖνας, τῶν λαμπρῶν σου θαυμάτων, Μονὴν Βατοπαιδίου φρουροῦσα λιταῖς ἀκοιμήτοις σου."
 
-R04 = "Ψάλλεται ὁ κανὼν τῆς Παρακλήσεως ἄνευ τῶν εἱρμῶν."
-R05 = "(Ὁ εἱρμὸς δὲν ψάλλεται.)"
+R04.rubric = "Ψάλλεται ὁ κανὼν τῆς Παρακλήσεως ἄνευ τῶν εἱρμῶν."
+R05.rubric = "(Ὁ εἱρμὸς δὲν ψάλλεται.)"
 
 hoCA.acrostic = "Ἁγνὴ Βηματάρισσα, λογικὸν δῶρον δέχου. Γ."
 hoCA.verse = prayers_gr_GR_cog.pr.verse_Theotokos.text
@@ -44,7 +44,7 @@ hoCA.Ode1H.melody = he.h.m8_gr_GR_cog.heHE.YgranDiodefsas.melody
 hoCA.Ode1H.incipit = he.h.m8_gr_GR_cog.heHE.YgranDiodefsas.incipit
 hoCA.Ode1H.text = he.h.m8_gr_GR_cog.heHE.YgranDiodefsas.text
 
-R06 = ""
+R06.rubric = ""
 
 hoCA.Ode10.ode = miscellanea_gr_GR_cog.misc.Ode1
 hoCA.Ode10.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -345,7 +345,7 @@ hoCA.Meg06.melody = he.h.m6_gr_GR_cog.heHE.TinTimioteran.name
 hoCA.Meg06.incipit = "Φώτισον τὸ σκότος τῶν λογισμῶν…"
 hoCA.Meg06.text = "Φώτισον τὸ σκότος τῶν λογισμῶν, ἐμοῦ Φωτοτόκε, δεομένου σοῦ ἐκτενῶς, πρὶν καταλάβῃ ὥρα με τοῦ θανάτου, καὶ ἐν φωτί με τάξον, ὦ Βηματάρισσα."
 
-R08 = "[Τὸ Μεγλυνάριον τοῦ Ναοῦ]. Εἶτα·"
+R08.rubric = "[Τὸ Μεγλυνάριον τοῦ Ναοῦ]. Εἶτα·"
 
 hoCA.Meg0F.melody = he.h.m6_gr_GR_cog.heHE.TinTimioteran.name
 hoCA.Meg0F.incipit = ho.ho23_gr_GR_cog.hoCA.Meg0F.incipit

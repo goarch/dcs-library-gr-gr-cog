@@ -8,9 +8,9 @@ hoCA.translator = ""
 
 hoCA.media.text = "" //for complete music
 
-R01 = ""
-R02 = "Καὶ εὐθὺς τό· Θεὸς Κύριος, ἐξ ἑκατέρων τῶν Χορῶν, ὡς ἑξῆς·"
-R03 = ""
+R01.rubric = ""
+R02.rubric = "Καὶ εὐθὺς τό· Θεὸς Κύριος, ἐξ ἑκατέρων τῶν Χορῶν, ὡς ἑξῆς·"
+R03.rubric = ""
 
 hoCA.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
@@ -18,14 +18,14 @@ hoCA.Apolytikion1.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.gree
 hoCA.Apolytikion1.incipit = oc.m4.d3_gr_GR_cog.ocVE.ApolTheotokionVM.incipit
 hoCA.Apolytikion1.text = oc.m4.d3_gr_GR_cog.ocVE.ApolTheotokionVM.text
 
-R04 = ""
+R04.rubric = ""
 
 hoCA.Apolytikion2.mode = miscellanea_gr_GR_cog.misc.Mode4
 hoCA.Apolytikion2.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion2.incipit = "Οὐ σιωπήσωμέν ποτε…"
 hoCA.Apolytikion2.text = "Οὐ σιωπήσωμέν ποτε, Θεοτόκε, τὰς δυναστείας σου λαλεῖν οἱ ἀνάξιοι· εἰμὴ γὰρ σὺ προΐστασο πρεσβεύουσα, τίς ἡμᾶς ἐῤῥύσατο ἐκ τοσούτων κινδύνων; Τίς δὲ διεφύλαξεν ἕως νῦν ἐλευθέρους; Οὐκ ἀποστῶμεν, Δέσποινα, ἐκ σοῦ· σοὺς γὰρ δούλους σῴζεις ἀεί, ἐκ παντοίων δεινῶν."
 
-R05 = ""
+R05.rubric = ""
 
 hoCA.Ode1H.ode = miscellanea_gr_GR_cog.misc.Ode1
 hoCA.Ode1H.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -389,13 +389,13 @@ hoCA.Meg06.melody = he.h.m6_gr_GR_cog.heHE.TinTimioteran.name
 hoCA.Meg06.incipit = "Ἄλαλα τὰ χείλη τῶν ἀσεβῶν…"
 hoCA.Meg06.text = "Ἄλαλα τὰ χείλη τῶν ἀσεβῶν, τῶν μὴ προσκυνούντων, τὴν εἰκόνα σου τὴν σεπτήν, τὴν ἱστορηθεῖσαν, ὑπὸ τοῦ ἀποστόλου, Λουκᾶ ἱερωτάτου, τὴν Ὁδηγήτριαν."
 //R16
-R17 = "Κατὰ τὰς ἡμέρας τῆς Μεταμορφώσεως, τὸ Μεγαλυνάριον τῆς ἑορτῆς μπορεῖ νὰ ψάλλεται ἐδώ."
+R17.rubric = "Κατὰ τὰς ἡμέρας τῆς Μεταμορφώσεως, τὸ Μεγαλυνάριον τῆς ἑορτῆς μπορεῖ νὰ ψάλλεται ἐδώ."
 hoCA.MegTrans1.melody = he.h.m6_gr_GR_cog.heHE.TinTimioteran.name
 hoCA.MegTrans1.incipit = "…"
 hoCA.MegTrans1.text = me.m08.d06_gr_GR_cog.meLI.Megalynarion.text
-R18 = "Τὸ Μεγλυνάριον τοῦ Ναοῦ."
+R18.rubric = "Τὸ Μεγλυνάριον τοῦ Ναοῦ."
 hoCA.MegLocal.text = "Use either link to open the texts."
-R19 = "Εἶτα τὸ ἑξῆς·"
+R19.rubric = "Εἶτα τὸ ἑξῆς·"
 hoCA.Meg0F.melody = he.h.m6_gr_GR_cog.heHE.TinTimioteran.name
 hoCA.Meg0F.incipit = "Πᾶσαι τῶν Ἀγγέλων αἱ στρατιαί…"
 hoCA.Meg0F.text = "Πᾶσαι τῶν Ἀγγέλων αἱ στρατιαί, Πρόδρομε Κυρίου, Ἀποστόλων ἡ δωδεκάς, οἱ Ἅγιοι Πάντες, μετὰ τῆς Θεοτόκου, ποιήσατε πρεσβείαν, εἰς τὸ σωθῆναι ἡμᾶς."
@@ -438,7 +438,7 @@ hoCA.Troparion7.melody = ""
 hoCA.Troparion7.incipit = "Τὴν πᾶσαν ἐλπίδα μου…"
 hoCA.Troparion7.text = "Τὴν πᾶσαν ἐλπίδα μου, εἰς σὲ ἀνατίθημι, Μήτερ τοῦ Θεοῦ, φύλαξόν με ὑπὸ τὴν σκέπην σου."
 
-R24 = "Κατὰ τὴν περίοδον τοῦ 15 Αὐγούστου (ἢ μόνον τῇ 14ῃ Αὐγούστου) εἴθισται ἵνα ψάλλωνται, ἀντὶ τῶν ἀνωτέρω Θεοτοκίων, τὰ ἑπόμενα Ἐξαποστειλάρια."
+R24.rubric = "Κατὰ τὴν περίοδον τοῦ 15 Αὐγούστου (ἢ μόνον τῇ 14ῃ Αὐγούστου) εἴθισται ἵνα ψάλλωνται, ἀντὶ τῶν ἀνωτέρω Θεοτοκίων, τὰ ἑπόμενα Ἐξαποστειλάρια."
 
 hoCA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode3
 hoCA.Exaposteilarion1.melody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.name
