@@ -28,18 +28,18 @@ meDA.dismissal.incipit = ""
 meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode2
 meVE.Stichera01.greekmelody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.greekname
 meVE.Stichera01.melody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.name
-meVE.Stichera01.incipit = "Ὅτε, ἀγνωσίας ὁ κρυμός, πᾶσαν…"
-meVE.Stichera01.text = "Ὅτε, ἀγνωσίας ὁ κρυμός, πᾶσαν ἐπεκράτει τὴν κτίσιν, ταῖς ἐπηρείαις ἐχθροῦ, καὶ ἐθεραπεύετο ἡ τῶν εἰδώλων πληθύς, τότε ἔνδοξοι Μάρτυρες, προθύμῳ καρδίᾳ, ζέσει θείας πίστεως, τοῦτον ἐπαύσατε, πόθῳ ἐκκενοῦντες τὸ αἷμα, ὑπὲρ τοῦ τό, ἴδιον αἷμα, ἐπὶ τὸν Σταυρὸν σαφῶς κενώσαντος."
+meVE.Stichera01.incipit = "Ὅτε, ἀγνωσίας…"
+meVE.Stichera01.text = "Ὅτε, ἀγνωσίας ὁ κρυμός, πᾶσαν ἐπεκράτει τὴν κτίσιν, ταῖς ἐπηρείαις ἐχθροῦ, καὶ ἐθεραπεύετο, ἡ τῶν εἰδώλων πληθύς, τότε ἔνδοξοι Μάρτυρες, προθύμῳ καρδίᾳ, ζέσει θείας πίστεως, τοῦτον ἐπαύσατε, πόθῳ ἐκκενοῦντες τὸ αἷμα, ὑπὲρ τοῦ τὸ ἴδιον αἷμα, ἐπὶ τὸν Σταυρὸν σαφῶς κενώσαντος."
 
 meVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode2
 meVE.Stichera02.melody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.name
-meVE.Stichera02.incipit = "Παίων, ὁ γενναῖος ἀθλητής, Βαλλεριανὸς…"
-meVE.Stichera02.text = "Παίων, ὁ γενναῖος ἀθλητής, Βαλλεριανὸς καὶ Χαρίτων, καὶ Χαριτὼ σὺν αὐτῷ, θεῖος, Ἰουστῖνός τε καὶ ὁ Εὐέλπιστος, καὶ Ἱέραξ ὁ ἔνδοξος, στολὴν ἐξ αἱμάτων, θείαν ἐπιχρώσαντες, καὶ στολισάμενοι, ἅμα τῷ Δεσπότῃ τῶν ὅλων, ἐν τοῖς οὐρανοῖς μετʼ Ἀγγέλων τῷ παμβασιλεῖ Χριστῷ παρίστανται."
+meVE.Stichera02.incipit = "Παίων, ὁ γενναῖος…"
+meVE.Stichera02.text = "Παίων, ὁ γενναῖος ἀθλητής, Βαλλεριανὸς καὶ Χαρίτων, καὶ Χαριτὼ σὺν αὐτῷ, θεῖος Ἰουστῖνός τε, καὶ ὁ Εὐέλπιστος, καὶ Ἱέραξ ὁ ἔνδοξος, στολὴν ἐξ αἱμάτων, θείαν ἐπιχρώσαντες, καὶ στολισάμενοι, ἅμα τῷ Δεσπότῃ τῶν ὅλων, ἐν τοῖς οὐρανοῖς μετʼ Ἀγγέλων, τῷ παμβασιλεῖ Χριστῷ παρίστανται."
 
 meVE.Stichera03.mode = miscellanea_gr_GR_cog.misc.Mode2
 meVE.Stichera03.melody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.name
-meVE.Stichera03.incipit = "Ὅτε, ἐπινεύσει θεϊκῇ, πρὸς τοὺς…"
-meVE.Stichera03.text = "Ὅτε, ἐπινεύσει θεϊκῇ, πρὸς τοὺς ὑπὲρ φύσιν ἀγῶνας, προσεχωρήσατε, σῶμα τὸ φθειρόμενον ἀπαρνησάμενοι, τότε σθένει ῥωννύμενοι, τοῦ Παντοδυνάμου, πῦρ οὐκ ἑπτοήθητε, οὐ ξίφη τέμνοντα· ὅθεν τῷ Θεῷ τὸν αὐχένα, κλίναντες μακάριον τέλος, ἐν ἀγαλλιάσει ὑπεδέξασθε."
+meVE.Stichera03.incipit = "Ὅτε, ἐπινεύσει θεϊκῇ…"
+meVE.Stichera03.text = "Ὅτε, ἐπινεύσει θεϊκῇ, πρὸς τοὺς ὑπὲρ φύσιν ἀγῶνας, προσεχωρήσατε, σῶμα τὸ φθειρόμενον, ἀπαρνησάμενοι, τότε σθένει ῥωννύμενοι, τοῦ Παντοδυνάμου, πῦρ οὐκ ἐπτοήθητε, οὐ ξίφη τέμνοντα· ὅθεν τῷ Θεῷ τὸν αὐχένα, κλίναντες μακάριον τέλος, ἐν ἀγαλλιάσει ὑπεδέξασθε."
 
 meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.greekname
@@ -50,15 +50,15 @@ meVE.SticTheotokion.text = me.m02.d13_gr_GR_cog.meVE.SticTheotokion2.text
 meVE.SticStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode2
 meVE.SticStavrotheotokion.greekmelody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.name
-meVE.SticStavrotheotokion.incipit = "Πόνους ὑπομείνασα πολλούς…"
-meVE.SticStavrotheotokion.text = "Πόνους ὑπομείνασα πολλούς, ἐν τῇ τοῦ Υἱοῦ καὶ Θεοῦ σου, σταυρώσει Ἄχραντε, ἔστενες δακρύουσα, καὶ ὁλολύζουσα· Οἴμοι! τέκνον γλυκύτατον, ἀδίκως πῶς πάσχεις, πάντας θέλων ῥύσασθαι, τοὺς ἐξ Ἀδὰμ γηγενεῖς; Ὅθεν Παναγία Παρθένε, σὲ παρακαλοῦμεν ἐν πίστει, ἵλεων ἡμῖν τοῦτον ἀπέργασαι."
+meVE.SticStavrotheotokion.incipit = "Πόνους ὑπομείνασα…"
+meVE.SticStavrotheotokion.text = "Πόνους ὑπομείνασα πολλούς, ἐν τῇ τοῦ Υἱοῦ καὶ Θεοῦ σου, σταυρώσει Ἄχραντε, ἔστενες δακρύουσα, καὶ ὀλολύζουσα· Οἴμοι! τέκνον γλυκύτατον, ἀδίκως πῶς πάσχεις, πάντας θέλων ῥύσασθαι, τοὺς ἐξ Ἀδὰμ γηγενεῖς; Ὅθεν παναγία Παρθένε, σὲ παρακαλοῦμεν ἐν πίστει, ἵλεων ἡμῖν τοῦτον ἀπέργασαι."
 
 meVE.Apolytikion1ger.poet = poets_gr_GR_cog.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Apolytikion1ger.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
 meVE.Apolytikion1ger.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
-meVE.Apolytikion1ger.incipit = "Φιλοσοφίας ταῖς ἀκρῖσιν ἐκλάμπων, θεογνωσίας…"
-meVE.Apolytikion1ger.text = "Φιλοσοφίας ταῖς ἀκρῖσιν ἐκλάμπων, θεογνωσίας ὑποφήτης ἐδείχθης, σοφῶς παραταξάμενος κατὰ τῶν δυσμενῶν· σὺ γὰρ ὡμολόγησας, ἀληθείας τὴν γνῶσιν, καὶ Μαρτυρων σύσκηνος, διʼ ἀθλήσεως ὤφθης· μεθʼ ὦν δυσώπει πάντοτε Χριστόν, ὧ Ἰουστῖνε, ὑπὲρ τῶν ψυχῶν ἡμῶν."
+meVE.Apolytikion1ger.incipit = "Φιλοσοφίας ταῖς ἀκτῖσιν…"
+meVE.Apolytikion1ger.text = "Φιλοσοφίας ταῖς ἀκτῖσιν ἐκλάμπων, θεογνωσίας ὑποφήτης ἐδείχθης, σοφῶς παραταξάμενος κατὰ τῶν δυσμενῶν· σὺ γὰρ ὡμολόγησας, ἀληθείας τὴν γνῶσιν, καὶ Μαρτυρων σύσκηνος, διʼ ἀθλήσεως ὤφθης· μεθʼ ὧν δυσώπει πάντοτε Χριστόν, ὦ Ἰουστῖνε, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meMA.C1.title = titles_gr_GR_cog.ti.CanonSaints
 meMA.C1.verse = prayers_gr_GR_cog.pr.verse_SaintsM.text

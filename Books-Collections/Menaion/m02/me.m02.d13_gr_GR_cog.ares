@@ -60,8 +60,8 @@ meVE.SticGlory.text = "Χαίροις ἔντιμον καὶ πολυθαύμ
 meVE.SticTheotokion2.mode = miscellanea_gr_GR_cog.misc.Mode2
 meVE.SticTheotokion2.greekmelody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion2.melody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.name
-meVE.SticTheotokion2.incipit = "Σὺ εἶ τῶν Ἀγγέλων ἡ…"
-meVE.SticTheotokion2.text = "Σὺ εἶ τῶν Ἀγγέλων ἡ χαρά, σὺ εἶ τῶν ἀνθρώπων ἡ δόξα, σὺ τῶν πιστῶν ἡ ἐλπίς, Δέσποινα πανάμωμε, καὶ προστασία ἡμῶν· καὶ πρὸς σὲ καταφεύγοντες, ἐν πίστει βοῶμεν· Ὅπως ταῖς πρεσβείαις σου, ἐκ τῶν βελῶν τοῦ ἐχθροῦ, λύπης ψυχοφθόρου καὶ πάσης, θλίψεως ῥυσθείημεν πάντες, οἱ ἀνευφημοῦντές σε Θεόνυμφε."
+meVE.SticTheotokion2.incipit = "Σὺ εἶ τῶν Ἀγγέλων…"
+meVE.SticTheotokion2.text = "Σὺ εἶ τῶν Ἀγγέλων ἡ χαρά, σὺ εἶ τῶν ἀνθρώπων ἡ δόξα, σὺ τῶν πιστῶν ἡ ἐλπίς, Δέσποινα πανάμωμε, καὶ προστασία ἡμῶν· καὶ πρὸς σὲ καταφεύγοντες, ἐν πίστει βοῶμεν, ὅπως ταῖς πρεσβείαις σου, ἐκ τῶν βελῶν τοῦ ἐχθροῦ, λύπης ψυχοφθόρου καὶ πάσης, θλίψεως ῥυσθείημεν πάντες, οἱ ἀνευφημοῦντές σε Θεόνυμφε."
 
 meVE.SticStavrotheotokion2.mode = miscellanea_gr_GR_cog.misc.Mode2
 meVE.SticStavrotheotokion2.greekmelody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.greekname
