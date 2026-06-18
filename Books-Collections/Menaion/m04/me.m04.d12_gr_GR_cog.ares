@@ -26,36 +26,36 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.greekname
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
-meVE.Stichera01.incipit = "Ἡλίου φαιδρότερον, λελαμπρυσμένη ἡ μνήμη…"
+meVE.Stichera01.incipit = "Ἡλίου φαιδρότερον…"
 meVE.Stichera01.text = "Ἡλίου φαιδρότερον, λελαμπρυσμένη ἡ μνήμη σου, τοῖς πιστοῖς ἐξανέτειλε, τὴν κτίσιν φωτίζουσα, θείαις φρυκτωρίαις, Βασίλειε μάκαρ, καὶ παθημάτων τὴν ἀχλύν, καὶ τῶν δαιμόνων σκότος διώκουσα· διό σε μακαρίζομεν, καὶ ἐτησίως γεραίρομεν, τὴν ἁγίαν σου κοίμησιν, τὸν Σωτῆρα δοξάζοντες."
 
 meVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
-meVE.Stichera02.incipit = "Βέλει τῷ τῶν λόγων σου…"
-meVE.Stichera02.text = "Βέλει τῷ τῶν λόγων σου, παρανομούντων συστήματα, παμμακάριστε ἔτρωσας· φωνὴν ὅθεν ἔδωκαν, οὐρανῶν νεφέλαι, χοροὶ Ἀσωμάτων, συνεπεκρότησαν χαρᾷ, τῶν σῶν ἀγώνων τὴν καρτερότητα· διὸ ἐπαγαλλόμενοι, πίστει σὺν τούτοις τιμῶμέν σε, ὡς φωστῆρα παγκόσμιον, πρεσβευτὴν ὡς θερμότατον."
+meVE.Stichera02.incipit = "Βέλει τῷ τῶν λόγων…"
+meVE.Stichera02.text = "Βέλει τῷ τῶν λόγων σου, παρανομούντων συστήματα, παμμακάριστε ἔτρωσας· φωνὴν ὅθεν ἔδωκαν, οὐρανῶν νεφέλαι· χοροὶ Ἀσωμάτων, συνεπεκρότησαν χαρᾷ, τῶν σῶν ἀγώνων τὴν καρτερότητα· διὸ ἐπαγαλλόμενοι, πίστει σὺν τούτοις τιμῶμέν σε, ὡς φωστῆρα παγκόσμιον, πρεσβευτὴν ὡς θερμότατον."
 
 meVE.Stichera03.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
-meVE.Stichera03.incipit = "Σοφῶς ἀντικτώμενος, τῶν ἐπὶ γῆς…"
-meVE.Stichera03.text = "Σοφῶς ἀντικτώμενος, τῶν ἐπὶ γῆς τὰ οὐράνια, καὶ ῥεόντων τὰ ἄῤῥευστα, φθαρτῆς τε τὴν ἄφθαρτον, ἀντηλλάξω δόξαν, καὶ ἀντʼ ἐξορίας, καὶ πολυτρόπων πειρασμῶν, τὰ ὑπὲρ λόγον Θεοῦ βασίλεια, ἐν οἷς καὶ ἀγαλλόμενος, σὺν Ἀσωμάτοις Βασίλειε, ὑπὲρ πάντων ἱκέτευε, τῶν πιστῶς εὐφημούντων σε."
+meVE.Stichera03.incipit = "Σοφῶς ἀντικτώμενος…"
+meVE.Stichera03.text = "Σοφῶς ἀντικτώμενος, τῶν ἐπὶ γῆς τὰ οὐράνια, καὶ ῥεόντων τὰ ἄῤῥευστα, φθαρτῆς τε τὴν ἄφθαρτον, ἀντηλλάξω δόξαν· καὶ ἀντʼ ἐξορίας, καὶ πολυτρόπων πειρασμῶν, τὰ ὑπὲρ λόγον Θεοῦ βασίλεια· ἐν οἷς καὶ ἀγαλλόμενος, σὺν Ἀσωμάτοις Βασίλειε, ὑπὲρ πάντων ἱκέτευε, τῶν πιστῶς εὐφημούντων σε."
 
 meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
-meVE.SticTheotokion.incipit = "Ἄνθρακα κυήσασα, ὃν Ἠσαΐας τεθέαται…"
-meVE.SticTheotokion.text = "Ἄνθρακα κυήσασα, ὃν Ἠσαΐας τεθέαται, τῇ λαβίδι τὸ πρότερον, [φρικτῶς ὑπεδέξατο,] χρόνων δʼ ἐπʼ ἐσχάτων, ἐκ σοῦ Θεοτόκε, σάρκα ὀφθέντα καὶ βροτῶν, τὰ πάθη πάντα ἀποκαθαίροντα, πυρὶ τῷ τῆς Θεότητος, τὰς ἁμαρτίας κατάφλεξον, τὰς ἐμὰς Θεονύμφευτε, καὶ παντὸς ῥύπου πλῦνόν με."
+meVE.SticTheotokion.incipit = "Ἄνθρακα κυήσασα…"
+meVE.SticTheotokion.text = "Ἄνθρακα κυήσασα, ὃν Ἠσαΐας τεθέαται, τῇ λαβίδι τὸ πρότερον, φρικτῶς ὑπεδέξατο, χρόνων δʼ ἐπʼ ἐσχάτων, ἐκ σοῦ Θεοτόκε, σάρκα ὀφθέντα καὶ βροτῶν, τὰ πάθη πάντα ἀποκαθαίροντα, πυρὶ τῷ τῆς Θεότητος, τὰς ἁμαρτίας κατάφλεξον, τὰς ἐμὰς Θεονύμφευτε, καὶ παντὸς ῥύπου πλῦνόν με."
 
 meVE.SticStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.SticStavrotheotokion.greekmelody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
-meVE.SticStavrotheotokion.incipit = "Νεκρούμενον βλέπουσα, Χριστὸν ἡ πάναγνος…"
-meVE.SticStavrotheotokion.text = "Νεκρούμενον βλέπουσα, Χριστὸν ἡ πάναγνος Δέσποινα, καὶ νεκροῦντα τὸν δόλιον, ὡς μήτηρ δακρύουσα, ὕμνει τὸν ἐκ σπλάγχνων, αὐτῆς προελθόντα, καὶ τὸ μακρόθυμον αὐτοῦ, ἀποθαυμάζουσα ἀνεκραύγαζε· Τέκνον μου ποθεινότατον, μὴ ἐπιλάθῃ τῆς δούλης σου, μὴ βραδύνῃς φιλάνθρωπε, τὸ ἐμὸν καταθύμιον."
+meVE.SticStavrotheotokion.incipit = "Νεκρούμενον βλέπουσα…"
+meVE.SticStavrotheotokion.text = "Νεκρούμενον βλέπουσα, Χριστὸν ἡ πάναγνος Δέσποινα, καὶ νεκροῦντα τὸν δόλιον, ὡς μήτηρ δακρύουσα, ὕμνει τὸν ἐκ σπλάγχνων, αὑτῆς προελθόντα, καὶ τὸ μακρόθυμον αὐτοῦ, ἀποθαυμάζουσα ἀνεκραύγαζε· Τέκνον μου ποθεινότατον, μὴ ἐπιλάθῃ τῆς δούλης σου· μὴ βραδύνῃς φιλάνθρωπε, τὸ ἐμὸν καταθύμιον."
 
 meVE.Apolytikion1ger.poet = poets_gr_GR_cog.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Apolytikion1ger.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
 meVE.Apolytikion1ger.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
-meVE.Apolytikion1ger.incipit = "Ὡς ἱερεὺς τοῦ Βασιλέως τῆς…"
+meVE.Apolytikion1ger.incipit = "Ὡς ἱερεὺς τοῦ Βασιλέως…"
 meVE.Apolytikion1ger.text = "Ὡς ἱερεὺς τοῦ Βασιλέως τῆς δόξης, ὁμολογίας διαλάμπεις τῇ αἴγλῃ, Ἱερομάρτυς ἔνδοξε Βασίλειε· τῶν Εἰκονομάχων γάρ, τὴν ἀπάτην ἐλέγχων, πόνοις προσωμίλησας, ἡπὲρ τῆς ἀληθείας· καὶ μεταστὰς ἐν δόξῃ πρὸς Θεόν, τῶν σὲ τιμώντων, ἀπαύστως μνημόνευε."
 
 meMA.C1.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
