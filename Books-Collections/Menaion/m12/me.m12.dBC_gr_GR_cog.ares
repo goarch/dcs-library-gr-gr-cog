@@ -393,8 +393,8 @@ meMA.Ode6C2T.melody = he.h.m1_gr_GR_cog.heHE.SplanchnonIonan.name
 meMA.Ode6C2T.incipit = "Ὄρη καὶ βουνοί, πεδία καὶ…"
 meMA.Ode6C2T.text = "Ὄρη καὶ βουνοί, πεδία καὶ φάραγγες, λαοὶ καὶ φυλαί, ἔθνη καὶ πᾶσα πνοή, ἀλαλάξατε, εὐφροσύνης ἐνθέου πληρούμενα· ἦλθε πάντων ἐπεδήμησεν ἡ λύτρωσις, Λόγος τοῦ Θεοῦ ὁ ἄχρονος, ὑπὸ χρόνον διʼ οἶκτον γενόμενος."
 
-meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode6
-meMA.Kontakion1.melody = ""
+meMA.Kontakion1.mode = me.m12.d17_gr_GR_cog.meMA.Kontakion2.mode
+meMA.Kontakion1.melody = me.m12.d17_gr_GR_cog.meMA.Kontakion2.melody
 meMA.Kontakion1.incipit = me.m12.d17_gr_GR_cog.meMA.Kontakion2.incipit
 meMA.Kontakion1.text = me.m12.d17_gr_GR_cog.meMA.Kontakion2.text
 

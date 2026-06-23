@@ -26,17 +26,17 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.Stichera01.greekmelody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.greekname
 meVE.Stichera01.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
-meVE.Stichera01.incipit = "Αἴγλῃ παρθενίας λάμπουσα, Θεοδοσία σεμνή…"
-meVE.Stichera01.text = "Αἴγλῃ παρθενίας λάμπουσα, Θεοδοσία σεμνή, καὶ πορφύραν διʼ αἵματος, μαρτυρίου πάνσοφε, βεβαμμένην λαμπρότατα, περιθεμένη καὶ ὑπερκόσμιον, Χριστοῦ νυμφῶνα κατασκηνώσασα, κόρη πανάμωμε, συγχορεύεις τάξεσιν, Ἀγγελικαῖς, ὄντως ἀκατάλυτον, χορείαν ἔνδοξε."
+meVE.Stichera01.incipit = "Αἴγλῃ παρθενίας…"
+meVE.Stichera01.text = "Αἴγλῃ παρθενίας λάμπουσα, Θεοδοσία σεμνή, καὶ πορφύραν διʼ αἵματος, μαρτυρίου πάνσοφε, βεβαμμένην λαμπρότατα, περιθεμένη καὶ ὑπερκόσμιον, Χριστοῦ νυμφῶνα κατασκηνώσασα, κόρη πανάμωμε, συγχορεύεις τάξεσιν, ἀγγελικαῖς, ὄντως ἀκατάλυτον, χορείαν ἔνδοξε."
 
 meVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.Stichera02.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
-meVE.Stichera02.incipit = "Μάρτυς παρθένε πανεύφημε, Θεοδοσία Χριστόν…"
-meVE.Stichera02.text = "Μάρτυς παρθένε πανεύφημε, Θεοδοσία Χριστόν, ὁλοκλήρως ποθήσασα, τῶν βασάνων ἤνεγκας, τὰς πληγὰς καρτερώτατα, αἰκιζομένη διὰ τὸν σὸν ἐραστήν, καὶ ξεομένη πλευρὰς ταῖς μάστιξιν· Ὢ τῶν ἀγώνων σου, καρτερᾶς ἐνστάσεως! διʼ ἧς πρὸς γῆν, ὄντως καταβέβληκας, τὸν ὑπερήφανον."
+meVE.Stichera02.incipit = "Μάρτυς παρθένε…"
+meVE.Stichera02.text = "Μάρτυς παρθένε πανεύφημε, Θεοδοσία Χριστόν, ὁλοκλήρως ποθήσασα, τῶν βασάνων ἤνεγκας, τὰς πληγὰς καρτερώτατα, αἰκιζομένη διὰ τὸν σὸν ἐραστήν, καὶ ξεομένη πλευρὰς ταῖς μάστιξιν· ὢ τῶν ἀγώνων σου, καρτερᾶς ἐνστάσεως! διʼ ἧς πρὸς γῆν, ὄντως καταβέβληκας, τὸν ὑπερήφανον."
 
 meVE.Stichera03.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.Stichera03.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
-meVE.Stichera03.incipit = "Κάλλει ψυχῆς τε καὶ σώματος…"
+meVE.Stichera03.incipit = "Κάλλει ψυχῆς…"
 meVE.Stichera03.text = "Κάλλει ψυχῆς τε καὶ σώματος, κεκοσμημένη φαιδρῶς, τῷ Χριστῷ προσενήνεξαι, τὸν τῆς δόξης στέφανον, παρʼ αὐτοῦ ἀναδήσασθαι, Θεοδοσία Μάρτυς πανένδοξε, καὶ βασιλείας σαφῶς διάδημα, ὄντως πολύτιμον, ἐπαξίως δέδεξαι, σῇ κορυφῇ, νύμφη παναμώμητος, φανεῖσα πάνσοφε."
 
 meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -55,7 +55,7 @@ meVE.Apolytikion1ger.poet = poets_gr_GR_cog.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Apolytikion1ger.greekmelody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1ger.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
-meVE.Apolytikion1ger.incipit = "Ὡς δόσιν θεόσδοτον, τὴν παρθενίαν…"
+meVE.Apolytikion1ger.incipit = "Ὡς δόσιν θεόσδοτον…"
 meVE.Apolytikion1ger.text = "Ὡς δόσιν θεόσδοτον, τὴν παρθενίαν τὴν σήν, ἀγῶσιν ἀθλήσεως, Θεοδοσία σεμνή, τῷ Λόγῳ προσήγαγες· ὅθεν πρὸς ἀθανάτους, μεταστάσα νυμφῶνας, πρέσβευε Ἀθληφόρε, τῷ Δεσπότῃ τῶν ὅλων, ῥυσθῆναι ἐκ πολυτρόπων, ἡμᾶς συμπτώσεων."
 
 meMA.C1.acrostic.title = "Κανὼν τῆς Ἁγίας,"
@@ -216,8 +216,8 @@ meMA.Ode6H.text = he.h.m4_gr_GR_cog.heHE.ThysoSoiMetaFonis.text
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.Kontakion1.greekmelody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.name
-meMA.Kontakion1.incipit = "Τοῖς πόνοις ζωήν, τὴν ἄπονον…"
-meMA.Kontakion1.text = "Τοῖς πόνοις ζωήν, τὴν ἄπονον κεκλήρωσαι, τοῖς αἵμασι δέ, τὸν Λέοντα ἀπέπνιξας, τὸν ἐχθρὸν τὸν βέβηλον, Ἐκκλησίας Χριστοῦ πανεύφημε, καὶ αὐτῷ συγχαίρουσα νῦν, δυσώπει ἀπαύστως ὑπὲρ πάντων ἡμῶν."
+meMA.Kontakion1.incipit = "Τοῖς πόνοις ζωήν…"
+meMA.Kontakion1.text = "Τοῖς πόνοις ζωήν, τὴν ἄπονον κεκλήρωσαι· τοῖς αἵμασι δέ, τὸν λέοντα ἀπέπνιξας, τὸν ἐχθρὸν τὸν βέβηλον, Ἐκκλησίας Χριστοῦ πανεύφημε· καὶ αὐτῷ συγχαίρουσα νῦν, δυσώπει ἀπαύστως ὑπὲρ πάντων ἡμῶν."
 
 meMA.Ode7C11.ode = miscellanea_gr_GR_cog.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_gr_GR_cog.misc.Mode4
