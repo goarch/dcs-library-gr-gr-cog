@@ -8,7 +8,7 @@ meDA.commemoration.first_title = "Τοῦ Ἁγ. Παρθενίου."
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "Τοῦ Ὁσίου Λουκᾶ."
 meDA.commemoration.second_name = ""
-meDA.insert1 = "καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Παρθενίου, Ἐπισκόπου Λαμψάκων, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Λουκᾶ, τοῦ ἐν τῷ Στειρίῳ τῆς Ἑλλάδος," //for use in petitions and dismissal
+meDA.insert1 = "τοῦ Ὁσίου Πατρὸς ἡμῶν Παρθενίου, Ἐπισκόπου Λαμψάκων, καὶ τοῦ Ὁσίου Πατρὸς ἡμῶν Λουκᾶ, τοῦ ἐν τῷ Στειρίῳ τῆς Ἑλλάδος," //for use in petitions and dismissal
 meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
 meDA.note = ""
 meDA.pdfcoverdate = "τῆς 7ης Φεβρουαρίου,"
@@ -765,7 +765,7 @@ meMA.Ode3KathismaSt.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 meMA.Ode3KathismaSt.incipit = me.m01.d24_gr_GR_cog.meMA.Ode3KathismaSt.incipit
 meMA.Ode3KathismaSt.text = me.m01.d24_gr_GR_cog.meMA.Ode3KathismaSt.text
 
-alt1.meDA.insert1 = "καὶ τοῦ ὁσίου πατρὸς ἡμῶν Παρθενίου, ἐπισκόπου Λαμψάκων," //for use in petitions and dismissal
+alt1.meDA.insert1 = "τοῦ ὁσίου πατρὸς ἡμῶν Παρθενίου, ἐπισκόπου Λαμψάκων," //for use in petitions and dismissal
 alt1.meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" //for use in petitions and dismissal
 alt1.meDA.poet = "Γερασίμου μοναχοῦ Μικραγιαννανίτου"
 alt1.meDA.source = "https://akolouthiesorthodox.blogspot.com/2019/09/7_13.html"
