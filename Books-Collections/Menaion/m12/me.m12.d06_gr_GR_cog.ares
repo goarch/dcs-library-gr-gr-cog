@@ -10,7 +10,7 @@ meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
 meDA.insert1 = "τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Νικολάου, Ἀρχιεπισκόπου Μύρων τῆς Λυκίας, τοῦ θαυματουργοῦ," // for use in petitions and dismissal
 meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
-meDA.note = ""
+meDA.note = "nicholas_wonderworker"
 meDA.pdfcoverdate = "τῆς 6ης Δεκεμβρίου,"
 meDA.pdfdatebefore = "τῆς 5ης Δεκεμβρίου"
 meDA.pdfheaderdate = "τῆς 6ης Δεκεμβρίου"
@@ -190,6 +190,13 @@ meVE.AposBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
 meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = "Ἀνύμφευτε Παρθένε…"
 meVE.AposBoth.text = "Ἀνύμφευτε Παρθένε, πόθεν ἥκεις; τίς ὁ τεκών σε; τίς καὶ ἡ Μήτηρ σου; πῶς τὸν Κτίστην φέρεις ἐν ἀγκάλαις; πῶς οὐκ ἐφθάρης τὴν νηδύν; μεγάλων παραδόξων ἐπὶ σοὶ φρικτῶν μυστηρίων, ἐπὶ γῆς τελουμένων, ὁρῶμεν Παναγία, καὶ προευτρεπίζομεν ἐπάξιόν σοι χρέος, ἐκ τῆς γῆς τὸ Σπήλαιον· καὶ οὐρανὸν αἰτοῦμεν, παρασχεῖν τὸν Ἀστέρα· καὶ Μάγοι δὲ προέρχονται, ἀπὸ Ἀνατολῶν τῆς γῆς, εἰς δυσμὰς θεάσασθαι, τὴν σωτηρίαν τῶν βροτῶν, ὡς βρέφος γαλουχούμενον."
+
+meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
+meVE.Apolytikion1.greekmelody = ""
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.common = he.ga_gr_GR_cog.heGA.KanonaPisteos.name
+meVE.Apolytikion1.incipit = "Κανόνα πίστεως…"
+meVE.Apolytikion1.text = "Κανόνα πίστεως καὶ εἰκόνα πραότητος, ἐγκρατείας διδάσκαλον, ἀνέδειξέ σε τῇ ποίμνῃ σου, ἡ τῶν πραγμάτων ἀλήθεια· διὰ τοῦτο ἐκτήσω τῇ ταπεινώσει τὰ ὑψηλά, τῇ πτωχείᾳ τὰ πλούσια, Πάτερ ἱεράρχα Νικόλαε· πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.GeneralApolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.heGA.KanonaPisteos.name

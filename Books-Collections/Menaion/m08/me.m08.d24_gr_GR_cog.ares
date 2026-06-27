@@ -809,7 +809,7 @@ alt2.meDA.commemoration.second_title = ""
 alt2.meDA.commemoration.second_name = ""
 alt2.meDA.insert1 = "τοῦ ἐν ἁγίοις Πατρός ἡμῶν Διονυσίου, Ἀρχιεπισκόπου Αἰγίνης, τοῦ Θαυματουργοῦ," //for use in petitions and dismissal
 alt2.meDA.insert2 = "οὗ καὶ τὴν μνήμην τῆς μετακομιδῆς τοῦ ἁγίου λειψάνου ἑορτάζομεν·" // for use in petitions and dismissal
-alt2.meDA.note = "https://akolouthiesorthodox.blogspot.com/2018/06/24_21.html"
+alt2.meDA.note = ""
 alt2.meLE.commemoration1 = ""
 alt2.meLE.commemoration2 = ""
 alt2.meHO.number = ""
@@ -819,6 +819,7 @@ alt2.meHO.note1 = ""
 alt2.meHO.note2 = ""
 alt2.meDA.dismissal = ""
 alt2.meDA.dismissal.incipit = ""
+//https://akolouthiesorthodox.blogspot.com/2018/06/24_21.html
 
 alt2.meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode2
 alt2.meVE.Stichera01.greekmelody = he.a.m2_gr_GR_cog.heAU.OteEkTouXylou.greekname

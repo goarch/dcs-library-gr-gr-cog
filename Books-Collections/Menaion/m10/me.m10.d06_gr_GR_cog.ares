@@ -10,7 +10,7 @@ meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
 meDA.insert1 = "τοῦ ἁγίου ἐνδόξου Ἀποστόλου Θωμᾶ," // for use in petitions and dismissal
 meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
-meDA.note = ""
+meDA.note = "thomas_apostle"
 meDA.pdfcoverdate = "τῆς 6ης Ὀκτωβρίου,"
 meDA.pdfdatebefore = "τῆς 5ης Ὀκτωβρίου"
 meDA.pdfheaderdate = "τῆς 6ης Ὀκτωβρίου"
@@ -78,6 +78,11 @@ meVE.AposTheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.greekna
 meVE.AposTheotokion.melody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.name
 meVE.AposTheotokion.incipit = "Ὅταν μου εἰς ἔννοιαν…"
 meVE.AposTheotokion.text = "Ὅταν μου εἰς ἔννοιαν, τὸ φοβερὸν ἔλθῃ βῆμα, τοῦ Υἱοῦ σου Πάναγνε, καὶ τὸ δικαστήριον τὸ παγκόσμιον, ἀπορῶ δέδοικα, δειλιῶν καὶ τρέμων, τὴν τῶν ἔργων μου ἐξέτασιν· φαῦλα γὰρ ἅπαντα, καὶ αἰσχύνης πάσης ἀνάπλεα, καὶ σκότους καὶ κολάσεως, καὶ ἀποστροφῆς ὄντως ἄξια. Ἴδε μου τὴν θλῖψιν, καὶ ἴδε τῆς ψυχῆς τὴν συντριβήν, καὶ τῆς ἀνάγκης ἐκείνης με, ῥῦσαι καὶ κολάσεως."
+
+meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode3
+meVE.Apolytikion1.common = he.ga_gr_GR_cog.heGA.ApostoleAgie.name
+meVE.Apolytikion1.incipit = "Ἀπόστολε Ἅγιε…"
+meVE.Apolytikion1.text = "Ἀπόστολε Ἅγιε Θωμᾶ, πρέσβευε τῷ ἐλεήμονι Θεῷ, ἵνα πταισμάτων ἄφεσιν, παράσχῃ ταῖς ψυχαῖς ἡμῶν."
 
 meVE.GeneralApolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.heGA.ApostoleAgie.name

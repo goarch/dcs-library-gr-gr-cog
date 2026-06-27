@@ -5,7 +5,7 @@ trDA.commemoration.short = "Κυριακὴ Εʹ τῶν Νηστειῶν τῆ
 trDA.title = titles_gr_GR_cog.ti.SaintW
 trDA.insert1 = "τῆς ὁσίας Μητρὸς ἡμῶν Μαρίας τῆς Αἰγυπτίας," //for use in petitions and dismissal
 trDA.insert2 = "ἧς καὶ τὴν μνήμην ἐπιτελοῦμεν," //for use in petitions and dismissal
-trDA.note = ""
+trDA.note = "mary_egypt"
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
@@ -51,8 +51,12 @@ trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.incipit = oc.m2.d1_gr_GR_cog.ocVE.AposTheotokion.incipit
 trVE.AposTheotokion.text = oc.m2.d1_gr_GR_cog.ocVE.AposTheotokion.text
 
-trVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode8
-trVE.Apolytikion1.melody = he.ga_gr_GR_cog.heGA.EnSoiMiterAkrivos.name
+trVE.Apolytikion1.mode = me.m04.d01_gr_GR_cog.meVE.Apolytikion1.mode
+trVE.Apolytikion1.common = me.m04.d01_gr_GR_cog.meVE.Apolytikion1.common
+trVE.Apolytikion1.melody = ""
+trVE.Apolytikion1.incipit = me.m04.d01_gr_GR_cog.meVE.Apolytikion1.incipit
+trVE.Apolytikion1.text = me.m04.d01_gr_GR_cog.meVE.Apolytikion1.text
+
 trVE.GeneralApolytikion1.name = "Μαρία"
 trVE.Apolytikion1.text = properties_gr_GR_cog.media.key
 

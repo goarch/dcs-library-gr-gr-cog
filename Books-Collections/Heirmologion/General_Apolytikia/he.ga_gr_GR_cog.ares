@@ -17,7 +17,7 @@ heGA.ApostoleAgie.mode = miscellanea_gr_GR_cog.misc.Mode3
 heGA.ApostoleAgie.melody = ""
 heGA.ApostoleAgie.text1 = "Ἀπόστολε Ἅγιε"
 heGA.ApostoleAgie.text1a = "καὶ Εὐαγγελιστὰ"
-heGA.ApostoleAgie.text2 = " πρέσβευε τῷ ἐλεήμονι Θεῷ, ἵνα πταισμάτων ἄφεσιν, παράσχῃ ταῖς ψυχαῖς ἡμῶν."
+heGA.ApostoleAgie.text2 = "πρέσβευε τῷ ἐλεήμονι Θεῷ, ἵνα πταισμάτων ἄφεσιν, παράσχῃ ταῖς ψυχαῖς ἡμῶν."
 
 // For several unnamed Apostles
 heGA.ApostoloiAgioi.name = "Ἀπόστολοι Ἅγιοι."

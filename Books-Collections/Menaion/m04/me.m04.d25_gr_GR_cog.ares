@@ -10,7 +10,7 @@ meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
 meDA.insert1 = "τοῦ ἁγίου Ἀποστόλου καὶ Εὐαγγελιστοῦ Μάρκου," // for use in petitions and dismissal
 meDA.insert2 = "οὗ καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
-meDA.note = ""
+meDA.note = "mark"
 meDA.pdfcoverdate = "τῆς 25ης Ἀπριλίου,"
 meDA.pdfdatebefore = "τῆς 24ης Ἀπριλίου"
 meDA.pdfheaderdate = "τῆς 25ης Ἀπριλίου"
@@ -83,12 +83,19 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Δεῦτε τῆς οὐρανίου…"
 meVE.AposGlory.text = "Δεῦτε τῆς οὐρανίου μυσταγωγίας τὸν κήρυκα, καὶ ὑποφήτην τοῦ Εὐαγγελίου, ψαλμοῖς καὶ ὑμνῳδίαις, Μᾶρκον πάντες εὐφημήσωμεν. Οὗτος γὰρ ποταμὸς ἀνεδείχθη τοῦ νοητοῦ Παραδείσου, τὰς ψυχικὰς ἀρούρας, τοῖς οὐρανίοις ὄμβροις ἐπάρδων, καὶ καρποφόρους δεικνύων Χριστῷ τῷ Θεῷ, τῷ παρέχοντι πᾶσι ταῖς πρεσβείαις αὐτοῦ, ἱλασμόν, καὶ τὸ μέγα ἔλεος."
 
-meVE.Apolytikion1ger.poet = poets_gr_GR_cog.po.Gerasimou
-meVE.Apolytikion1ger.mode = miscellanea_gr_GR_cog.misc.Mode4
-meVE.Apolytikion1ger.greekmelody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.greekname
-meVE.Apolytikion1ger.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
-meVE.Apolytikion1ger.incipit = "Τοῦ Πέτρου συνέκδημος…"
-meVE.Apolytikion1ger.text = "Τοῦ Πέτρου συνέκδημος, καὶ κοινωνὸς ἱερός, τοῦ Λόγου διάκονος, καὶ ὑποφήτης σοφός, ἐδείχθης Ἀπόστολε· ὅθεν τὸ τοῦ Σωτῆρος, Εὐαγγέλιον θεῖον, Μᾶρκε διαχαράττεις, ὡς οὐράνιος μύστης· διὸ Εὐαγγελιστά σε, πόθῳ γεραίρομεν."
+meVE.Apolytikion2ger.poet = poets_gr_GR_cog.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_gr_GR_cog.misc.Mode4
+meVE.Apolytikion2ger.greekmelody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.greekname
+meVE.Apolytikion2ger.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
+meVE.Apolytikion2ger.incipit = "Τοῦ Πέτρου συνέκδημος…"
+meVE.Apolytikion2ger.text = "Τοῦ Πέτρου συνέκδημος, καὶ κοινωνὸς ἱερός, τοῦ Λόγου διάκονος, καὶ ὑποφήτης σοφός, ἐδείχθης Ἀπόστολε· ὅθεν τὸ τοῦ Σωτῆρος, Εὐαγγέλιον θεῖον, Μᾶρκε διαχαράττεις, ὡς οὐράνιος μύστης· διὸ Εὐαγγελιστά σε, πόθῳ γεραίρομεν."
+
+meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode3
+meVE.Apolytikion1.common = he.ga_gr_GR_cog.heGA.ApostoleAgie.name
+meVE.Apolytikion1.greekmelody = ""
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.incipit = "Ἀπόστολε Ἅγιε…"
+meVE.Apolytikion1.text = "Ἀπόστολε Ἅγιε καὶ Εὐαγγελιστὰ Μᾶρκε, πρέσβευε τῷ ἐλεήμονι Θεῷ, ἵνα πταισμάτων ἄφεσιν, παράσχῃ ταῖς ψυχαῖς ἡμῶν."
 
 meVE.GeneralApolytikion1.name = "Μᾶρκε,"
 meVE.MM.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
