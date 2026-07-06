@@ -62,8 +62,8 @@ meVE.Aposticha3.text = "Περίζωσον δύναμιν, ἡμᾶς Παρθ
 
 meVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
 meVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
-meVE.AposGlory.incipit = "Φρένας καθάραντες…"
-meVE.AposGlory.text = "Φρένας καθάραντες καὶ νοῦν, σὺν τοῖς Ἀγγέλοις καὶ ἡμεῖς πανηγυρίσωμεν, φαιδρῶς ἐξάρχοντες δαυϊτικὴν μελῳδίαν, τῇ νεάνιδι Νύμφῃ τοῦ παμβασιλέως Χριστοῦ τοῦ Θεοῦ ἡμῶν· Ἀνάστηθι Κύριε, λέγοντες, εἰς τὴν ἀνάπαυσίν σου, σὺ καὶ ἡ κιβωτὸς τοῦ ἁγιάσματός σου. Ὡς γὰρ παλάτιον τερπνόν, ταύτην κατεκόσμησας, καὶ κατεκλήρωσας αὐτήν, τῇ πόλει σου Δέσποτα, περιποιεῖσθαι καὶ σκέπειν, ἐκ πολεμίων βαρβάρων, τῇ κραταιᾷ δυνάμει σου, ταῖς ἱκεσίαις αὐτῆς." //similar to me.m07.d02.meVE.SticGlory.text
+meVE.AposGlory.incipit = me.m07.d02_gr_GR_cog.meVE.SticGlory.incipit
+meVE.AposGlory.text = me.m07.d02_gr_GR_cog.meVE.SticGlory.text
 
 meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.Apolytikion1.melody = ""

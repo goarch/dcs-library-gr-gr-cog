@@ -64,7 +64,7 @@ ocVE.ApolTheotokionVM.mode = miscellanea_gr_GR_cog.misc.Mode5
 ocVE.ApolTheotokionVM.greekmelody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.greekname
 ocVE.ApolTheotokionVM.melody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.name
 ocVE.ApolTheotokionVM.incipit = "Τὴν ταχεῖάν σου σκέπην…"
-ocVE.ApolTheotokionVM.text = "Τὴν ταχεῖάν σου σκέπην, καὶ τὴν βοήθειαν, καὶ τὸ ἔλεος δεῖξον, ἐπὶ τὸν δοῦλόν σου, καὶ τὰ κύματα Ἁγνὴ καταπράϋνον, τῶν ματαίων λογισμῶν, καὶ τὴν πεσοῦσάν μου ψυχήν, ἀνάστησον Θεοτόκε· οἶδα γὰρ ὅτι Παρθένε, ἰσχύεις ὅσα καὶ βούλεσαι."
+ocVE.ApolTheotokionVM.text = "Τὴν ταχεῖάν σου σκέπην, καὶ τὴν βοήθειαν, καὶ τὸ ἔλεος δεῖξον, ἐπὶ τὸν δοῦλόν σου· καὶ τὰ κύματα Ἁγνὴ καταπράϋνον, τῶν ματαίων λογισμῶν, καὶ τὴν πεσοῦσάν μου ψυχήν, ἀνάστησον Θεοτόκε· οἶδα γὰρ ὅτι Παρθένε, ἰσχύεις ὅσα καὶ βούλεσαι."
 
 ocMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode5
 ocMA.Kathisma11.melody = ""
