@@ -48,8 +48,8 @@ meVE.SticTheotokion.text = oc.m4.d4_gr_GR_cog.ocVE.Stichera4.text
 meVE.SticStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.SticStavrotheotokion.greekmelody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
-meVE.SticStavrotheotokion.incipit = "Νεκρούμενον βλέπουσα, Χριστὸν ἡ πάναγνος…"
-meVE.SticStavrotheotokion.text = "Νεκρούμενον βλέπουσα, Χριστὸν ἡ πάναγνος Δέσποινα, καὶ νεκροῦντα τὸν δόλιον, ὡς Δεσπότην κλαίουσα, ὕμνει τὸν ἐκ σπλάγχνων, αὐτῆς προελθόντα, καὶ τὸ μακρόθυμον αὐτοῦ, ἀποθαυμάζουσα ἀνεκραύγαζε· Τέκνον μου ποθεινότατον, μὴ ἐπιλάθῃ τῆς δούλης σου, μὴ βραδύνῃς φιλάνθρωπε, τὸ ἐμὸν καταθύμιον."
+meVE.SticStavrotheotokion.incipit = "Νεκρούμενον βλέπουσα…"
+meVE.SticStavrotheotokion.text = "Νεκρούμενον βλέπουσα, Χριστὸν ἡ πάναγνος Δέσποινα, καὶ νεκροῦντα τὸν δόλιον, ὡς Δεσπότην κλαίουσα, ὕμνει τὸν ἐκ σπλάγχνων, αὑτῆς προελθόντα, καὶ τὸ μακρόθυμον αὐτοῦ, ἀποθαυμάζουσα ἀνεκραύγαζε· Τέκνον μου ποθεινότατον, μὴ ἐπιλάθῃ τῆς δούλης σου, μὴ βραδύνῃς φιλάνθρωπε, τὸ ἐμὸν παραμύθιον."
 
 meVE.Apolytikion1ger.poet = poets_gr_GR_cog.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_gr_GR_cog.misc.Mode4
