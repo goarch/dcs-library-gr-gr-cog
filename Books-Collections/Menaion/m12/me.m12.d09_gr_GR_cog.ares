@@ -123,8 +123,8 @@ meMA.Kathisma21.text = "Ἀδὰμ ἀνακαινίσθητι, καὶ Εὔα
 meMA.Kathisma31.mode = miscellanea_gr_GR_cog.misc.Mode4
 meMA.Kathisma31.greekmelody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.name
-meMA.Kathisma31.incipit = "Ἀναβόησον Δαυΐδ, τί ὤμοσέ σοι…"
-meMA.Kathisma31.text = "Ἀναβόησον Δαυΐδ, τί ὤμοσέ σοι ὁ Θεός; Ἅ μοι ὤμοσε φησί, ἐκπεπλήρωκεν ἰδού, ἐκ τοῦ καρποῦ τῆς κοιλίας μου δοὺς τὴν Παρθένον· ἐξ ἧς ὁ πλαστουργός, Χριστός ὁ νέος Ἀδάμ, ἐτέχθη Βασιλεύς, ἐπὶ τοῦ θρόνου μου, καὶ βασιλεύει σήμερον, ὁ ἔχων τὴν βασιλείαν ἀσάλευτον. Ἡ στεῖρα τίκτει, τὴν Θεοτόκον, καὶ τροφὸν τῆς ζωῆς ἤμών."
+meMA.Kathisma31.incipit = me.m09.d08_gr_GR_cog.meMA.Kathisma11.incipit
+meMA.Kathisma31.text = me.m09.d08_gr_GR_cog.meMA.Kathisma11.text
 
 meMA.C1.poet = poets_gr_GR_cog.po.IoannouMonachou
 meMA.C1.title = titles_gr_GR_cog.ti.CanonConsecration
