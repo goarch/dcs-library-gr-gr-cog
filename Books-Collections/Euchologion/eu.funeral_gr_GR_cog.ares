@@ -6,6 +6,7 @@ euFUN.translator = ""
 
 euFUN.Key0100.title = "ΤΟ ΤΡΙΣΑΓΙΟΝ"
 
+euFUN.Key0101.title = "Μνημόσυνα Τροπάρια."
 euFUN.Key0101.mode = miscellanea_gr_GR_cog.misc.Mode4
 euFUN.Key0101.incipit = oc.m4.d7_gr_GR_cog.ocVE.Aposticha4.incipit
 euFUN.Key0101.text = oc.m4.d7_gr_GR_cog.ocVE.Aposticha4.text
