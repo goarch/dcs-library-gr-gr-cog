@@ -27,8 +27,8 @@ index.day.title = "" //where is this displayed?
 index.day.title2.date.prefix = "GOA Digital Chant Stand<br>Services for "
 index.day.date.format = "EEEE, MMM d, yyyy" // controls the format of dates in the index
 index.day.title2.date.suffix = ""
-index.day.description1 = "<em>Print</em> links open the pdf files for printing. <em>View</em> links open the html texts with links to scores and audio."
-index.day.description2 = "Click the red button next to a link to download the service in Word format. Save and open the .doc file with Word or other similar program to edit it."
+//index.day.description1 = "<em>Print</em> links open the pdf files for printing. <em>View</em> links open the html texts with links to scores and audio."
+//index.day.description2 = "Click the red button next to a link to download the service in Word format. Save and open the .doc file with Word or other similar program to edit it."
 //index.day.description3 = "The date/time stamp (EST) next to a label indicates when the file was last updated."
 //You can have any number of index.day.descriptions, e.g.
 //index.day.description4 = "I am the day index description 4"
