@@ -48,8 +48,8 @@ meVE.SticTheotokion.text = "Δεῦρο ψυχή μου στενάζουσα, 
 meVE.SticStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.SticStavrotheotokion.greekmelody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
-meVE.SticStavrotheotokion.incipit = "Σὲ καθηλούμενον βλέπουσα, ἐν τῷ…"
-meVE.SticStavrotheotokion.text = "Σὲ καθηλούμενον βλέπουσα, ἐν τῷ Σταυρῷ Ἰησοῦ, καὶ τὰ πάθη δεχόμενον, ἑκουσίως Δέσποτα, ἡ Παρθένος καὶ Μήτηρ σου, Τέκνον, ἐβόα Τέκνον γλυκύτατον, πληγάς ἀδίκων πῶς φέρεις ὁ ἰατρός, ὁ ἰασάμενος, τὴν βροτῶν ἀσθένειαν, καὶ τῆς φθορᾶς, ἅπαντας ῥυσάμενος, τῇ εὐσπλαγχνίᾳ σου;"
+meVE.SticStavrotheotokion.incipit = "Σὲ καθηλούμενον…"
+meVE.SticStavrotheotokion.text = "Σὲ καθηλούμενον βλέπουσα, ἐν τῷ Σταυρῷ Ἰησοῦ, καὶ τὰ πάθη δεχόμενον, ἑκουσίως Δέσποτα, ἡ Παρθένος καὶ Μήτηρ σου, Τέκνον ἐβόα, τέκνον γλυκύτατον, πληγὰς ἀδίκως πῶς φέρεις ὁ Ἰατρός, ὁ ἰασάμενος, τὴν βροτῶν ἀσθένειαν, καὶ τῆς φθορᾶς, ἅπαντας ῥυσάμενος, τῇ εὐσπλαγχνίᾳ σου;"
 
 meVE.Apolytikion1ger.poet = poets_gr_GR_cog.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_gr_GR_cog.misc.Mode4
