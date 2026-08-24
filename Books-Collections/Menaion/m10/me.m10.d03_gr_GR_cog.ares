@@ -349,7 +349,7 @@ meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.Exaposteilarion1.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "Τῷ Παύλῳ Διονύσιε…"
-meMA.Exaposteilarion1.text = "Τῷ Παύλῳ Διονύσιε, τῷ κλεινῷ κορυφαίῳ, μαθητευθεὶς πανόλβιε, ὑπʼ αὐτοῦ ἐμυήθης, τῶν ἀποκρύφων τὴν γνῶσιν· ὅθεν σε καὶ λαμπτῆρα, τῇ Ἐκκλησίᾳ τίθησιν, Ἀθηνῶν προχειρίσας, τῆς εὐσεβοῦς, Ἱεράρχην πόλεως· ἣν φυλάττοις, ὀρθοδοξοῦσαν πάνσοφε, σαῖς εὐχαὶς θεοκῆρυξ."
+meMA.Exaposteilarion1.text = "Τῷ Παύλῳ Διονύσιε, τῷ κλεινῷ κορυφαίῳ, μαθητευθεὶς πανόλβιε, ὑπʼ αὐτοῦ ἐμυήθης, τῶν ἀποκρύφων τὴν γνῶσιν· ὅθεν σε καὶ λαμπτῆρα, τῇ Ἐκκλησίᾳ τίθησιν, Ἀθηνῶν προχειρίσας, τῆς εὐσεβοῦς, Ἱεράρχην πόλεως· ἣν φυλάττοις, ὀρθοδοξοῦσαν πάνσοφε, σαῖς εὐχαὶς θεοκήρυξ."
 
 meMA.ExapTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
