@@ -391,13 +391,13 @@ meMA.Ode9H.text = he.h.m8_gr_GR_cog.heHE.EfrixePasaAkoi.text
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.Exaposteilarion1.greekmelody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.name
-meMA.Exaposteilarion1.incipit = "Ἀρέθα παναοίδιμε, σὺν τοῖς συνάθλοις…"
-meMA.Exaposteilarion1.text = "Ἀρέθα παναοίδιμε, σὺν τοῖς συνάθλοις πρέσβευε, Χριστῷ βραβεῦσαι τῷ κόσμῳ, ὁμόνοιαν καὶ εἰρήνην, τῷ εὐσεβείας κράτορι, καὶ Βασιλεῖ θεόφρονι, Μεγαλομάρτυς ἔνδοξε, καὶ ἱλασμὸν τοῖς τελοῦσι, τὴν ἱερὰν ἡμῶν μνήμην."
+meMA.Exaposteilarion1.incipit = "Ἀρέθα παναοίδιμε…"
+meMA.Exaposteilarion1.text = "Ἀρέθα παναοίδιμε, σὺν τοῖς συνάθλοις πρέσβευε, Χριστῷ βραβεῦσαι τῷ κόσμῳ, ὁμόνοιαν καὶ εἰρήνην, τῷ εὐσεβείας κράτορι, καὶ βασιλεῖ θεόφρονι, Μεγαλομάρτυς ἔνδοξε, καὶ ἱλασμὸν τοῖς τελοῦσι, τὴν ἱερὰν ἡμῶν μνήμην."
 
 meMA.ExapTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.heAU.GynaikesAkoutisthite.name
-meMA.ExapTheotokion.incipit = "Φθαρεῖσαν ἀνεκαίνισας, τὴν φύσιν τοῦ…"
-meMA.ExapTheotokion.text = "Φθαρεῖσαν ἀνεκαίνισας, τὴν φύσιν τοῦ Προπάτορος, ὑπερφυῶς συλλαβοῦσα, καὶ ἀπειράνδρως τεκοῦσα, τὸν Ποιητὴν τῆς κτίσεως, ὑφʼ οὗ ῥωσθέντες ἤθλησαν, χοροὶ Μαρτύρων μέλποντες, σὲ τῆς ἡμῶν σωτηρίας, τὴν ἀπαρχὴν Θεοτόκε."
+meMA.ExapTheotokion.incipit = "Φθαρεῖσαν ἀνεκαίνισας…"
+meMA.ExapTheotokion.text = "Φθαρεῖσαν ἀνεκαίνισας, τὴν φύσιν τοῦ Προπάτορος, ὑπερφυῶς συλλαβοῦσα, καὶ ἀπειράνδρως τεκοῦσα, τὸν Ποιητὴν τῆς κτίσεως· ὑφʼ οὗ ῥωσθέντες ἤθλησαν, χοροὶ Μαρτύρων μέλποντες, σὲ τῆς ἡμῶν σωτηρίας, τὴν ἀπαρχὴν Θεοτόκε."
 
 meLI.Kontakion1.mode = me.m10.d24_gr_GR_cog.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m10.d24_gr_GR_cog.meMA.Kontakion1.greekmelody

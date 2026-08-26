@@ -371,13 +371,13 @@ meMA.Ode9H.text = he.h.m4_gr_GR_cog.heHE.EvaMenToTisParakois.text
 meMA.Exaposteilarion1.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.Exaposteilarion1.greekmelody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
-meMA.Exaposteilarion1.incipit = "Μαρκιανὸς ὁ πάνσοφος, καὶ Μαρτύριος…"
-meMA.Exaposteilarion1.text = "Μαρκιανὸς ὁ πάνσοφος, καὶ Μαρτύριος ἅμα, τὸ τοῦ Ἀρείου ἔκφυλον, δόγμα καὶ μανιῶδες, καθεῖλον χάριτι θείᾳ τῆς Ἁγίας Τριάδος, ὑπὲρ ἧς καὶ ἐνήθλησαν, καὶ ὡς Μάρτυρες θεῖοι, στέφος λαμπρόν, πρὸς Χριστοῦ δεξάμενοι τοῦ Σωτῆρος, ὑπὲρ ἡμῶν πρεσβεύουσι, τῶν αὐτοὺς εὐφημούντων."
+meMA.Exaposteilarion1.incipit = "Μαρκιανὸς ὁ πάνσοφος…"
+meMA.Exaposteilarion1.text = "Μαρκιανὸς ὁ πάνσοφος, καὶ Μαρτύριος ἅμα, τὸ τοῦ Ἀρείου ἔκφυλον, δόγμα καὶ μανιῶδες, καθεῖλον χάριτι θείᾳ, τῆς Ἁγίας Τριάδος, ὑπὲρ ἧς καὶ ἐνήθλησαν· καὶ ὡς Μάρτυρες θεῖοι στέφος λαμπρόν, πρὸς Χριστοῦ δεξάμενοι τοῦ Σωτῆρος, ὑπὲρ ἡμῶν πρεσβεύουσι, τῶν αὐτοὺς εὐφημούντων."
 
 meMA.ExapTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_gr_GR_cog.heAU.ToisMathitaisSynelthomen.name
-meMA.ExapTheotokion.incipit = "Σὲ κιβωτὸν καὶ τράπεζαν, καὶ…"
-meMA.ExapTheotokion.text = "Σὲ κιβωτὸν καὶ τράπεζαν, καὶ λυχνίαν καὶ στάμνον, καὶ ὄρος καὶ παλάτιον, θρόνον κλίνην καὶ πύλην, τοῦ Βασιλέως τῆς δόξης, τὴν Ἁγίαν Παρθένον, καὶ Θεοτόκον ἅπαντες, ἀνυμνοῦμεν ἐκ πόθου· Χριστιανῶν, σκέπη γὰρ ὑπάρχεις καὶ σωτηρία, καὶ ἀῤῥαγὴς ὑπέρμαχος, καὶ προστάτις καὶ φύλαξ."
+meMA.ExapTheotokion.incipit = "Σὲ κιβωτὸν καὶ τράπεζαν…"
+meMA.ExapTheotokion.text = "Σὲ κιβωτὸν καὶ τράπεζαν, καὶ λυχνίαν καὶ στάμνον, καὶ ὄρος καὶ παλάτιον, θρόνον κλίνην καὶ πύλην, τοῦ Βασιλέως τῆς δόξης, τὴν ἁγίαν Παρθένον, καὶ Θεοτόκον ἅπαντες, ἀνυμνοῦμεν ἐκ πόθου· Χριστιανῶν, σκέπη γὰρ ὑπάρχεις καὶ σωτηρία, καὶ ἀῤῥαγὴς ὑπέρμαχος, καὶ προστάτις καὶ φύλαξ."
 
 meLI.Kontakion1.mode = me.m10.d25_gr_GR_cog.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m10.d25_gr_GR_cog.meMA.Kontakion1.greekmelody
