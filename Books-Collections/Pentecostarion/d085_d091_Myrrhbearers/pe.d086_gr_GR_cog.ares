@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Ὄρθρου ὁ τῶν γυναίων χορός
 peVE.Stichera03.text = "Ὄρθρου ὁ τῶν γυναίων χορός, τὸν πρὸ ἡλίου ἐξεζήτησεν Ἥλιον, ἐν τάφῳ δύναντα τότε· ὁ φωταυγὴς δὲ αὐταῖς, προσεφώνει Ἄγγελος· Ἐξανέτειλε, τὸ φῶς καταυγάσαν, τοὺς ἐν τῷ σκότει καθεύδοντας· τοῖς ἑωσφόροις, Μαθηταῖς ἀπαγγείλατε· τὴν κατήφειαν, εἰς χαρὰν μετατρέψατε· Πάσχα δὲ τὸ χαρμόσυνον, καὶ κόσμῳ σωτήριον, ἐν ἀδιστάκτῳ καρδίᾳ, περικροτοῦσαι χορεύσατε· Χριστὸς ἐξανέστη, ὁ δωρούμενος τῷ κόσμῳ τὸ μέγα ἔλεος."
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode1
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d085_gr_GR_cog.peVE.Lity1.incipit
 peVE.SticGlory.text = pe.d085_gr_GR_cog.peVE.Lity1.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m2.d2_gr_GR_cog.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m2.d2_gr_GR_cog.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode1
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d085_gr_GR_cog.peVE.Lity2.incipit
 peVE.AposGlory.text = pe.d085_gr_GR_cog.peVE.Lity2.text
 
@@ -118,6 +118,6 @@ peMA.Aposticha3.incipit = "Πάσχα σεπτὸν καὶ ἅγιον, ἡμ�
 peMA.Aposticha3.text = "Πάσχα σεπτὸν καὶ ἅγιον, ἡμῖν Χριστὸς κατηύγασε. Δεῦτε πάντες, λαμπρυνθῶμεν τὰς ψυχάς· ἰδοὺ γὰρ νῦν ἡμέρα, ἐπέλαμψεν ἐνταῦθα· ἀγαλλιᾶσθε καὶ εὐφραίνεσθε."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-peMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = oc.m2.d1_gr_GR_cog.ocMA.Lauds5.incipit
 peMA.AposGlory.text = oc.m2.d1_gr_GR_cog.ocMA.Lauds5.text

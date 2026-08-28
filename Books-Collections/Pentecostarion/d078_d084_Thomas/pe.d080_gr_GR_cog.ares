@@ -120,6 +120,6 @@ peMA.Aposticha3.incipit = "Νέμεις ὦ Λυτρωτά, εἰρήνην �
 peMA.Aposticha3.text = "Νέμεις ὦ Λυτρωτά, εἰρήνην τῷ λαῷ σου, ἐξαναστὰς τοῦ τάφου, καὶ κόσμον συνεγείρας, ἐξ ᾍδου Παντοδύναμε."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-peMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d078_gr_GR_cog.peVE.SticGlory.incipit
 peMA.AposGlory.text = pe.d078_gr_GR_cog.peVE.SticGlory.text

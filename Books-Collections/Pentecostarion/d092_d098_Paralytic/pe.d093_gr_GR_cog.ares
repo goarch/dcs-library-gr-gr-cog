@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Φθόνῳ Ἑβραῖοι τηκόμενοι, ε
 peVE.Stichera03.text = "Φθόνῳ Ἑβραῖοι τηκόμενοι, εὐεργεσίας τὰς σάς, ὑπεράγαθε Κύριε, ἀφορμὴν ποιούμενοι, καὶ μανίας ὑπέκκαυμα, παρανομοῦντες αὐτοὶ τὸν νόμον ἀεί, σὲ ἐπεζήτουν, κτεῖναι τὴν ὄντως ζωήν, διὰ τὸ Σάββατον, ὅτε ὅλον ἄνθρωπον, ἔδειξας σύ, ὑγιῆ, παράλυτον ὄντα τὸ πρότερον."
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode1
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d092_gr_GR_cog.peVE.LityGlory.incipit
 peVE.SticGlory.text = pe.d092_gr_GR_cog.peVE.LityGlory.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m3.d2_gr_GR_cog.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m3.d2_gr_GR_cog.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode1
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d092_gr_GR_cog.peVE.Stichera09.incipit
 peVE.AposGlory.text = pe.d092_gr_GR_cog.peVE.Stichera09.text
 
@@ -119,7 +119,7 @@ peMA.Aposticha3.incipit = "Σαββάτων αὐτουργὸν μὴ γνό�
 peMA.Aposticha3.text = "Σαββάτων αὐτουργὸν μὴ γνόντες σε καὶ Κύριον, οἱ Σάββατα τηροῦντες, τοῦ Παραλύτου σφίγξιν, διεγόγγυζον, τὴν ἐν Σαββάτῳ γενομένην. Ὡς οὐ καλόν, λέγοντες, αἵρειν τὸν κράββατον, ἐν ἡμέρᾳ Σαββάτου."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode5
-peMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d092_gr_GR_cog.peVE.SticGlory.incipit
 peMA.AposGlory.text = pe.d092_gr_GR_cog.peVE.SticGlory.text
 

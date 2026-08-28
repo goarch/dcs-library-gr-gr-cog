@@ -104,7 +104,7 @@ meVE.MM.Stichera1234as78910.text = properties_gr_GR_cog.media.key
 
 meVE.SticGlory.poet = poets_gr_GR_cog.po.Sergiou
 meVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m09.d08_gr_GR_cog.meVE.Stichera01.incipit
 meVE.SticGlory.text = me.m09.d08_gr_GR_cog.meVE.Stichera01.text
 

@@ -46,7 +46,7 @@ euVE.MM.Stichera1234as78910.text = properties_gr_GR_cog.media.key
 
 euVE.SticBoth.poet = poets_gr_GR_cog.po.Anatoliou
 euVE.SticBoth.mode = miscellanea_gr_GR_cog.misc.Mode2
-euVE.SticBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+euVE.SticBoth.melody = ""
 euVE.SticBoth.incipit = me.m09.d13_gr_GR_cog.meVE.AposGlory.incipit
 euVE.SticBoth.text = me.m09.d13_gr_GR_cog.meVE.AposGlory.text
 euVE.SticBoth1.text = "Τὸν ἐγκαινισμὸν τελοῦντες, τοῦ πανιέρου ναοῦ" //split hymn to insert name of church
@@ -71,7 +71,7 @@ euVE.Aposticha3.incipit = me.m09.d13_gr_GR_cog.meMA.Lauds6.incipit
 euVE.Aposticha3.text = me.m09.d13_gr_GR_cog.meMA.Lauds6.text
 
 euVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode3
-euVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+euVE.AposGlory.melody = ""
 euVE.AposGlory.incipit = me.m09.d13_gr_GR_cog.meMA.LaudsGlory.incipit
 euVE.AposGlory.text = me.m09.d13_gr_GR_cog.meMA.LaudsGlory.text
 

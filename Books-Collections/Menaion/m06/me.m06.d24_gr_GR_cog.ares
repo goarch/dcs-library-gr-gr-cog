@@ -115,12 +115,12 @@ meVE.Stichera07.text = "Ἰωάννη πανεύφημε, καὶ οἰκου�
 
 meVE.SticGlory.poet = poets_gr_GR_cog.po.Vyzantiou
 meVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Σήμερον τοῦ φωτὸς ὁ λύχνος…"
 meVE.SticGlory.text = "Σήμερον τοῦ φωτὸς ὁ λύχνος, προοδοποιεῖται τὴν ἔλευσιν Θεοῦ τοῦ Λόγου ὡς ἀστὴρ φαεινός. Σήμερον Ζαχαρίας γλῶτταν ἐτράνωσε, σιωπὴν ἐξασκήσας, Ἀγγέλου προστάξαντος· ἔπρεπε γὰρ οὕτω, τὸν πατέρα τῆς φωνῆς, μὴ σιωπὴν φυλάττειν, προελθούσης ἐκ γαστρὸς στειρωτικῆς, καὶ παντὸς τοῦ κόσμου τὴν λύτρωσιν εὐαγγελιζομένης, ἐν παῤῥησίᾳ πολλῇ."
 
 meVE.SticBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.SticBoth.melody = ""
 meVE.SticBoth.incipit = "Ἡ Ἐλισάβετ συνέλαβε τὸν Πρόδρομον…"
 meVE.SticBoth.text = "Ἡ Ἐλισάβετ συνέλαβε τὸν Πρόδρομον τῆς χάριτος, ἡ δὲ Παρθένος τὸν Κύριον τῆς δόξης. Ἠσπάσαντο ἀλλήλας αἱ μητέρες, καὶ τὸ βρέφος ἐσκίρτησεν· ἔνδοθεν γὰρ ὁ δοῦλος ᾔνει τὸν Δεσπότην. Θαυμάσασα ἡ μήτηρ τοῦ Προδρόμου, ἤρξατο βοᾷν· Πόθεν μοι τοῦτο, ἵνα ἡ Μήτηρ τοῦ Κυρίου μου ἔλθῃ πρός με; ἵνα σώσῃ λαὸν ἀπεγνωσμένον. Ὁ ἔχων τὸ μέγα ἔλεος, δόξα σοι."
 
@@ -167,12 +167,12 @@ meVE.Aposticha3.text = "Ὁ ἐκ κοιλίας μητρὸς ἁγιασθε�
 
 meVE.AposGlory.poet = poets_gr_GR_cog.po.KassiasMonachis
 meVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-meVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Ἠσαΐου νῦν τοῦ Προφήτου ἡ…"
 meVE.AposGlory.text = "Ἠσαΐου νῦν τοῦ Προφήτου ἡ φωνή, σήμερον ἐν τῇ τοῦ μείζονος Προφητῶν κυήσει Ἰωάννου πεπλήρωται. Ἰδοὺ γὰρ φησιν ἀποστελῶ τὸν Ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν σου. Οὗτος οὖν ὁ τοῦ ἐπουρανίου Βασιλέως στρατιώτης προδραμών, ὡς ἀληθῶς εὐθείας ἐποίει, τὰς τρίβους τοῦ Θεοῦ ἡμῶν, ἄνθρωπος μέν τῇ φύσει, Ἄγγελος δὲ τὸν βίον ὑπάρχων· ἁγνείαν γὰρ παντελῆ, καὶ σωφροσύνην ἀσπασάμενος, εἶχε μὲν τὸ κατὰ φύσιν, ἔφυγε δὲ τὸ παρὰ φύσιν, ὑπὲρ φύσιν ἀγωνισάμενος· Αὐτὸν ἅπαντες πιστοί, ἐν ἀρεταῖς μιμούμενοι, πρεσβεύειν ὑπὲρ ἡμῶν δυσωπήσωμεν, εἰς τὸ σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 meVE.AposBoth.mode = miscellanea_gr_GR_cog.misc.Mode8
-meVE.AposBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = "Βλέπε τὴν Ἐλισάβετ, πρὸς τὴν…"
 meVE.AposBoth.text = "Βλέπε τὴν Ἐλισάβετ, πρὸς τὴν Παρθένον Μαριὰμ διαλεγομένην· Τί παραγέγονας πρός με, ἡ Μήτηρ τοῦ Κυρίου μου; σὺ Βασιλέα βαστάζεις, κἀγὼ στρατιώτην, σὺ τὸν νομοδότην, κἀγὼ τὸν νομοθέτην, σὺ τὸν Λόγον, κἀγὼ τὴν φωνήν, τὴν κηρύξασαν τὴν βασιλείαν τῶν οὐρανῶν."
 

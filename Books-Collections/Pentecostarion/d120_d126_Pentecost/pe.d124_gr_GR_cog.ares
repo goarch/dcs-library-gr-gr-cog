@@ -85,6 +85,6 @@ peMA.Aposticha3.incipit = "Ὡς κατέπεμψας Κύριε…"
 peMA.Aposticha3.text = "Ὡς κατέπεμψας Κύριε, τοῦ ἁγίου σου Πνεύματος, Ἀποστόλοις σήμερον, θείαν χάριν, καὶ νῦν, ἡμῖν παράσχου δεόμεθα, αὐγάσαι καρδίας φωτί, ἀενάως τῆς αὐτοῦ, ἐπελεύσεως, ὅπως σαφῶς, τὸν τρισάγιον, ἐν φωναῖς ἀσιγήτοις, αἶνον πάντες, ἀναπὲμψωμεν ὑμνοῦντες, Τριάδα φύσει ἀχώριστον."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-peMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d120_gr_GR_cog.peVE.Stichera05.incipit
 peMA.AposGlory.text = pe.d120_gr_GR_cog.peVE.Stichera05.text

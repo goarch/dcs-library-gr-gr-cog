@@ -42,7 +42,7 @@ meVE.Stichera03.incipit = "Τρίτην τελοῦμεν φανέρωσιν, 
 meVE.Stichera03.text = "Τρίτην τελοῦμεν φανέρωσιν, σοῦ τῆς σεπτῆς Κεφαλῆς, ἣν Τριὰς ἐστεφάνωσεν, ἐκτμηθεῖσαν ἔνδοξε, διὰ ζῆλον τὸν ἔνθεον· καὶ τῇ εὑρέσει, ταύτης ἀγάλλονται, Ἀγγέλων τάξεις, Μαρτύρων σύλλογος, θεῖοι Ἀπόστολοι, καὶ Προφῆται ἅπαντες· μεθʼ ὧν ἡμῶν, πάντοτε μνημόνευε, Κυρίου Πρόδρομε."
 
 meVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m02.d24_gr_GR_cog.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m02.d24_gr_GR_cog.meVE.SticGlory.text
 
@@ -68,7 +68,7 @@ meVE.Aposticha3.incipit = "Πάλαι, ὥς περ θεῖος θησαυρό
 meVE.Aposticha3.text = "Πάλαι, ὥς περ θεῖος θησαυρός, σκεύει κεκρυμμένη ἡ Κάρα, τοῦ Βαπτιστοῦ ἐν τῇ γῇ, σήμερον τοῖς πέρασιν, ἀποκαλύπτεται, ὥς περ πλοῦτον προχέουσα, πηγὰς ἰαμάτων, νόσους θεραπεύουσα, ψυχὰς φωτίζουσα· ὅθεν θυμηδίας ἁπάσης, χάριν ἀπολαύοντες ὕμνοις, ταύτην εὐλαβῶς ἐγκωμιάσωμεν." // similar to me.m02.d25_gr_GR_cog.meVE.Stichera03.text
 
 meVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-meVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m02.d24_gr_GR_cog.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m02.d24_gr_GR_cog.meVE.AposGlory.text
 

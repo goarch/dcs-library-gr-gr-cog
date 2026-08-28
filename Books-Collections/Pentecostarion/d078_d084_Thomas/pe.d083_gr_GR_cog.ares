@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = pe.d078_gr_GR_cog.peSV.Stichera2.incipit
 peVE.Stichera03.text = pe.d078_gr_GR_cog.peSV.Stichera2.text
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d078_gr_GR_cog.peVE.Stichera06.incipit
 peVE.SticGlory.text = pe.d078_gr_GR_cog.peVE.Stichera06.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m1.d6_gr_GR_cog.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m1.d6_gr_GR_cog.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d078_gr_GR_cog.peVE.Lity2.incipit
 peVE.AposGlory.text = pe.d078_gr_GR_cog.peVE.Lity2.text
 
@@ -120,7 +120,7 @@ peMA.Aposticha3.incipit = "Τῇ ἡμέρᾳ ὁ Κύριος, ἣν…"
 peMA.Aposticha3.text = "Τῇ ἡμέρᾳ ὁ Κύριος, ἣν ἐποίησε σήμερον, ἀγαλλιασώμεθα εὐφραινόμενοι, ὁ Ζωοδότης ἐγήγερται, ὁ ᾍδης ἐσκύλευται, Ἀποστόλων ὁ χορὸς τὴν χαρὰν ἀκουτίζεται, ἐψηλάφησε, τὴν πλευρὰν τοῦ Δεσπότου, ἀπιστήσας, ὁ Θωμᾶς, καὶ ψηλαφήσας διπλῆν οὐσίαν ἐκήρυξε."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-peMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d078_gr_GR_cog.peVE.Lity2.incipit
 peMA.AposGlory.text = pe.d078_gr_GR_cog.peVE.Lity2.text
 

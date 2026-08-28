@@ -36,7 +36,7 @@ peVE.Stichera10.text = "Αἱ Μυροφόροι ὄρθριαι γενόμε�
 
 peVE.SticGlory.poet = poets_gr_GR_cog.po.KosmaMonachou
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = "Αἱ Μυροφόροι γυναῖκες, τὸν τάφον…"
 peVE.SticGlory.text = "Αἱ Μυροφόροι γυναῖκες, τὸν τάφον σου καταλαβοῦσαι, καὶ τὰς σφραγῖδας τοῦ μνήματος ἰδοῦσαι, μὴ εὑροῦσαι δὲ τὸ ἄχραντον Σῶμά σου, ὀδυρόμεναι, μετὰ σπουδῆς ἦλθον λέγουσαι· Τίς ἔκλεψεν ἡμῶν τὴν ἐλπίδα; τίς εἴληφε νεκρὸν γυμνὸν ἐσμυρνισμένον τῆς Μητρὸς μόνον παραμύθιον; ὤ! πῶς ὁ νεκροὺς ζῳώσας τεθανάτωται; ὁ τὸν ᾍδην σκυλεύσας, πῶς τέθαπται; ἀλλʼ ἀνάστηθι Σωτὴρ αὐτεξουσίως, καθὼς εἶπας τριήμερος, σῴζων τὰς ψυχὰς ἡμῶν."
 
@@ -66,7 +66,7 @@ peVE.LityBoth.incipit = oc.m6.d1_gr_GR_cog.ocVE.AposTheotokion.incipit
 peVE.LityBoth.text = oc.m6.d1_gr_GR_cog.ocVE.AposTheotokion.text
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode5
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = tr.d070_gr_GR_cog.trVE.AposGlory.incipit
 peVE.AposGlory.text = tr.d070_gr_GR_cog.trVE.AposGlory.text
 

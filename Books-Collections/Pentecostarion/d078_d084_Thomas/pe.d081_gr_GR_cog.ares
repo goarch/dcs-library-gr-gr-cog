@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Λαμβάνω μεγίστην χαρμονήν, 
 peVE.Stichera03.text = "Λαμβάνω μεγίστην χαρμονήν, σὴν Σωτήρ μου Ἔγερσιν, βεβαιουμένην θεώμενος, ἐξ ὧν ἠξίωται, τολμηρῶν πραγμάτων, ὁ Θωμᾶς ἐφάψασθαι· διό σε τὸν ἁπλοῦν δογματίζομεν, Θεὸν καὶ ἄνθρωπον, ἐνεργείας δύο φέροντα, οὐσιώδεις, τῶν ἐξ ὧν συντέθεισαι."
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode4
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d078_gr_GR_cog.peVE.Lity1.incipit
 peVE.SticGlory.text = pe.d078_gr_GR_cog.peVE.Lity1.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m1.d4_gr_GR_cog.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m1.d4_gr_GR_cog.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d078_gr_GR_cog.peVE.Lity2.incipit
 peVE.AposGlory.text = pe.d078_gr_GR_cog.peVE.Lity2.text
 

@@ -40,7 +40,7 @@ meVE.Stichera03.incipit = "Ἴδε τόπος περίδοξος…"
 meVE.Stichera03.text = "Ἴδε τόπος περίδοξος, ἴδε οἶκος ἀείφωτος, ἐν ᾧ τεθησαύρισται τῆς Θεόπαιδος, Ζώνη τιμία ἐν χάριτι· προσέλθετε ἄνθρωποι, φωτισμὸν καὶ ἱλασμόν, προφανῶς ἀπαρύσασθε, καὶ βοήσατε, εὐχαρίστῳ καρδίᾳ· Παναγία, εὐλογοῦμέν σε Παρθένε, οἱ σεσωσμένοι τῷ τόκῳ σου."
 
 meVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-meVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Ὡς στέφανον ὑπέρλαμπρον…"
 meVE.SticGlory.text = "Ὡς στέφανον ὑπέρλαμπρον, πανάχραντε Θεοτόκε, τὴν Ζώνην σου τὴν ἁγίαν, ἡ Ἐκκλησία τοῦ Θεοῦ περιέθετο· καὶ φαιδρύνεται χαίρουσα σήμερον, καὶ μυστικῶς χορεύει, Δέσποινα ἐκβοῶσά σοι· Χαῖρε διάδημα τίμιον, καὶ στέφανε τῆς θείας δόξης αὐτοῦ· χαῖρε ἡ μόνη δόξα τοῦ πληρώματος, καὶ αἰώνιος εὐφροσύνη· χαῖρε τῶν εἰς σὲ προστρεχόντων, λιμὴν καὶ προστασία, καὶ σωτηρία ἡμῶν." //similar to me.m07.d02.meVE.AposGlory.text
 
@@ -61,7 +61,7 @@ meVE.Aposticha3.incipit = "Περίζωσον δύναμιν…"
 meVE.Aposticha3.text = "Περίζωσον δύναμιν, ἡμᾶς Παρθένε τῇ Ζώνῃ σου, κατʼ ἐχθρῶν ἐνισχύουσα, πάθη ὑποτάττουσα, κατατυραννοῦντα, καὶ ἐκπολεμοῦντα, καὶ νικητήρια ἡμῖν, διʼ ἀπαθείας ἀεὶ παρέχουσα, τοῦ καθαρῶς δοξάζειν σε, καὶ τῷ Υἱῷ σου βοᾶν ἐκτενῶς· Ἰησοῦ παντοδύναμε, σῶσον πάντας ὡς εὔσπλαγχνος."
 
 meVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-meVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m07.d02_gr_GR_cog.meVE.SticGlory.incipit
 meVE.AposGlory.text = me.m07.d02_gr_GR_cog.meVE.SticGlory.text
 

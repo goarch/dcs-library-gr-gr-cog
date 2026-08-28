@@ -92,7 +92,7 @@ meVE.Aposticha3.incipit = "Δεῦτε γηγενεῖς ἐν ᾄσμασι, τ
 meVE.Aposticha3.text = "Δεῦτε γηγενεῖς ἐν ᾄσμασι, τὴν ἱερὰν καὶ σεπτήν, τοῦ Ὁσίου πανήγυριν, Ἰωάννου σήμερον, εὐσεβῶς ἀνυμνήσωμεν· οὗτος γὰρ ὄντως, θείας ἐλλάμψεως, κατηξιώθη τὸ φῶς εἰσδέξασθαι. Ὢ τῆς ἀφάτου σου, εὐσπλαγχνίας Κύριε! διʼ ἧς ἡμεῖς, ἔγνωμεν δοξάζειν σε, τὸν ὑπεράγαθον."
 
 meVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m01.d15_gr_GR_cog.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m01.d15_gr_GR_cog.meVE.AposGlory.text
 

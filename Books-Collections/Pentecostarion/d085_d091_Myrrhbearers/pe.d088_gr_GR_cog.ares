@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Ῥεῖθρα δακρυῤῥόου ἐκ πηγ�
 peVE.Stichera03.text = "Ῥεῖθρα δακρυῤῥόου ἐκ πηγῆς, θρήνων ἀναστείλασαι θεῖαι, Χριστοῦ Μαθήτριαι ῥήματα χαρμόσυνα, διαπορθμεύουσαι νῦν, τοῖς αὐτόπταις τῆς χάριτος, μηνύουσαι τούτοις, τὴν τοῦ Λόγου Ἔγερσιν, καὶ τὴν ἐκ τάφου χαράν· ὅθεν, τὴν ἀντίθετον λύπης, ἤκουον φωνὴν παραδόξως ταύταις τὴν τὸ Χαίρετε, προστάττουσαν."
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d085_gr_GR_cog.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d085_gr_GR_cog.peVE.SticGlory.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m2.d4_gr_GR_cog.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m2.d4_gr_GR_cog.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d085_gr_GR_cog.peVE.LityGlory.incipit
 peVE.AposGlory.text = pe.d085_gr_GR_cog.peVE.LityGlory.text
 
@@ -118,7 +118,7 @@ peMA.Aposticha3.incipit = "Ὕψιστον Θεὸν ἐπὶ τῆς γῆς…
 peMA.Aposticha3.text = "Ὕψιστον Θεὸν ἐπὶ τῆς γῆς, ἐνταφιασθέντα ὡς νέκυν, μυρίσαι σπεύδουσι, τούτου αἱ Μαθήτριαι, διʼ ἀρωμάτων σεπτῶν· καὶ ἐν τάφῳ καθήμενον, καινὸν νεανίαν, βλέψασαι ἐξέστησαν, ἐν ἀστραπτούσῃ μορφῇ· ὅθεν, τὴν ἐκ τάφου τοῦ Λόγου, Ἔγερσιν τριήμερον γνοῦσαι, ταύτην Ἀποστόλοις κατεμήνυον."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode5
-peMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d085_gr_GR_cog.peVE.AposGlory.incipit
 peMA.AposGlory.text = pe.d085_gr_GR_cog.peVE.AposGlory.text
 

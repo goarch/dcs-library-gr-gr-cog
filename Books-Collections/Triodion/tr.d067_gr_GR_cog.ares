@@ -49,7 +49,7 @@ trVE.Stichera06.incipit = tr.d066_gr_GR_cog.trMA.Aposticha3.incipit
 trVE.Stichera06.text = tr.d066_gr_GR_cog.trMA.Aposticha3.text
 
 trVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode7
-trVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d066_gr_GR_cog.trMA.AposGlory.incipit
 trVE.SticGlory.text = tr.d066_gr_GR_cog.trMA.AposGlory.text
 
@@ -450,7 +450,7 @@ trMA.Aposticha4.incipit = "Ἡ ἀπεγνωσμένη διὰ τὸν βίο�
 trMA.Aposticha4.text = "Ἡ ἀπεγνωσμένη διὰ τὸν βίον, καὶ ἐπεγνωσμένη διὰ τὸν τρόπον, τὸ μύρον βαστάζουσα, προσῆλθέ σοι βοῶσα· Μή με τὴν πόρνην ἀποῤῥίψῃς, ὁ τεχθεὶς ἐκ Παρθένου· μή μου τὰ δάκρυα παρίδῃς, ἡ χαρὰ τῶν Ἀγγέλων· ἀλλὰ δέξαι με μετανοοῦσαν, ἣν οὐκ ἀπώσω ἁμαρτάνουσαν, Κύριε, διὰ τὸ μέγα σου ἔλεος."
 
 trMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-trMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "Κύριε, ἡ ἐν πολλαῖς ἁμαρτίαις…"
 trMA.AposGlory.text = "Κύριε, ἡ ἐν πολλαῖς ἁμαρτίαις περιπεσοῦσα γυνή, τὴν σὴν αἰσθομένη θεότητα, μυροφόρου ἀναλαβοῦσα τάξιν, ὀδυρομένη μύρα σοι πρὸ τοῦ ἐνταφιασμοῦ κομίζει. Οἴμοι! λέγουσα, ὅτι νυξ μοι ὑπάρχει, οἶστρος ἀκολασίας, ζοφώδης τε καὶ ἀσέληνος ἔρως τῆς ἁμαρτίας. Δέξαι μου τὰς πηγὰς τῶν δακρύων, ὁ νεφέλαις διεξάγων τῆς θαλάσσης τὸ ὕδωρ. Κάμφθητί μοι πρὸς τοὺς στεναγμοὺς τῆς καρδίας, ὁ κλίνας τοὺς οὐρανούς, τῇ ἀφάτῳ σου κενώσει. Καταφιλήσω τοὺς ἀχράντους σου πόδας, ἀποσμήξω τούτους δὲ πάλιν, τοῖς τῆς κεφαλῆς μου βοστρύχοις· ὧν ἐν τῷ παραδείσῳ Εὔα τὸ δειλινόν, κρότον τοῖς ὠσὶν ἠχηθεῖσα, τῷ φόβῳ ἐκρύβη. Ἁμαρτιῶν μου τὰ πλήθη καὶ κριμάτων σου ἀβύσσους, τίς ἐξιχνιάσει, ψυχοσῶστα Σωτήρ μου; Μή με τὴν σὴν δούλην παρίδῃς, ὁ ἀμέτρητον ἔχων τὸ ἔλεος."
 

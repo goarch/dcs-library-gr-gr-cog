@@ -586,7 +586,7 @@ trMA.AposMartyric.incipit = "Τίς οὐκ ἐξίσταται ὁρῶν, �
 trMA.AposMartyric.text = "Τίς οὐκ ἐξίσταται ὁρῶν, ἅγιοι Μάρτυρες, τὸν ἀγῶνα τὸν καλόν, ὃν ἠγωνίσασθε; πῶς ἐν σώματι ὄντες, τὸν ἀσώματον ἐχθρὸν ἐνικήσατε, Χριστὸν ὁμολογήσαντες, καὶ Σταυρὸν ὁπλισάμενοι; ὅθεν ἐπαξίως ἀνεδείχθητε, δαιμόνων φυγαδευταί, καὶ βαρβάρων πολέμιοι, ἀπαύστως πρεσβεύσατε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 trMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-trMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = tr.d043_gr_GR_cog.trMA.AdditionalIdiomelon2.incipit
 trMA.AposGlory.text = tr.d043_gr_GR_cog.trMA.AdditionalIdiomelon2.text
 

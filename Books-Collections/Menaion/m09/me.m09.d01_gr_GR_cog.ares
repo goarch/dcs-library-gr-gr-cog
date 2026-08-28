@@ -84,13 +84,13 @@ meVE.Stichera10.text = "Ἠγάπησας Θεοφόρε, τὴν ἀνωτά
 
 meVE.SticGlory.poet = poets_gr_GR_cog.po.Germanou
 meVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Θεία χάρις ἀπῃώρητο…"
 meVE.SticGlory.text = "Θεία χάρις ἀπῃώρητο, ἐπὶ τῇ θήκῃ τῶν λειψάνων σου, ἡγιασμένε Συμεών· διὸ καὶ εἰς ὀσμὴν μύρου τῶν θαυμάτων σου δραμούμεθα, τῶν νοσημάτων τὴν ἴασιν ἀρυόμενοι. Ἀλλὰ Πάτερ Ὅσιε, Χριστὸν τὸν Θεὸν ἱκέτευε, ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 meVE.SticBoth.poet = poets_gr_GR_cog.po.Vyzantiou
 meVE.SticBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.SticBoth.melody = ""
 meVE.SticBoth.incipit = "Ὁ Πνεύματι Ἁγίῳ…"
 meVE.SticBoth.text = "Ὁ Πνεύματι Ἁγίῳ συνημμένος, ἄναρχε Λόγε καὶ Υἱέ, ὁ πάντων ὁρατῶν καὶ ἀοράτων συμπαντουργὸς καὶ συνδημιουργός, τὸν στέφανον τοῦ ἐνιαυτοῦ εὐλόγησον, φυλάττων ἐν εἰρήνῃ τῶν Ὀρθοδόξων τὰ πλήθη, πρεσβείαις τῆς Θεοτόκου, καὶ πάντων τῶν ἁγίων σου."
 

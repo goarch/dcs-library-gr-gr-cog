@@ -34,7 +34,7 @@ peVE.MM.Stichera123as345.text = properties_gr_GR_cog.media.key
 peVE.MM.Stichera123as567.text = properties_gr_GR_cog.media.key
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d120_gr_GR_cog.peVE.Aposticha3.incipit
 peVE.SticGlory.text = pe.d120_gr_GR_cog.peVE.Aposticha3.text
 

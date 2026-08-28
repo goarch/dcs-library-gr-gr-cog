@@ -33,12 +33,12 @@ trVE.Stichera03.incipit = tr.d064_gr_GR_cog.trVE.Aposticha3.incipit
 trVE.Stichera03.text = tr.d064_gr_GR_cog.trVE.Aposticha3.text
 
 trVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-trVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d065_gr_GR_cog.trVE.Stichera01.incipit
 trVE.SticGlory.text = tr.d065_gr_GR_cog.trVE.Stichera01.text
 
 trVE.SticBoth.mode = miscellanea_gr_GR_cog.misc.Mode8
-trVE.SticBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.SticBoth.melody = ""
 trVE.SticBoth.incipit = tr.d065_gr_GR_cog.trVE.Stichera03.incipit
 trVE.SticBoth.text = tr.d065_gr_GR_cog.trVE.Stichera03.text
 
@@ -58,12 +58,12 @@ trVE.Aposticha3.incipit = "Συναγωγὴ πονηρὰ καὶ μοιχαλ�
 trVE.Aposticha3.text = "Συναγωγὴ πονηρὰ καὶ μοιχαλίς, ἡ τῷ ἰδίῳ ἀνδρί, μὴ φυλάξασα πίστιν, τί κατέχεις διαθήκην, ἧς οὐκ ἦς κληρονόμος; τί καυχᾶσαι ἐν Πατρί, τὸν Υἱὸν ἀθετήσασα; τοὺς Προφήτας οὐκ ἐδέξω, τὸν ΥἹὸν καταγγείλαντας; κἂν τὰ ἴδια τέκνα αἰσχύνθητι, οὕτω βοῶντα· Ὡσαννὰ τῷ Υἱῷ Δαυΐδ, εὐλογημένος ὁ ἐρχόμενος, ἐν ὀνόματι Κυρίου."
 
 trVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-trVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = tr.d065_gr_GR_cog.trVE.Aposticha1.incipit
 trVE.AposGlory.text = tr.d065_gr_GR_cog.trVE.Aposticha1.text
 
 trVE.AposBoth.mode = miscellanea_gr_GR_cog.misc.Mode3
-trVE.AposBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.AposBoth.melody = ""
 trVE.AposBoth.incipit = tr.d065_gr_GR_cog.trVE.Aposticha2.incipit
 trVE.AposBoth.text = tr.d065_gr_GR_cog.trVE.Aposticha2.text
 
@@ -418,7 +418,7 @@ trMA.Aposticha3.incipit = "Τῆς ξηρανθείσης συκῆς διὰ �
 trMA.Aposticha3.text = "Τῆς ξηρανθείσης συκῆς διὰ τὴν ἀκαρπίαν, τὸ ἐπιτίμιον φοβηθέντες ἀδελφοί, καρποὺς ἀξίους τῆς μετανοίας, προσάξωμεν Χριστῷ, τῷ παρέχοντι ἡμῖν τὸ μέγα ἔλεος."
 
 trMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-trMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "Δευτέραν Εὔαν τὴν Αἰγυπτίαν, εὑρῶν…"
 trMA.AposGlory.text = "Δευτέραν Εὔαν τὴν Αἰγυπτίαν, εὑρῶν ὁ δράκων, διὰ ῥημάτων, ἔσπευδε κολακείαις, ὑποσκελῖσαι τὸν Ἰωσήφ· ἀλλʼ αὐτὸς καταλιπῶν τὸν χιτῶνα, ἔφυγε τὴν ἁμαρτίαν, καὶ γυμνὸς οὐκ ᾐσχύνετο, ὡς ὁ πρωτόπλαστος πρὸ τῆς παρακοῆς· αὐτοῦ ταῖς ἱκεσίαις Χριστέ, ἐλέησον ἡμᾶς."
 

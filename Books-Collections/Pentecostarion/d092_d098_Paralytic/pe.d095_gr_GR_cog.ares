@@ -37,7 +37,7 @@ peVE.MM.Stichera22as78.text = properties_gr_GR_cog.media.key
 peVE.MM.Stichera33as910.text = properties_gr_GR_cog.media.key
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = "Τῆς ἑορτῆς μεσούσης, τῆς σῆς…"
 peVE.SticGlory.text = "Τῆς ἑορτῆς μεσούσης, τῆς σῆς Χριστὲ Ἀναστάσεως, καὶ θείας παρουσίας τοῦ ἁγίου σου Πνεύματος, συνελθόντες τῶν θαυμάτων σου, ἀνυμνοῦμεν τὰ μυστήρια, ἐν ᾗ κατάπεμψον ἡμῖν τὸ μέγα ἔλεος."
 
@@ -58,7 +58,7 @@ peVE.Aposticha3.incipit = "Ὅτε τὸ μέσον τῆς Ἑορτῆς…"
 peVE.Aposticha3.text = "Ὅτε τὸ μέσον τῆς Ἑορτῆς ἐπέστη, ἀνέβη ὁ Ἰησοῦς ἐπὶ τὸ ἱερόν, καὶ ἐδίδασκε λέγων τοὺς ἀπειθεῖς Ἰουδαίους· Ὁ διψῶν ἐρχέσθω πρός με καὶ πινέτω, ὕδωρ ζωηρόν αἰώνιον, καὶ οὐ μὴ διψήσῃ εἰς τὸν αἰῶνα. Ὁ πιστεύων εἰς ἐμέ, ποταμοὶ ῥεύσουσιν ἐκ τῆς κοιλίας αὐτοῦ, καὶ ἕξει τὸ φῶς τῆς ζωῆς."
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = "Μεσούσης τῆς Ἑορτῆς, διδάσκοντός σου…"
 peVE.AposGlory.text = "Μεσούσης τῆς Ἑορτῆς, διδάσκοντός σου Σωτήρ, ἔλεγον οἱ Ἰουδαῖοι· Πῶς οὗτος οἶδε γράμματα, μὴ μεμαθηκώς; ἀγνοοῦντες, ὅτι σὺ εἶ ἡ σοφία, ἡ κατασκευάσασα τὸν κόσμον. Δόξα σοι."
 

@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Μέσον τοῦ ἱεροῦ ἑστηκώς, �
 peVE.Stichera03.text = "Μέσον τοῦ ἱεροῦ ἑστηκώς, ὁ ἀπερίγραπτος Θεός τε καὶ Κύριος· Θεὸς γὰρ ὑπῆρχε φύσει, κἂν διʼ ἡμᾶς βροτωθείς, περιγεγραμμένος, ὤφθη σώματι· τοῖς πᾶσιν ἀνέβλυζε, τὰ ζωήῤῥυτα ῥήματα, τοῖς πᾶσι λέγων· Τὰς ψυχὰς ἐκκαθάρθητε, καὶ τοῦ καύσωνος, τῶν παθῶν ἀναψύξατε· μήτις ἀποστερήσοιτο, τῆς πόσεως ἄνθρωποι· θείαν γὰρ χάριν δωροῦμαι τῆς ἀθανάτου καὶ κρείττονος, καὶ τῆς Βασιλείας, συμμεθέξει μοι τῷ Κτίστῃ καὶ δοξασθήσεται."
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d095_gr_GR_cog.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d095_gr_GR_cog.peVE.SticGlory.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m3.d6_gr_GR_cog.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m3.d6_gr_GR_cog.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d096_gr_GR_cog.peMA.AposGlory.incipit
 peVE.AposGlory.text = pe.d096_gr_GR_cog.peMA.AposGlory.text
 
@@ -120,7 +120,7 @@ peMA.Aposticha3.incipit = "Ἔρχεσθε εὐπειθῶς, οἱ τῆς ζ�
 peMA.Aposticha3.text = "Ἔρχεσθε εὐπειθῶς, οἱ τῆς ζωῆς τὸ νᾶμα, πιεῖν ἐπιποθοῦντες, ἐβόα ὁ Σωτήρ μου, καὶ πίετε τὴν χάριν, ἐνθέως ἀγαλλόμενοι."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-peMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = "Καθαρθῶμεν ἐννοιῶν τοὺς κευθμῶνας, καὶ…"
 peMA.AposGlory.text = "Καθαρθῶμεν ἐννοιῶν τοὺς κευθμῶνας, καὶ ψυχικὰς λαμπηδόνας διαυγάσωμεν, καὶ τὴν ζωὴν κατίδωμεν Χριστόν, ἐν ἱερῷ ἀφικόμενον, ὑπερβολῇ ἀγαθότητος, ἵνα τὸν ἐχθρόν θριαμβεύσῃ, καὶ σώσῃ τὸ γένος ἡμῶν, διὰ πάθους Σταυροῦ καὶ τῆς Ἀναστάσεως· πρὸς ὃν βοήσωμεν· Ἀκατάληπτε Κύριε, δόξα σοι."
 

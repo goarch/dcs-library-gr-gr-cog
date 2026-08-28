@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Φέρεις τὸν ἐπʼ ὤμων Χερουβ�
 peVE.Stichera03.text = "Φέρεις τὸν ἐπʼ ὤμων Χερουβίμ, ἐπαναπαυόμενον Λόγον, μακαριστὲ Ἰωσήφ, ἄλλο ὥς περ ὄχημα, ἐπὶ τῶν ὤμων τῶν σῶν, σαρκωθέντα τὸ πρότερον, καὶ νῦν νεκρωθέντα, ὃς ἐζωοποίησε, τοὺς νεκρωθέντας ἡμᾶς· οὗ τὴν ἐξανάστασιν βλέπων, χαίρεις σὺν σεπταῖς Μυροφόροις, κἂν προεθρηνεῖτε τούτου νέκρωσιν."
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode1
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d085_gr_GR_cog.peVE.Lity3.incipit
 peVE.SticGlory.text = pe.d085_gr_GR_cog.peVE.Lity3.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m2.d5_gr_GR_cog.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m2.d5_gr_GR_cog.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = oc.m2.d1_gr_GR_cog.ocMA.Lauds5.incipit
 peVE.AposGlory.text = oc.m2.d1_gr_GR_cog.ocMA.Lauds5.text
 
@@ -118,6 +118,6 @@ peMA.Aposticha3.incipit = "Ὤφθη, φῶς ἀπρόσιτον ἡμῖν, �
 peMA.Aposticha3.text = "Ὤφθη, φῶς ἀπρόσιτον ἡμῖν, λάμπων ἀπὸ τάφου ὡραῖος, Χριστὸς ὁ Κύριος· ᾍδης ᾐχμαλώτισται, Σατὰν ἠφάνισται, χαίρει κόσμου τὰ πέρατα, χορεύει ἡ κτίσις, μέλπει ἑορτάζουσα, ἡ Ἐκκλησία Χριστοῦ, μνήμην Ἰωσὴφ τοῦ πανσόφου, καὶ τῶν Μυροφόρων σὺν τούτῳ, γυναικῶν γεραίρει τὴν πανήγυριν."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-peMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d085_gr_GR_cog.peVE.Stichera09.incipit
 peMA.AposGlory.text = pe.d085_gr_GR_cog.peVE.Stichera09.text

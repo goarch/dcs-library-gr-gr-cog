@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Ὤφθη ἡ πανήγυρις ἡμῖν, τῶν
 peVE.Stichera03.text = "Ὤφθη ἡ πανήγυρις ἡμῖν, τῶν θεοπρεπῶν Μυροφόρων, καὶ Ἰωσὴφ τοῦ σεπτοῦ, ἄλλος ὡς Παράδεισος, πηγὴν παρέχων ζωῆς, τὰ τῆς χάριτος νάματα ὀμβρίζει τῷ κόσμῳ, βρύει τῆς Ἐγέρσεως Χριστοῦ τὰ ῥεῖθρα θερμῶς, στίφη τῶν πιστῶν ἑορτάζει, καὶ κραυγάζει· Δόξα τῷ δόντι, τὴν αὐτοῦ Ἀνάστασιν τοῖς πέρασι."
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d085_gr_GR_cog.peVE.Stichera10.incipit
 peVE.SticGlory.text = pe.d085_gr_GR_cog.peVE.Stichera10.text
 
@@ -117,6 +117,6 @@ peMA.Aposticha3.incipit = "Φρίττει τῶν Ἀγγέλων ἡ πληθ
 peMA.Aposticha3.text = "Φρίττει τῶν Ἀγγέλων ἡ πληθύς, σὲ ὦ Ἰωσὴφ καθορῶσα, Χριστὸν κηδεύοντα· κόσμος μακαρίζει σε· πιστοὶ θαυμάζομεν· τὴν σεπτήν τε Ἀνάστασιν, τιμῶντες ἐνθέως, σὺν ταῖς Μυροφόροις σε, θερμῶς γεραίρομεν· ὅθεν, καὶ βοῶμεν ἀπαύστως· Πρέσβευε σὺν ταύταις σωθῆναι, καὶ ἡμᾶς κινδύνων τε καὶ θλίψεων."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode1
-peMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d085_gr_GR_cog.peVE.Lity2.incipit
 peMA.AposGlory.text = pe.d085_gr_GR_cog.peVE.Lity2.text

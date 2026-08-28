@@ -49,7 +49,7 @@ trVE.Stichera03.incipit = "Σήμερον τὸν Σταυρὸν τοῦ Κυ�
 trVE.Stichera03.text = "Σήμερον τὸν Σταυρὸν τοῦ Κυρίου προσκυνοῦντες, βοήσωμεν· Χαῖρε ζωῆς ξύλον, ᾍδου καθαιρέτα, χαῖρε χαρὰ Κόσμου, φθορᾶς ἀναιρέτα, χαῖρε ὁ τοὺς δαίμονας σκορπίζων τῇ δυνάμει σου· τῶν πιστῶν τὸ στήριγμα, τὸ ὅπλον, τὸ ἄῤῥηκτον, τοὺς ἀσπαζομένους σε, φρούρησον, ἁγίασον δεόμεθα."
 
 trVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-trVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d043_gr_GR_cog.trMA.AdditionalIdiomelonGlory.incipit
 trVE.SticGlory.text = tr.d043_gr_GR_cog.trMA.AdditionalIdiomelonGlory.text
 

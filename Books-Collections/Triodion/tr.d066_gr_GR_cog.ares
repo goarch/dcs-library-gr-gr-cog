@@ -49,7 +49,7 @@ trVE.Stichera06.incipit = tr.d065_gr_GR_cog.trMA.Aposticha3.incipit
 trVE.Stichera06.text = tr.d065_gr_GR_cog.trMA.Aposticha3.text
 
 trVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-trVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d065_gr_GR_cog.trMA.AposGlory.incipit
 trVE.SticGlory.text = tr.d065_gr_GR_cog.trMA.AposGlory.text
 
@@ -396,7 +396,7 @@ trMA.Aposticha3.incipit = "Ὁ Νυμφίος, ὁ κάλλει ὡραῖος
 trMA.Aposticha3.text = "Ὁ Νυμφίος, ὁ κάλλει ὡραῖος παρὰ πάντας ἀνθρώπους, ὁ συγκαλέσας ἡμᾶς, πρὸς ἑστίασιν πνευματικὴν τοῦ νυμφῶνός σου, τὴν δυσείμονά μου μορφήν, τῶν πταισμάτων ἀπαμφίασον, τῇ μεθέξει τῶν παθημάτων σου, καὶ στολὴν δόξης κοσμήσας, τῆς σῆς ὡραιότητος, δαιτυμόνα φαιδρὸν ἀνάδειξον, τῆς βασιλείας σου, ὡς εὔσπλαγχνος."
 
 trMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode7
-trMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "Ἰδού σοι τὸ τάλαντον ὁ…"
 trMA.AposGlory.text = "Ἰδού σοι τὸ τάλαντον ὁ Δεσπότης ἐμπιστεύει ψυχή μου· φόβῳ δέξαι τὸ χάρισμα, δάνεισαι τῷ δεδωκότι, διάδος πτωχοῖς, καὶ κτῆσαι φίλον τὸν Κύριον· ἵνα στῇς ἐκ δεξιῶν αὐτοῦ, ὅταν ἔλθῃ ἐν δόξῃ, καὶ ἀκούσῃς μακαρίας φωνῆς· Εἴσελθε, δοῦλε, εἰς τὴν χαρὰν τοῦ Κυρίου σου. Αὐτῆς ἀξίωσόν με, Σωτήρ. τὸν πλανηθέντα, διὰ τὸ μέγα σου ἔλεος."
 

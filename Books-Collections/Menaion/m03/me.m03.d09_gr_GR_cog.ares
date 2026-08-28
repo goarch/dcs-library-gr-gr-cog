@@ -52,7 +52,7 @@ alt1.meVE.Stichera04.text = "Στέργοντες ἀφορήτους ὀδή
 
 meVE.SticGlory.poet = poets_gr_GR_cog.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-meVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m03.d09_gr_GR_cog.meVE.Stichera01.incipit
 meVE.SticGlory.text = me.m03.d09_gr_GR_cog.meVE.Stichera01.text
 
@@ -105,7 +105,7 @@ meVE.Aposticha3.incipit = me.m03.d09_gr_GR_cog.meMA.Lauds3.incipit
 meVE.Aposticha3.text = me.m03.d09_gr_GR_cog.meMA.Lauds3.text
 
 meVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Ἐν ᾠδαῖς ᾀσμάτων…"
 meVE.AposGlory.text = "Ἐν ᾠδαῖς ᾀσμάτων εὐφημήσωμεν πιστοί, τοὺς ἀθλοφόρους τεσσαράκοντα Μάρτυρας, καὶ πρὸς αὐτοὺς μελῳδικῶς ἐκβοήσωμεν λέγοντες· Χαίρετε ἀθλοφόροι τοῦ Χριστοῦ, Ἡσύχιε, Μελίτων, Ἡράκλειε, Σμάραγδε καὶ Δόμνε, Εὐνοϊκὲ Οὐάλη καὶ Βιβιανέ, Κλαύδιε καὶ Πρίσκε, Χαίρετε Θεόδουλε Εὐτύχιε καὶ Ἰωάννη, Ξανθία Ἡλιανὲ Σισίνιε, Κυρίων Ἀγγία, Ἀέτιε καὶ Φλάβιε, Χαίρετε Ἀκάκιε, Ἐκδίκιε, Λυσίμαχε, Ἀλέξανδρε, Ἠλία καὶ Καύδιδε, Θεόφιλε Δομετιανέ καὶ Θεῖε Γάϊε Γοργόνιε, Χαίρετε Εὐτυχές καὶ Ἀθανάσιε, Κύριλλε καὶ Σαρκεδών, Νικόλαε καὶ Οὐαλέριε, Φιλοκτῆμον, Σεβηριανέ, Χουδίων καὶ Ἀγλάϊε. Ὡς ἔχοντες παῤῥησίαν πρὸς Χριστὸν τὸν Θεὸν ἡμῶν, Μάρτυρες παναοίδιμοι, αὐτὸν ἐκτενῶς πρεσβεύσατε, τοῦ σωθῆναι τοὺς ἐν πίστει ἐκτελοῦντας, τὴν πανσέβαστον μνήμην ὑμῶν."
 
@@ -553,7 +553,7 @@ meMA.MM.Lauds123as456.text = properties_gr_GR_cog.media.key
 meMA.MM.Lauds123as678.text = properties_gr_GR_cog.media.key
 
 meMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-meMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "Τὴν λίμνην ὡς Παράδεισον, καὶ…"
 meMA.AposGlory.text = "Τὴν λίμνην ὡς Παράδεισον, καὶ τὸ κρύος ὡς καύσωνα, οἱ Μάρτυρες ἡγήσαντο, Χριστὲ ὁ Θεός· οὐκ ἔπτηξαν τὸν λογισμόν, αἱ τῶν τυράννων ἀπειλαί· οὐκ ἐδειλίασαν οἱ γενναῖοι, τῶν βασάνων τὰς προσβολάς, ὅπλον θεῖον κεκτημένοι τὸν Σταυρόν· διʼ αὐτοῦ γὰρ τὸν ἐχθρόν, ὡς κραταιοὶ ἐτροπώσαντο· ὅθεν καὶ τὸν στέφανον ἐκομίσαντο τῆς χάριτος."
 

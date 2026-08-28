@@ -69,7 +69,7 @@ trVE.Stichera10.incipit = tr.d067_gr_GR_cog.trMA.Aposticha4.incipit
 trVE.Stichera10.text = tr.d067_gr_GR_cog.trMA.Aposticha4.text
 
 trVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-trVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d067_gr_GR_cog.trMA.AposGlory.incipit
 trVE.SticGlory.text = tr.d067_gr_GR_cog.trMA.AposGlory.text
 
@@ -611,7 +611,7 @@ trMA.Aposticha4.incipit = "Μηδείς, ὦ πιστοί, τοῦ δεσπο�
 trMA.Aposticha4.text = "Μηδείς, ὦ πιστοί, τοῦ δεσποτικοῦ δείπνου ἀμύητος· μηδεὶς ὅλως ὡς ὁ Ἰούδας, δολίως προσίτω τῇ τραπέζῃ· ἐκεῖνος γὰρ τὸν ψωμὸν δεξάμενος, κατὰ τοῦ ἄρτου ἐχώρησε, σχήματι μὲν ὢν μαθητής, πράγματι δὲ παρὼν φονευτής, τοῖς μὲν Ἰουδαίοις συναγαλλόμενος, τοῖς δὲ Ἀποστόλοις συναυλιζόμενος· μισῶν ἐφίλει, φιλῶν ἐπώλει, τὸν ἐξαγοράσαντα ἡμᾶς τῆς κατάρας, τὸν Θεὸν καὶ Σωτῆρα τῶν ψυχῶν ἡμῶν."
 
 trMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-trMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = tr.d068_gr_GR_cog.trMA.Aposticha3.incipit
 trMA.AposGlory.text = tr.d068_gr_GR_cog.trMA.Aposticha3.text
 

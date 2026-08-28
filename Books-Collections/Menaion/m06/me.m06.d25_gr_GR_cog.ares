@@ -62,12 +62,12 @@ meVE.Stichera06.incipit = "Κύκλῳ παρενέβαλε…"
 meVE.Stichera06.text = "Κύκλῳ παρενέβαλε, σοῦ Φεβρωνία πανεύφημε, ὁ ῥυόμενος Ἄγγελος· ἐκ βρέφους γὰρ Κύριον, φοβουμένη ὤφθης, καὶ ἀνακειμένη, ὥς περ ἀνάθημα τερπνόν, τετηρημένον τῷ παντοκράτορι· ἐντεῦθεν κατεπάτησας, τὴν τοῦ Σελήνου παράνοιαν, καὶ στεφθεῖσα ἀνέδραμες, πρὸς Χριστὸν τὸν νυμφίον σου."
 
 meVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m06.d24_gr_GR_cog.meVE.SticBoth.incipit
 meVE.SticGlory.text = me.m06.d24_gr_GR_cog.meVE.SticBoth.text
 
 meVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-meVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m06.d24_gr_GR_cog.meVE.AposBoth.incipit
 meVE.AposGlory.text = me.m06.d24_gr_GR_cog.meVE.AposBoth.text
 
@@ -337,7 +337,7 @@ meMA.Exaposteilarion1.incipit = me.m06.d24_gr_GR_cog.meMA.Exaposteilarion1.incip
 meMA.Exaposteilarion1.text = me.m06.d24_gr_GR_cog.meMA.Exaposteilarion1.text
 
 meMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
-meMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = me.m06.d24_gr_GR_cog.meSV.SticGlory.incipit
 meMA.AposGlory.text = me.m06.d24_gr_GR_cog.meSV.SticGlory.text
 

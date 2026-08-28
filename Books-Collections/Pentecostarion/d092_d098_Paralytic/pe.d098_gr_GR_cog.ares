@@ -31,12 +31,12 @@ peVE.Stichera03.incipit = "Ὁ χορηγὸς τῆς σοφίας, καὶ…
 peVE.Stichera03.text = "Ὁ χορηγὸς τῆς σοφίας, καὶ τῶν καλῶν παροχεύς, ὁ χέων θεῖα ῥεῖθρα, ἐκ πηγῆς ἀενάου, Δεῦτε πρός με, κράζει, ὕδωρ ζωῆς, οἱ διψῶντες ἀρύσασθε· καὶ ποταμοὶ ἐκ κοιλίας ὑμῶν, φησί, χαρισμάτων θείων ῥεύσουσι."
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode1
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d095_gr_GR_cog.peVE.Aposticha1.incipit
 peVE.SticGlory.text = pe.d095_gr_GR_cog.peVE.Aposticha1.text
 
 peVE.SticBoth.mode = miscellanea_gr_GR_cog.misc.Mode3
-peVE.SticBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticBoth.melody = ""
 peVE.SticBoth.incipit = oc.m3.d1_gr_GR_cog.ocVE.SticTheotokion.incipit
 peVE.SticBoth.text = oc.m3.d1_gr_GR_cog.ocVE.SticTheotokion.text
 
@@ -61,7 +61,7 @@ peVE.Aposticha4.incipit = oc.m3.d1_gr_GR_cog.ocVE.Aposticha1.incipit
 peVE.Aposticha4.text = oc.m3.d1_gr_GR_cog.ocVE.Aposticha1.text
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode1
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d095_gr_GR_cog.peVE.Aposticha2.incipit
 peVE.AposGlory.text = pe.d095_gr_GR_cog.peVE.Aposticha2.text
 
@@ -128,6 +128,6 @@ peMA.Aposticha3.incipit = "Ἧκες ὁ Πλαστουργός, ἐν τῇ…
 peMA.Aposticha3.text = "Ἧκες ὁ Πλαστουργός, ἐν τῇ Σιὼν καὶ ἔστης, ἐν μέσῳ τοῦ λαοῦ σου· καὶ τοῖς λαοῖς ἐδίδως, τὴν χάριν τὴν σωτήριον."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode4
-peMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d096_gr_GR_cog.peMA.LaudsGlory.incipit
 peMA.AposGlory.text = pe.d096_gr_GR_cog.peMA.LaudsGlory.text

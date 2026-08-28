@@ -90,7 +90,7 @@ meVE.Stichera03.text = "Ποίοις πνευματικοῖς ᾄσμασιν,
 
 meVE.SticGlory.poet = poets_gr_GR_cog.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode4
-meVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Τῷ τριττῷ τῆς ἐρωτήσεως…"
 meVE.SticGlory.text = "Τῷ τριττῷ τῆς ἐρωτήσεως, τῷ Πέτρε φιλεῖς με, τὸ τριττὸν τῆς ἀρνήσεως, ὁ Χριστὸς διωρθώσατο· διὸ καὶ πρὸς τὸν κρυφιογνώστην ὁ Σίμων· Κύριε, πάντα γινώσκεις, τὰ πάντα ἐπίστασαι, σὺ οἶδας ὅτι φιλῶ σε. Ὅθεν πρὸς αὐτὸν ὁ Σωτήρ· Ποίμαινε τὰ πρόβατά μου, ποίμαινε τὴν ἐκλογάδα μου, ποίμανε τὰ ἀρνία μου, ἃ ἐν τῷ ἰδίῳ αἵματι περιεποιησάμην εἰς σωτηρίαν. Αὐτὸν ἱκέτευε, θεομακάριστε Ἀπόστολε, δωρηθῆναι ἡμῖν τὸ μέγα ἔλεος."
 
@@ -157,7 +157,7 @@ meVE.Aposticha3.text = "Τοὺς φωστῆρας τοὺς μεγάλους 
 
 meVE.AposGlory.poet = poets_gr_GR_cog.po.EfraimKarias
 meVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Ἑορτὴ χαρμόσυνος…"
 meVE.AposGlory.text = "Ἑορτὴ χαρμόσυνος, ἐπέλαμψε τοῖς πέρασι σήμερον, ἡ πάνσεπτος μνήμη τῶν σοφωτάτων Ἀποστόλων, καὶ κορυφαίων Πέτρου καὶ Παύλου· διὸ καὶ ἡμεῖς ἀδελφοί, ἐν ᾠδαῖς καὶ ὕμνοις ἑορτάσωμεν φαιδρῶς τὴν πανσεβάσμιον ταύτην ἡμέραν, λέγοντες· Χαῖρε, Πέτρε Ἀπόστολε, καὶ γνήσιε φίλε, τοῦ σοῦ διδασκάλου Χριστοῦ τοῦ Θεοῦ ἡμῶν. Χαῖρε, Παῦλε παμφίλτατε, καὶ κήρυξ τῆς πίστεως, καὶ διδάσκαλε τῆς οἰκουμένης. Ὡς ἔχον παῤῥησίαν, ζεῦγος ἁγιόλεκτον, Χριστὸν τὸν Θεόν ἡμῶν ἱκετεύσατε, σωθῆναι τὰς ψυχὰς ἡμῶν."
 

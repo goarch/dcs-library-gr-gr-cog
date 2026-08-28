@@ -51,7 +51,7 @@ trVE.Stichera07.incipit = "Σήμερον ὁ Ἅδης στένων βοᾷ�
 trVE.Stichera07.text = "Σήμερον ὁ Ἅδης στένων βοᾷ· Κατεπόθη μου τὸ κράτος, ὁ Ποιμὴν ἐσταυρώθη, καὶ τὸν Ἀδὰμ ἀνέστησεν· ὧν περ ἐβασίλευον ἐστέρημαι, καὶ οὓς κατέπιον ἰσχύσας, πάντας ἐξήμεσα, ἐκένωσε τοὺς τάφους ὁ σταυρωθείς, οὐκ ἰσχύει τοῦ θανάτου τὸ κράτος. Δόξα Κύριε τῷ Σταυρῷ σου, καὶ τῇ Ἀναστάσει σου."
 
 trVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-trVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d070_gr_GR_cog.trMA.LaudsGlory.incipit
 trVE.SticGlory.text = tr.d070_gr_GR_cog.trMA.LaudsGlory.text
 

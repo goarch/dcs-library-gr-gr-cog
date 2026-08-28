@@ -87,12 +87,12 @@ trVE.Stichera05.incipit = "Πρὸ ἓξ ἡμερῶν τοῦ Πάσχα…"
 trVE.Stichera05.text = "Πρὸ ἓξ ἡμερῶν τοῦ Πάσχα, ἦλθεν Ἰησοῦς εἰς Βηθανίαν, καὶ προσῆλθον αὐτῷ οἱ Μαθηταὶ αὐτοῦ, λέγοντες αὐτῷ· Κύριε, ποῦ θέλεις, ἑτοιμάσωμέν σοι φαγεῖν τὸ Πάσχα; ὁ δὲ ἀπέστειλεν αὐτούς· Ἀπέλθετε εἰς τὴν ἀπέναντι κώμην, καὶ εὑρήσετε ἄνθρωπον, κεράμιον ὕδατος βαστάζοντα· ἀκολουθήσατε αὐτῷ, καὶ τῷ οἰκοδεσπότῃ εἴπατε· ὁ Διδάσκαλος λέγει· Πρὸς σὲ ποιῶ τὸ Πάσχα, μετὰ τῶν Μαθητῶν μου."
 
 trVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-trVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d064_gr_GR_cog.trVE.Stichera01.incipit
 trVE.SticGlory.text = tr.d064_gr_GR_cog.trVE.Stichera01.text
 
 trVE.SticBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
-trVE.SticBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.SticBoth.melody = ""
 trVE.SticBoth.incipit = tr.d064_gr_GR_cog.trVE.Stichera01.incipit
 trVE.SticBoth.text = tr.d064_gr_GR_cog.trVE.Stichera01.text
 
@@ -142,12 +142,12 @@ trVE.Aposticha3.incipit = "Ὁ τοῖς Χερουβὶμ ἐποχούμεν�
 trVE.Aposticha3.text = "Ὁ τοῖς Χερουβὶμ ἐποχούμενος, καὶ ὑμνούμενος ὑπὸ τῶν Σεραφίμ, ἐπέβης ἐπὶ πώλου, Δαυϊτικῶς Ἀγαθέ, καὶ Παῖδές σε ἀνύμνουν θεοπρεπῶς, Ἰουδαῖοι ἐβλασφήμουν παρανόμως, τὸ ἀκάθεκτον τῶν ἐθνῶν, ἡ καθέδρα τοῦ πώλου προετύπου, ἐξ ἀπιστίας εἰς πίστιν μεταποιούμενον. Δόξα σοι Χριστέ, ὁ μόνος ἐλεήμων καὶ φιλάνθρωπος."
 
 trVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-trVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = tr.d064_gr_GR_cog.trVE.Stichera01.incipit
 trVE.AposGlory.text = tr.d064_gr_GR_cog.trVE.Stichera01.text
 
 trVE.AposBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
-trVE.AposBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.AposBoth.melody = ""
 trVE.AposBoth.incipit = tr.d064_gr_GR_cog.trVE.Stichera01.incipit
 trVE.AposBoth.text = tr.d064_gr_GR_cog.trVE.Stichera01.text
 

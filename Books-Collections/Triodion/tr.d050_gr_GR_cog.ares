@@ -37,12 +37,12 @@ trVE.Stichera03.text = me.m03.d30_gr_GR_cog.meVE.Stichera03.text
 trVE.MM.Stichera1123as78910.text = properties_gr_GR_cog.media.key
 
 trVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode5
-trVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "Ὅσιε Πάτερ, τῆς φωνῆς…"
 trVE.SticGlory.text = "Ὅσιε Πάτερ, τῆς φωνῆς τοῦ Εὐαγγελίου, τοῦ Κυρίου ἀκούσας, τὸν κόσμον κατέλιπες, τὸν πλοῦτον καὶ τὴν δόξαν εἰς οὐδὲν λογισάμενος· ὅθεν πᾶσιν ἐβόας· Ἀγαπήσατε τὸν Θεόν, καὶ εὑρήσετε χάριν αἰώνιον· μηδὲν προτιμήσητε τῆς ἀγάπης αὐτοῦ· ἵνα ὅταν ἔλθῃ ἐν τῇ δόξῃ αὐτοῦ, εὑρήσητε ἀνάπαυσιν μετὰ πάντων τῶν Ἁγιων· ὧν ταῖς ἱκεσίαις Χριστέ, φύλαξον, καὶ σῶσον τὰς ψυχὰς ἡμῶν."
 
 trVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
-trVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = "Τὸν ἐπὶ γῆς Ἄγγελον, καὶ…"
 trVE.AposGlory.text = "Τὸν ἐπὶ γῆς Ἄγγελον, καὶ ἐν οὐρανοῖς ἄνθρωπον Θεοῦ, τοῦ κόσμου τὴν εὐκοσμίαν, τὴν τρυφὴν τῶν ἀγαθῶν καὶ τῶν ἀρετῶν, τῶν Ἀσκητῶν τὸ καύχημα Ἰωάννην τιμήσωμεν· πεφυτευμένος γὰρ ἐν τῷ οἴκω τοῦ Θεοῦ, ἐξήνθησε δικαίως, καὶ ὡσεὶ κέδρος ἐν ἐρήμῳ ἐπλήθυνε τὰ ποίμνια Χριστοῦ, τῶν λογικῶν προβάτων, ἐν Ὁσιότητι καὶ δικαιοσύνῃ."
 

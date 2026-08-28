@@ -54,7 +54,7 @@ peVE.Stichera10.incipit = "Ἄρειος ὁ ἄφρων…"
 peVE.Stichera10.text = "Ἄρειος ὁ ἄφρων, τῆς παναγίας, τέτμηκε Τριάδος τὴν μοναρχίαν, εἰς τρεῖς ἀνομίους τε καὶ ἐκφύλους οὐσίας· ὅθεν Πατέρες θεοφόροι, συνελθόντες προθύμως, ζήλῳ πυρούμενοι, καθάπερ, ὁ Θεσβίτης Ἠλίας, τῷ τοῦ Πνεύματος τέμνουσι ξίφει, τὸν τῆς αἰσχύνης δογματίσαντα βλάσφημον, καθὼς τὸ Πνεῦμα ἀπεφήνατο."
 
 peVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-peVE.SticGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = me.m10.dHF_gr_GR_cog.meVE.SticGlory.incipit
 peVE.SticGlory.text = me.m10.dHF_gr_GR_cog.meVE.SticGlory.text
 
@@ -69,12 +69,12 @@ peVE.LityBoth.incipit = pe.d110_gr_GR_cog.peVE.Stichera05.incipit
 peVE.LityBoth.text = pe.d110_gr_GR_cog.peVE.Stichera05.text
 
 peVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode4
-peVE.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = me.m10.dHF_gr_GR_cog.meVE.AposGlory.incipit
 peVE.AposGlory.text = me.m10.dHF_gr_GR_cog.meVE.AposGlory.text
 
 peVE.AposBoth.mode = miscellanea_gr_GR_cog.misc.Mode4
-peVE.AposBoth.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+peVE.AposBoth.melody = ""
 peVE.AposBoth.incipit = pe.d110_gr_GR_cog.peVE.LityGlory.incipit
 peVE.AposBoth.text = pe.d110_gr_GR_cog.peVE.LityGlory.text
 

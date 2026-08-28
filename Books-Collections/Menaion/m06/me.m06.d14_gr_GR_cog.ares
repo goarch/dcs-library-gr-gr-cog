@@ -601,7 +601,7 @@ meMA.ExapTheotokion.text = da.d7_gr_GR_cog.daMA.ExapTheotokion2.text
 
 meMA.AposGlory.poet = poets_gr_GR_cog.po.FotiouPatriarchou
 meMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
-meMA.AposGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
+meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "Ἀστὴρ ἀνέτειλεν…"
 meMA.AposGlory.text = "Ἀστὴρ ἀνέτειλεν εὐσεβείας, ἀπὸ δυσμῶν ἡλίου τοῦ φαινομένου, ὁ μέγας ἐν Ἱεράρχαις Μεθόδιος· καὶ τὴν ἀχλὺν διατμήξας τῶν κακοδόξων, κατέπαυσεν εἰς τὴν ὄντως ἀνατολήν, τοῦ τῆς δικαιοσύνης ἡλίου, Χριστοῦ τοῦ Θεοῦ ἡμῶν· κἀκεῖσε ταῖς ἀσωμάτοις συναυλιζόμενος χορείαις, καὶ πρὸς τῷ θρόνῳ παρεστὼς τῆς Τριάδος, ὡς Ὅσιος, ὡς Μάρτυς, ὡς Ἱερεύς, ὡς Πατριάρχης, πράξει καὶ θεωρίᾳ, ἡμῖν αἰτεῖται τοῖς ἐν πίστει τελοῦσι, τὴν ἱερὰν αὐτοῦ μνήμην, τὸ μέγα ἔλεος."
 
