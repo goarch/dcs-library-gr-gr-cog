@@ -118,7 +118,7 @@ ocVE.ApolTheotokionVM.mode = miscellanea_gr_GR_cog.misc.Mode5
 ocVE.ApolTheotokionVM.greekmelody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.greekname
 ocVE.ApolTheotokionVM.melody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.name
 ocVE.ApolTheotokionVM.incipit = "Χαῖρε πύλη Κυρίου…"
-ocVE.ApolTheotokionVM.text = "Χαῖρε πύλη Κυρίου ἡ ἀδιόδευτος· Χαῖρε τεῖχος καὶ σκέπη τῶν προστρεχόντων εἰς σέ· Χαῖρε ἀχείμαστε λιμήν, καὶ ἀπειρόγαμε· ἡ τεκοῦσα ἐν σαρκὶ τὸν ποιητήν σου καὶ Θεόν, πρεσβεύουσα μὴ ἐλλείπῃς, ὑπὲρ τῶν ἀνυμνούντων, καὶ προσκυνούντων τὸν τόκον σου."
+ocVE.ApolTheotokionVM.text = "Χαῖρε πύλη Κυρίου ἡ ἀδιόδευτος· χαῖρε τεῖχος καὶ σκέπη τῶν προστρεχόντων εἰς σέ· χαῖρε ἀχείμαστε λιμὴν καὶ ἀπειρόγαμε· ἡ τεκοῦσα ἐν σαρκί, τὸν Ποιητήν σου καὶ Θεόν, πρεσβεύουσα μὴ ἐλλείπῃς, ὑπὲρ τῶν ἀνυμνούντων, καὶ προσκυνούντων τὸν τόκον σου."
 
 ocMO.title = "Κανὼν Τριαδικός,"
 ocMO.poet = ""

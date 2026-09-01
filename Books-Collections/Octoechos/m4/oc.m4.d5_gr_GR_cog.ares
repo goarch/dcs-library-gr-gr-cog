@@ -57,8 +57,8 @@ ocVE.Aposticha3.text = "Ἱερεῖα ἔμψυχα, ὁλοκαυτώματα
 
 ocVE.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode4
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.incipit = "Ῥῦσαι ἡμᾶς ἐκ τῶν ἀναγκῶν…"
-ocVE.AposTheotokion.text = "Ῥῦσαι ἡμᾶς ἐκ τῶν ἀναγκῶν ἡμῶν, Μήτηρ Χριστοῦ τοῦ Θεοῦ, ἡ τεκοῦσα τὸν τῶν ὅλων Ποιητήν, ἵνα πάντες κράζωμέν σοι· Χαῖρε ἡ μόνη προστασία τῶν ψυχῶν ἡμῶν."
+ocVE.AposTheotokion.incipit = "Ῥῦσαι ἡμᾶς…"
+ocVE.AposTheotokion.text = "Ῥῦσαι ἡμᾶς ἐκ τῶν ἀναγκῶν ἡμῶν, Μῆτερ Χριστοῦ τοῦ Θεοῦ, ἡ τεκοῦσα τὸν τῶν ὅλων Ποιητήν, ἵνα πάντες κράζωμέν σοι· Χαῖρε ἡ μόνη προστασία τῶν ψυχῶν ἡμῶν."
 
 ocVE.ApolTheotokionVM.mode = miscellanea_gr_GR_cog.misc.Mode4
 ocVE.ApolTheotokionVM.melody = ""
