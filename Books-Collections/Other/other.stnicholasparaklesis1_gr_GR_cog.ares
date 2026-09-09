@@ -15,7 +15,7 @@ hoCA.Apolytikion1.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion1.incipit = "Τοῦ Ἱεράρχου τή πανσέπτω Εἰκόνι…"
 hoCA.Apolytikion1.text = "Τοῦ Ἱεράρχου τή πανσέπτω Εἰκόνι, πιστοί προσπέσωμεν αὐτῶ ἐκβοῶντες, οἱ ἁμαρτίαις πολλαῖς ἐγκυλινδούμενοι, σπεῦσον ὤ Νικόλαε, Ἱεράρχα Κυρίου, σαῖς πρός τόν Φιλάνθρωπον, ἱεραῖς ἱκεσίαις, παντός κινδύνου, λύπης καί φθορᾶς, καί δεινῶν νόσων, ἁπάλλαξον ἅπαντας."
 
-hoCA.acrostic = "οὗ ἡ Ἀκροστιχὶς ἐν τοῖς Θεοτοκίοις· «Σεραφείμ»."
+hoCA.acrostic = "οὗ ἡ Ἀκροστιχὶς ἐν τοῖς Θεοτοκίοις· «Σεραφείμ»."
 hoCA.verse = prayers_gr_GR_cog.pr.verse_SaintM.text
 
 hoCA.Ode11.ode = miscellanea_gr_GR_cog.misc.Ode1
@@ -109,7 +109,7 @@ hoCA.Ode51.ode = miscellanea_gr_GR_cog.misc.Ode5
 hoCA.Ode51.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode51.melody = he.h.m8_gr_GR_cog.heHE.InaTiMeAposo.name
 hoCA.Ode51.incipit = "Ἀκλινεῖ διανοία, πρός τόν Ἐπουράνιον…"
-hoCA.Ode51.text = "Ἀκλινεῖ διανοία, πρός τόν Ἐπουράνιον ἀνῆλθες Κύριον, παρ’ οὐ καί τήν χάριν, τῶν μεγίστων θαυμάτων ἀπείληφας, Νικόλαε Μάκαρ· διό ἡμᾶς τούς σούς οἰκέτας, τῶν δεινῶν καί τῶν νόσων ἁπάλλαξον."
+hoCA.Ode51.text = "Ἀκλινεῖ διανοία, πρός τόν Ἐπουράνιον ἀνῆλθες Κύριον, παρ’ οὐ καί τήν χάριν, τῶν μεγίστων θαυμάτων ἀπείληφας, Νικόλαε Μάκαρ· διό ἡμᾶς τούς σούς οἰκέτας, τῶν δεινῶν καί τῶν νόσων ἁπάλλαξον."
 
 hoCA.Ode52.ode = miscellanea_gr_GR_cog.misc.Ode5
 hoCA.Ode52.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -133,7 +133,7 @@ hoCA.Ode61.ode = miscellanea_gr_GR_cog.misc.Ode6
 hoCA.Ode61.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode61.melody = he.h.m8_gr_GR_cog.heHE.TinDeisinEkcheo.name
 hoCA.Ode61.incipit = "Χειμάζει μέν τῶν κίνδυνων ὁ…"
-hoCA.Ode61.text = "Χειμάζει μέν τῶν κίνδυνων ὁ σάλος, οὐκ ἰσχύει δέ βυθίσαι μέ Μάκαρ· σέ γάρ ἀεί Κυβερνήτην πλουτήσας, πρός γαληνόν τόν λιμένα ἠδύνομαι, καί φθάνω μέχρις οὐρανοῦ, διά σου Ἱεράρχα Νικόλαε."
+hoCA.Ode61.text = "Χειμάζει μέν τῶν κίνδυνων ὁ σάλος, οὐκ ἰσχύει δέ βυθίσαι μέ Μάκαρ· σέ γάρ ἀεί Κυβερνήτην πλουτήσας, πρός γαληνόν τόν λιμένα ἠδύνομαι, καί φθάνω μέχρις οὐρανοῦ, διά σου Ἱεράρχα Νικόλαε."
 
 hoCA.Ode62.ode = miscellanea_gr_GR_cog.misc.Ode6
 hoCA.Ode62.mode = miscellanea_gr_GR_cog.misc.Mode8

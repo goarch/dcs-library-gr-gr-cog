@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m08.d13_gr_GR_cog
 
-meDA.date = "Τῌ ΙΓʹ ΑΥΓΟΥΣΤΟΥ"
+meDA.date = "Τῌ ΙΓʹ ΑΥΓΟΥΣΤΟΥ"
 meDA.commemoration.full = "Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Μαξίμου τοῦ Ὁμολογητοῦ" // full title of day
 meDA.commemoration.first = "Ἀπόδοσις τῆς Ἑορτῆς τῆς Μεταμορφώσεως"
 meDA.commemoration.first_short = "Ἀπόδοσις τῆς Ἑορτῆς τῆς Μεταμορφώσεως"

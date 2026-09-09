@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = pe.d105_gr_GR_cog
 
-peDA.commemoration.full = "Σάββατον τῆς Εʹ Ἑβδομάδος" //full title of day
-peDA.commemoration.short = "Σάββατον τῆς Εʹ Ἑβδομάδος"
+peDA.commemoration.full = "Σάββατον τῆς Εʹ Ἑβδομάδος" //full title of day
+peDA.commemoration.short = "Σάββατον τῆς Εʹ Ἑβδομάδος"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = ""
@@ -84,7 +84,7 @@ peMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode4
 peMA.Kathisma21.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
 peMA.Kathisma21.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 peMA.Kathisma21.incipit = "Ἀγαλλιάσθω οὐρανός, εὐφραινέσθω, τὰ ἐπὶ…"
-peMA.Kathisma21.text = "Ἀγαλλιάσθω οὐρανός, εὐφραινέσθω, τὰ ἐπὶ γῆς, ὅτι Χριστὸς ἐκ Παρθένου, ἐπιφανεὶς ὡς ἄνθρωπος, ἐῤῥύσατο φθορᾶς, ἄπαν τὸ ἀνθρώπινον, τῷ ἰδίῳ θανάτῳ· θαύμασιν ἐκλάμψας δέ, γυναικὶ Σαμαρείτιδι, ὕδωρ αἰτῶν παρέχει τὴν πηγήν, τῶν ἰαμάτων, ὡς μόνος ἀθάνατος."
+peMA.Kathisma21.text = "Ἀγαλλιάσθω οὐρανός, εὐφραινέσθω, τὰ ἐπὶ γῆς, ὅτι Χριστὸς ἐκ Παρθένου, ἐπιφανεὶς ὡς ἄνθρωπος, ἐῤῥύσατο φθορᾶς, ἄπαν τὸ ἀνθρώπινον, τῷ ἰδίῳ θανάτῳ· θαύμασιν ἐκλάμψας δέ, γυναικὶ Σαμαρείτιδι, ὕδωρ αἰτῶν παρέχει τὴν πηγήν, τῶν ἰαμάτων, ὡς μόνος ἀθάνατος."
 
 peMA.Lauds1.mode = miscellanea_gr_GR_cog.misc.Mode4
 peMA.Lauds1.melody = ""
@@ -115,7 +115,7 @@ peMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode4
 peMA.Aposticha1.greekmelody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.greekname
 peMA.Aposticha1.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
 peMA.Aposticha1.incipit = "Τὴν πηγὴν ἐν τῷ φρέατι…"
-peMA.Aposticha1.text = "Τὴν πηγὴν ἐν τῷ φρέατι, κατιδὼν τὴν ἀέναον, καθημένην γύναιον, φέρον καύσωνας, πλείστων παθῶν ἀκεσώδυνον, λαβεῖν ἐπεζήτησεν, ὕδωρ ζῶν τὸ ἐξ αὐτῆς, κρουνηδὸν ἐκχεόμενον· ὃ καὶ ἔλαβε, δωρεὰν ἐκ τοῦ Λόγου· καὶ οὐκέτι πρὸς τὸ φρέαρ ἐπισπεύδει, τὸ γεηρὸν καὶ ἐπίκηρον."
+peMA.Aposticha1.text = "Τὴν πηγὴν ἐν τῷ φρέατι, κατιδὼν τὴν ἀέναον, καθημένην γύναιον, φέρον καύσωνας, πλείστων παθῶν ἀκεσώδυνον, λαβεῖν ἐπεζήτησεν, ὕδωρ ζῶν τὸ ἐξ αὐτῆς, κρουνηδὸν ἐκχεόμενον· ὃ καὶ ἔλαβε, δωρεὰν ἐκ τοῦ Λόγου· καὶ οὐκέτι πρὸς τὸ φρέαρ ἐπισπεύδει, τὸ γεηρὸν καὶ ἐπίκηρον."
 
 peMA.Aposticha2.mode = miscellanea_gr_GR_cog.misc.Mode4
 peMA.Aposticha2.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
@@ -125,7 +125,7 @@ peMA.Aposticha2.text = "Ἰουδαίων τὰ ἔθιμα, τοῦ γυνα�
 peMA.Aposticha3.mode = miscellanea_gr_GR_cog.misc.Mode4
 peMA.Aposticha3.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
 peMA.Aposticha3.incipit = "Οὔτε ἄντλημα κέκτησαι, καὶ τὸ…"
-peMA.Aposticha3.text = "Οὔτε ἄντλημα κέκτησαι, καὶ τὸ φρέαρ βαθύτατον· πόθεν οὖν καὶ δώσεις μοι ὕδωρ ἄφθαρτον; ἡ Σαμαρεῖτις ἐβόα σοι, Χριστέ σε ὡς ἄνθρωπον, οἰομένη οὐ Θεόν, καὶ τοὺς λόγους θαυμάζουσα· ἣν προσρήμασι, γλυκυτάτοις ἀρδεύσας σὲ Θεόν τε, καὶ Σωτῆρα τῶν ἁπάντων, ὁμολογεῖν παρεσκεύασας."
+peMA.Aposticha3.text = "Οὔτε ἄντλημα κέκτησαι, καὶ τὸ φρέαρ βαθύτατον· πόθεν οὖν καὶ δώσεις μοι ὕδωρ ἄφθαρτον; ἡ Σαμαρεῖτις ἐβόα σοι, Χριστέ σε ὡς ἄνθρωπον, οἰομένη οὐ Θεόν, καὶ τοὺς λόγους θαυμάζουσα· ἣν προσρήμασι, γλυκυτάτοις ἀρδεύσας σὲ Θεόν τε, καὶ Σωτῆρα τῶν ἁπάντων, ὁμολογεῖν παρεσκεύασας."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
 peMA.AposGlory.melody = pe.d099_gr_GR_cog.peMA.Lauds8.melody

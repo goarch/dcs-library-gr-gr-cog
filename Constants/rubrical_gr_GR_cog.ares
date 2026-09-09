@@ -1,24 +1,24 @@
 A_Resource_Whose_Name = rubrical_gr_GR_cog
 
-ru.AfterEachPetition = "(μεθʼ ἑκάστην δέησιν)"
+ru.AfterEachPetition = "(μεθ’ ἑκάστην δέησιν)"
 
 ru.And = "καὶ"
 
-ru.AndTheFollowing = "καὶ τὸ ἑξῆς·"
+ru.AndTheFollowing = "καὶ τὸ ἑξῆς·"
 
 ru.Aloud = "(ἐκφώνως)"
 
-ru.AndAgain = "Καὶ πάλιν·"
+ru.AndAgain = "Καὶ πάλιν·"
 
-ru.AndThen = "Καὶ εὐθύς·"
+ru.AndThen = "Καὶ εὐθύς·"
 
-ru.Antiphon1OfMode4 = "Οἱ Ἀναβαθμοί, τὸ Αʹ Ἀντίφωνον τοῦ δʹ ἤχου."
+ru.Antiphon1OfMode4 = "Οἱ Ἀναβαθμοί, τὸ Αʹ Ἀντίφωνον τοῦ δʹ ἤχου."
 
 ru.AsAllowedAndNeeded = "(εἰ ἔξεστι καὶ δεῖ)"
 
 ru.BeginMatins = "Εἶτα ἄρχεται ὁ Ὄρθρος."
 
-ru.BeginVespers = "Καὶ ἀμέσως ἄρχεται ὁ Ἑσπερινός· «Δεῦτε προσκυνήσωμεν…»"
+ru.BeginVespers = "Καὶ ἀμέσως ἄρχεται ὁ Ἑσπερινός· «Δεῦτε προσκυνήσωμεν…»"
 
 ru.BlessingWithTheCross = "(εὐλογῶν μετὰ τοῦ σταυροῦ)"
 
@@ -42,9 +42,9 @@ ru.DifferentMenaionOde9InEnglish = "-"
 
 ru.DifferentMenaionSticheraInEnglish = "-"
 
-ru.DuringPaschalSeasonUse = "Κατὰ τὴν Πασχαλινὴν περίοδον, τὰ ἑξῆς·"
+ru.DuringPaschalSeasonUse = "Κατὰ τὴν Πασχαλινὴν περίοδον, τὰ ἑξῆς·"
 
-ru.EntranceWithGospel = "Εἴσοδος μετʼ Εὐαγγελίου."
+ru.EntranceWithGospel = "Εἴσοδος μετ’ Εὐαγγελίου."
 
 ru.Extended = "(ἀργῶς)"
 
@@ -52,7 +52,7 @@ ru.FacingThrone = "(προσβλέπων πρὸς τὸν θρόνον)"
 
 ru.FastButNotSaturday = "Νηστεία (ἐν Σαββάτῳ κατάλυσις)."
 
-ru.Forty = "(μʹ)"
+ru.Forty = "(μʹ)"
 
 ru.FromTheAltarTable = "(ἀπὸ τῆς ἁγίας τραπέζης)"
 
@@ -68,11 +68,11 @@ ru.HolidayFish = "Ἀργία καὶ ἰχθύος κατάλυσις."
 
 ru.HolidayWineOil = "Ἀργία καὶ κατάλυσις οἴνου καὶ ἐλαίου."
 
-ru.IfExistsIfNot = "εἴ ἐστιν· εἰδὲ μή,"
+ru.IfExistsIfNot = "εἴ ἐστιν· εἰδὲ μή,"
 
-ru.IfLityDoneAtVespers = "Εἰ ἐτελέσθη ἡ Λιτή, τὰ ἑξῆς·"
+ru.IfLityDoneAtVespers = "Εἰ ἐτελέσθη ἡ Λιτή, τὰ ἑξῆς·"
 
-ru.IfLityNotDoneAtVespers = "Εἰ οὐκ ἐτελέσθη ἡ Λιτὴ εἰς τὸν Ἑσπερινόν, τὰ ἑξῆς·"
+ru.IfLityNotDoneAtVespers = "Εἰ οὐκ ἐτελέσθη ἡ Λιτὴ εἰς τὸν Ἑσπερινόν, τὰ ἑξῆς·"
 
 ru.InALowVoice = "(χαμηλοφώνως)"
 
@@ -84,15 +84,15 @@ ru.InPlaceOfRightChoir = "(ἀντὶ τοῦ δεξιοῦ Χοροῦ)"
 
 ru.Intoned = "(χῦμα)"
 
-ru.IntonedAfterEachPetition = "(χῦμα μεθʼ ἑκάστην δέησιν)"
+ru.IntonedAfterEachPetition = "(χῦμα μεθ’ ἑκάστην δέησιν)"
 
-ru.LityLordHaveMercy101010103 = "Εἰς τὸ σημεῖον «*» οἱ χοροί ψάλλουν· Κύριε ἐλέησον μʹ ἀνὰ ιʹ ἐναλλάξ, καὶ αὖθις ὁμοίως γʹ ἐναλλάξ."
+ru.LityLordHaveMercy101010103 = "Εἰς τὸ σημεῖον «*» οἱ χοροί ψάλλουν· Κύριε ἐλέησον μʹ ἀνὰ ιʹ ἐναλλάξ, καὶ αὖθις ὁμοίως γʹ ἐναλλάξ."
 
 ru.LocalChurchApolytikionSung = "Ψάλλεται τὸ Ἀπολυτίκιον τοῦ Ναοῦ."
 
-ru.MemorialHymnSung = "Ἐὰν ᾖ Μνημόσυνον, ψάλλεται ἐκ τοῦ βήματος τὸ Ἀπολυτίκιον τῶν Κεκοιμημένων."
+ru.MemorialHymnSung = "Ἐὰν ᾖ Μνημόσυνον, ψάλλεται ἐκ τοῦ βήματος τὸ Ἀπολυτίκιον τῶν Κεκοιμημένων."
 
-ru.MenaionSynaxarionNote = "(Τὸ Συναξάριον τῆς ἡμέρας ἀναγινώσκεται ἀπὸ τὸ Μηναῖον, εἴτα τὸ παρόν·)"
+ru.MenaionSynaxarionNote = "(Τὸ Συναξάριον τῆς ἡμέρας ἀναγινώσκεται ἀπὸ τὸ Μηναῖον, εἴτα τὸ παρόν·)"
 
 ru.NoEntrance = "(Εἴσοδος οὐ γίνεται.)"
 
@@ -102,21 +102,21 @@ ru.OmitMagnificat = "Ἡ Τιμιωτέρα οὐ στιχολογεῖται."
 
 ru.Once = "(ἄπαξ)"
 
-ru.OnceOrThrice = "(ἄπαξ ἢ ἐκ γʹ)"
+ru.OnceOrThrice = "(ἄπαξ ἢ ἐκ γʹ)"
 
-ru.Optional = "Εἰ βούλει, τὸ ἑξῆς·"
+ru.Optional = "Εἰ βούλει, τὸ ἑξῆς·"
 
-ru.Or = "ἤ·"
+ru.Or = "ἤ·"
 
-ru.OrAccordingToCommonPractice = "ἢ ὡς συνήθως·"
+ru.OrAccordingToCommonPractice = "ἢ ὡς συνήθως·"
 
-ru.OrAccordingToOlderPractice = "ἢ κατὰ τὴν παλαιωτέραν τάξιν·"
+ru.OrAccordingToOlderPractice = "ἢ κατὰ τὴν παλαιωτέραν τάξιν·"
 
-ru.OtherwiseTheFollowing = " Εἰ μή, τὰ ἑξῆς·"
+ru.OtherwiseTheFollowing = " Εἰ μή, τὰ ἑξῆς·"
 
 ru.Read = "(διαβαστά)"
 
-ru.RelaxedFish = "Εἰς τὴν τράπεζαν γίνεται παράκλησις τοῖς ἀδελφοῖς· ἐσθίομεν γὰρ ἰχθύας."
+ru.RelaxedFish = "Εἰς τὴν τράπεζαν γίνεται παράκλησις τοῖς ἀδελφοῖς· ἐσθίομεν γὰρ ἰχθύας."
 
 ru.SlowlyFromWithinTheAltar = "(τοῦ βήματος)"
 
@@ -124,25 +124,25 @@ ru.Sung = "(ἐμμελῶς)"
 
 ru.SungSlowly = "(ψάλλεται ἀργῶς)"
 
-ru.Then = "Εἴτα·"
+ru.Then = "Εἴτα·"
 
 ru.ThenSingSlowly = "Εἶτα ψάλλομεν ἀργῶς τὸ παρόν."
 
 ru.ThreeTimesDayHoliday = "Ἀργία τριήμερος."
 
-ru.ThreeTimes = "(ἐκ γʹ)"
+ru.ThreeTimes = "(ἐκ γʹ)"
 
 ru.Thrice = "(3)"
 
 ru.TriodionSynaxarion = "Τὸ Συναξάριον τῆς ἡμέρας ἀναγινώσκεται ἀπὸ τὸ Μηναῖον, καί εὐθὺς ἀμέσως τὸ παρὸν ὑπόμνημα τοῦ Τριῳδίου."
 
-ru.Twelve = "(ιβʹ)"
+ru.Twelve = "(ιβʹ)"
 
 ru.Twice = "(δίς)"
 
 ru.TwiceWithNoVerse = "Δίς, ἄνευ Στίχου."
 
-ru.TwOrMorePriests = "Ὅταν εἶναι δύο ἢ περισσότεροι ἱερεῖς·"
+ru.TwOrMorePriests = "Ὅταν εἶναι δύο ἢ περισσότεροι ἱερεῖς·"
 
 ru.VigilEntry = "Ὁ στίχος οὗτος μπορεῖ νὰ ψάλλεται καθὼς θυμιᾶ ὁ ἱερεύς."
 
@@ -160,7 +160,7 @@ ru.fasting.rule.dairy = "Κατάλυσις εἰς τυρὸν καὶ ὠά.
 ru.fasting.rule.free = "Κατάλυσις εἰς πάντα."
 
 ru.fasting.explanation.title = "Ἑξήγησις Νηστείας"
-ru.fasting.explanation.triodion1 = "Εἶναι ἡ Αʹ ἑβδομάδα τοῦ Τριῳδίου."
+ru.fasting.explanation.triodion1 = "Εἶναι ἡ Αʹ ἑβδομάδα τοῦ Τριῳδίου."
 ru.fasting.explanation.triodion3 = "Εἶναι ἡμέρα τῆς Τυρινῆς."
 ru.fasting.explanation.lent = "Εἶναι Μ. Τεσσαρακοστή."
 ru.fasting.explanation.lentweekend = "Εἶναι Σαββατοκύριακο τῆς Μ. Τεσσαρακοστῆς."
@@ -184,7 +184,7 @@ ru.standing.vespers.simeonprayer = "διὰ τὴν ἀνάγνωσιν τῶν
 ru.standing.matins.sixpsalms = "διὰ τὴν ἀνάγνωσιν τοῦ Ἑξαψάλμου."
 ru.standing.matins.gospel = "διὰ τὴν ἀνάγνωσιν τοῦ Εὐαγγελίου."
 ru.standing.matins.synaxarion = "διὰ τὴν ἀνάγνωσιν τοῦ Συναξαρίου."
-ru.standing.matins.ode9 = "διὰ τὴν Θʹ Ὠδήν."
+ru.standing.matins.ode9 = "διὰ τὴν Θʹ Ὠδήν."
 ru.standing.matins.smalldoxology = "διὰ τὴν ἀνάγνωσιν τῆς Δοξολογίας."
 ru.standing.matins.greatdoxology = "διὰ τὴν Μ. Δοξολογίαν."
 
@@ -193,10 +193,10 @@ ru.transfer.service.date.feb24 = "Ἡ μνήμη τῆς Εὑρέσεως τ�
 ru.transfer.service.date.mar09 = "Ἡ μνήμη τῶν Ἁγ. Τεσσαράκοντα Μαρτύρων μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 9ης Μαρτίου."
 ru.transfer.service.date.apr23 = "Ἡ μνήμη τοῦ Ἁγίου Γεωργίου τοῦ Τροπαιοφόρου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 23ης Ἀπριλίου."
 ru.transfer.service.date.apr25 = "Ἡ μνήμη τοῦ Ἁγίου Εὐαγγελιστοῦ Μάρκου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 25ης Ἀπριλίου."
-ru.transfer.service.date.may02 = "Ἡ μνήμη τοῦ Ἁγίου Ἀθανασίου Ἀλεξανδρείας μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 2ας Μαΐου."
-ru.transfer.service.date.may08 = "Ἡ μνήμη τοῦ Ἁγίου Ἰωάννου τοῦ Θεολόγου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 8ης Μαΐου."
-ru.transfer.service.date.may21 = "Ἡ μνήμη τῶν Ἁγ. Κωνσταντίνου καὶ Ἑλένης μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 21ης Μαΐου."
-ru.transfer.service.date.may25 = "Ἡ μνήμη τῆς Εὑρέσεως τῆς Κεφαλῆς τοῦ Προδρόμου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 24ης Μαΐου."
+ru.transfer.service.date.may02 = "Ἡ μνήμη τοῦ Ἁγίου Ἀθανασίου Ἀλεξανδρείας μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 2ας Μαΐου."
+ru.transfer.service.date.may08 = "Ἡ μνήμη τοῦ Ἁγίου Ἰωάννου τοῦ Θεολόγου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 8ης Μαΐου."
+ru.transfer.service.date.may21 = "Ἡ μνήμη τῶν Ἁγ. Κωνσταντίνου καὶ Ἑλένης μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 21ης Μαΐου."
+ru.transfer.service.date.may25 = "Ἡ μνήμη τῆς Εὑρέσεως τῆς Κεφαλῆς τοῦ Προδρόμου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 24ης Μαΐου."
 ru.transfer.service.date.jun04 = "Ἡ μνήμη τοῦ Ἁγίου Μητροφάνους Κωνσταντινουπόλεως μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 4ης Ἰουνίου."
 ru.transfer.service.date.jun24 = "Ἡ μνήμη τοῦ Γενεσίου τοῦ Προδρόμου μετατίθεται εἰς τὴν σήμερον ἀπὸ τῆς 24ης Ἰουνίου."
 

@@ -12,15 +12,15 @@ hoCA.media.text = properties_gr_GR_cog.media.key
 hoCA.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion1.incipit = "Σωματικαῖς καὶ ψυχικαῖς…"
-hoCA.Apolytikion1.text = "Σωματικαῖς καὶ ψυχικαῖς ἀσθενείαις, καταπονούμενοι καὶ σφόδρα ἀλγοῦντες, πρὸς σὲ πιστῶς προσπίπτομεν ὡς τέκνα τῇ Μητρί· ὡς ἀποκυήσασα Ἰατρὸν καὶ Σωτῆρα, ἴασαι τῶν δούλων σου, ἀσθενείας καὶ ἄλγη, ἵνα δοξάζωμεν, ὦ Γιάτρισσα, ἀεί, τὴν μητρικήν σου, πρεσβείαν πρὸς Κύριον."
+hoCA.Apolytikion1.text = "Σωματικαῖς καὶ ψυχικαῖς ἀσθενείαις, καταπονούμενοι καὶ σφόδρα ἀλγοῦντες, πρὸς σὲ πιστῶς προσπίπτομεν ὡς τέκνα τῇ Μητρί· ὡς ἀποκυήσασα Ἰατρὸν καὶ Σωτῆρα, ἴασαι τῶν δούλων σου, ἀσθενείας καὶ ἄλγη, ἵνα δοξάζωμεν, ὦ Γιάτρισσα, ἀεί, τὴν μητρικήν σου, πρεσβείαν πρὸς Κύριον."
 
 hoCA.Apolytikion2.mode = miscellanea_gr_GR_cog.misc.Mode4
 hoCA.Apolytikion2.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion2.incipit = "Τῆς παναγίας σου μορφῆς…"
-hoCA.Apolytikion2.text = "Τῆς παναγίας σου μορφῆς τὴν εἰκόνα, ἐν ἀσθενείαις κατακείμενοι πόθῳ, ὡς ζῶσαν ἀσπαζόμεθα, ὦ Γιάτρισσα σεμνή, καὶ θερμῶς αἰτούμεθα, ὅπως χεῖρας ἐκτείνῃς, πρὸς Υἱὸν Φιλάνθρωπον, ἵνα δῷ τὴν ὑγείαν, τοῖς δεομένοις καὶ ἱκετικῶς, βοώντων· Μῆτερ, ταχέως ἐπίσκεψαι."
+hoCA.Apolytikion2.text = "Τῆς παναγίας σου μορφῆς τὴν εἰκόνα, ἐν ἀσθενείαις κατακείμενοι πόθῳ, ὡς ζῶσαν ἀσπαζόμεθα, ὦ Γιάτρισσα σεμνή, καὶ θερμῶς αἰτούμεθα, ὅπως χεῖρας ἐκτείνῃς, πρὸς Υἱὸν Φιλάνθρωπον, ἵνα δῷ τὴν ὑγείαν, τοῖς δεομένοις καὶ ἱκετικῶς, βοώντων· Μῆτερ, ταχέως ἐπίσκεψαι."
 
 hoCA.acrostic.title = "Ὁ Κανών,"
-hoCA.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+hoCA.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 hoCA.acrostic.text = "Ἴασαι, ὦ Γιάτρισσα, νόσους ἡμῶν ἁπάσας. Ἀ(θανάσιος)."
 hoCA.verse = prayers_gr_GR_cog.pr.verse_Theotokos.text
 
@@ -40,13 +40,13 @@ hoCA.Ode12.ode = miscellanea_gr_GR_cog.misc.Ode1
 hoCA.Ode12.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode12.melody = he.h.m8_gr_GR_cog.heHE.YgranDiodefsas.name
 hoCA.Ode12.incipit = "Ἀγάπης σου ἄνοιξον…"
-hoCA.Ode12.text = "Ἀγάπης σου ἄνοιξον τοὺς κρουνούς, καὶ τῆς συμπαθείας, δεῖξον πλοῦτον ἡμῖν πολύν, νοσοῦσι καὶ κράζουσιν ἐκ βάθους· ταχέως πρόφθασον, Δέσποινα Γιάτρισσα."
+hoCA.Ode12.text = "Ἀγάπης σου ἄνοιξον τοὺς κρουνούς, καὶ τῆς συμπαθείας, δεῖξον πλοῦτον ἡμῖν πολύν, νοσοῦσι καὶ κράζουσιν ἐκ βάθους· ταχέως πρόφθασον, Δέσποινα Γιάτρισσα."
 
 hoCA.Ode13.ode = miscellanea_gr_GR_cog.misc.Ode1
 hoCA.Ode13.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode13.melody = he.h.m8_gr_GR_cog.heHE.YgranDiodefsas.name
 hoCA.Ode13.incipit = "Σεπτήν σου εἰκόνα…"
-hoCA.Ode13.text = "Σεπτήν σου εἰκόνα κατακρατῶν, ὡς ζώσῃ κραυγάζω ἐπὶ κλίνης βαρυαλγῶν· εἰπὲ τῷ Υἱῷ σου ἕνα λόγον, καὶ παρευθὺς τοῦ νοσήματος λύομαι."
+hoCA.Ode13.text = "Σεπτήν σου εἰκόνα κατακρατῶν, ὡς ζώσῃ κραυγάζω ἐπὶ κλίνης βαρυαλγῶν· εἰπὲ τῷ Υἱῷ σου ἕνα λόγον, καὶ παρευθὺς τοῦ νοσήματος λύομαι."
 
 hoCA.Ode14.ode = miscellanea_gr_GR_cog.misc.Ode1
 hoCA.Ode14.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -92,7 +92,7 @@ hoCA.Troparion31.text = "Διάσωσον, ἀπὸ κινδύνων παντ�
 hoCA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode2
 hoCA.Kathisma11.melody = he.a.m2_gr_GR_cog.heAU.TaAnoZiton.name
 hoCA.Kathisma11.incipit = "Ἐν νόσοις δειναῖς…"
-hoCA.Kathisma11.text = "Ἐν νόσοις δειναῖς, καὶ θλίψεσι καμπτόμενοι, πρὸς σὲ τεκνικῶς ὦ Γιάτρισσα, προστρέχομεν, καὶ σεπτὴν εἰκόνα σου, ἀσπαζόμενοι ἱκετεύομεν· δεήθητι τοῦ Ἰησοῦ, ταχέως χαρίσασθαι τὴν ἴασιν."
+hoCA.Kathisma11.text = "Ἐν νόσοις δειναῖς, καὶ θλίψεσι καμπτόμενοι, πρὸς σὲ τεκνικῶς ὦ Γιάτρισσα, προστρέχομεν, καὶ σεπτὴν εἰκόνα σου, ἀσπαζόμενοι ἱκετεύομεν· δεήθητι τοῦ Ἰησοῦ, ταχέως χαρίσασθαι τὴν ἴασιν."
 
 hoCA.Ode4H.ode = miscellanea_gr_GR_cog.misc.Ode4
 hoCA.Ode4H.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -140,7 +140,7 @@ hoCA.Ode52.ode = miscellanea_gr_GR_cog.misc.Ode5
 hoCA.Ode52.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode52.melody = he.h.m8_gr_GR_cog.heHE.FotisonImas.name
 hoCA.Ode52.incipit = "Στίγματα δεινά…"
-hoCA.Ode52.text = "Στίγματα δεινά, ἐπιφέρων ὁ ταλαίπωρος, ἐξ ὧν ἔπραξα καὶ πάσχων ἐξαιτῶ· κάθαρόν μου, συνειδὸς ἐκ τούτων, Γιάτρισσα."
+hoCA.Ode52.text = "Στίγματα δεινά, ἐπιφέρων ὁ ταλαίπωρος, ἐξ ὧν ἔπραξα καὶ πάσχων ἐξαιτῶ· κάθαρόν μου, συνειδὸς ἐκ τούτων, Γιάτρισσα."
 
 hoCA.Ode53.ode = miscellanea_gr_GR_cog.misc.Ode5
 hoCA.Ode53.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -164,7 +164,7 @@ hoCA.Ode61.ode = miscellanea_gr_GR_cog.misc.Ode6
 hoCA.Ode61.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode61.melody = he.h.m8_gr_GR_cog.heHE.TinDeisinEkcheo.name
 hoCA.Ode61.incipit = "Οἱ πόνοι μου…"
-hoCA.Ode61.text = "Οἱ πόνοι μου, τὴν ψυχὴν κατέβαλον, καὶ ἐξέλιπεν ἰσχὺς σώματός μου, διὸ Ἁγνή, φάρμακόν μοι χορήγει, τὰς μητρικάς σου εὐχὰς καὶ τὴν δέησιν, δι᾿ ὧν τῆς κλίνη παρευθύς, ὑγιὴς ἐγερθήσομαι, Γιάτρισσα."
+hoCA.Ode61.text = "Οἱ πόνοι μου, τὴν ψυχὴν κατέβαλον, καὶ ἐξέλιπεν ἰσχὺς σώματός μου, διὸ Ἁγνή, φάρμακόν μοι χορήγει, τὰς μητρικάς σου εὐχὰς καὶ τὴν δέησιν, δι’ ὧν τῆς κλίνη παρευθύς, ὑγιὴς ἐγερθήσομαι, Γιάτρισσα."
 
 hoCA.Ode62.ode = miscellanea_gr_GR_cog.misc.Ode6
 hoCA.Ode62.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -192,7 +192,7 @@ hoCA.Troparion61.text = hoCA.Troparion31.text
 hoCA.Kontakion.mode = miscellanea_gr_GR_cog.misc.Mode2
 hoCA.Kontakion.melody = "Προστασία τῶν χριστιανῶν."
 hoCA.Kontakion.incipit = "όδυνώμενοι βίου…"
-hoCA.Kontakion.text = "όδυνώμενοι βίου ταῖς θλίψεσι, καὶ τῷ ἄλγει τῶν νόσων βαρούμενοι, τῆς καρδίας, τοὺς ὀφθαλμοὺς ἐκτείνομεν πρὸς σέ, καὶ νοῦν ἔχοντες δεινῶς, ἐπὶ τῆς κλίνης τῶν παθῶν, κατακείμενον κράζομεν· ἴασαι τοὺς σοὺς δούλους, ἐξ ἀσθενείας πάσης, καὶ τὴν εἰρήνην ταῖς ψυχαῖς, δὸς Πανάμωμε Γιάτρισσα."
+hoCA.Kontakion.text = "όδυνώμενοι βίου ταῖς θλίψεσι, καὶ τῷ ἄλγει τῶν νόσων βαρούμενοι, τῆς καρδίας, τοὺς ὀφθαλμοὺς ἐκτείνομεν πρὸς σέ, καὶ νοῦν ἔχοντες δεινῶς, ἐπὶ τῆς κλίνης τῶν παθῶν, κατακείμενον κράζομεν· ἴασαι τοὺς σοὺς δούλους, ἐξ ἀσθενείας πάσης, καὶ τὴν εἰρήνην ταῖς ψυχαῖς, δὸς Πανάμωμε Γιάτρισσα."
 
 hoCA.PostGospelGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
 hoCA.PostGospelGlory.melody = ""
@@ -202,7 +202,7 @@ hoCA.PostGospelGlory.text = "Γιάτρισσας πρεσβείαις, Δέ�
 hoCA.PostGospelHymn1.mode = miscellanea_gr_GR_cog.misc.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.name
 hoCA.PostGospelHymn1.incipit = "Παναγία Γιάτρισσα…"
-hoCA.PostGospelHymn1.text = "Παναγία Γιάτρισσα, ἡ οἰκουμένην σῷ τόκῳ, παραδόξως σώσασα, καὶ ἡμᾶς ἐν θλίψεσι νῦν ὑπάρχοντας, σῶσον ἱκεσίαις σου, καὶ ὑγείαν δίδου, ἀσθενοῦσι καὶ ἀνάρρωσον, νόσους διώκουσα, καὶ ψυχαῖς γαλήνην παρέχουσα· εἰ μὴ γὰρ σὺ Πανάχραντε, χεῖράς σου ὑψώσῃς πρὸς Κύριον, ἕτερος τίς σώσει; διὸ τὴν μητρικήν σου ἀῤῥωγήν, παράσχου ὅπως εἰκόνα σου, πίστει ἀσπαζώμεθα."
+hoCA.PostGospelHymn1.text = "Παναγία Γιάτρισσα, ἡ οἰκουμένην σῷ τόκῳ, παραδόξως σώσασα, καὶ ἡμᾶς ἐν θλίψεσι νῦν ὑπάρχοντας, σῶσον ἱκεσίαις σου, καὶ ὑγείαν δίδου, ἀσθενοῦσι καὶ ἀνάρρωσον, νόσους διώκουσα, καὶ ψυχαῖς γαλήνην παρέχουσα· εἰ μὴ γὰρ σὺ Πανάχραντε, χεῖράς σου ὑψώσῃς πρὸς Κύριον, ἕτερος τίς σώσει; διὸ τὴν μητρικήν σου ἀῤῥωγήν, παράσχου ὅπως εἰκόνα σου, πίστει ἀσπαζώμεθα."
 
 hoCA.Ode7H.ode = miscellanea_gr_GR_cog.misc.Ode7
 hoCA.Ode7H.mode = miscellanea_gr_GR_cog.misc.Mode8

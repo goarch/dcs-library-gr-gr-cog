@@ -40,7 +40,7 @@ daMA.Exaposteilarion2.mode = miscellanea_gr_GR_cog.misc.Mode3
 daMA.Exaposteilarion2.greekmelody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.greekname
 daMA.Exaposteilarion2.melody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.name
 daMA.Exaposteilarion2.incipit = "Ὁ καὶ νεκρῶν καὶ ζώντων…"
-daMA.Exaposteilarion2.text = "Ὁ καὶ νεκρῶν καὶ ζώντων, ἐξουσιάζων ὡς Θεός, ἀνάπαυσον τοὺς σοὺς δούλους, ἐν ταῖς σκηναῖς τῶν ἐκλεκτῶν· εἰ γὰρ καὶ ἥμαρτον Σῶτερ, ἀλλʼ οὐκ ἀπέστησαν ἐκ σοῦ."
+daMA.Exaposteilarion2.text = "Ὁ καὶ νεκρῶν καὶ ζώντων, ἐξουσιάζων ὡς Θεός, ἀνάπαυσον τοὺς σοὺς δούλους, ἐν ταῖς σκηναῖς τῶν ἐκλεκτῶν· εἰ γὰρ καὶ ἥμαρτον Σῶτερ, ἀλλ’ οὐκ ἀπέστησαν ἐκ σοῦ."
 
 daMA.ExapTheotokion1.mode = miscellanea_gr_GR_cog.misc.Mode3
 daMA.ExapTheotokion1.greekmelody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.greekname
@@ -52,7 +52,7 @@ daMA.ExapTheotokion2.mode = miscellanea_gr_GR_cog.misc.Mode2
 daMA.ExapTheotokion2.greekmelody = he.a.m2_gr_GR_cog.heAU.TonMathitonOrontonSe.greekname
 daMA.ExapTheotokion2.melody = he.a.m2_gr_GR_cog.heAU.TonMathitonOrontonSe.name
 daMA.ExapTheotokion2.incipit = "Ἡμεῖς ἐν σοὶ…"
-daMA.ExapTheotokion2.text = "Ἡμεῖς ἐν σοὶ καυχώμεθα Θεοτόκε, καὶ εἰς Θεόν σε ἔχομεν προστασίαν· ἔκτεινον τὴν χεῖρά σου τὴν ἄμαχον, καὶ θραῦσον τοὺς ἐχθροὺς ἡμῶν· σοῖς ἐξαπόστειλον δούλοις, βοήθειαν ἐξ ἁγίου."
+daMA.ExapTheotokion2.text = "Ἡμεῖς ἐν σοὶ καυχώμεθα Θεοτόκε, καὶ εἰς Θεόν σε ἔχομεν προστασίαν· ἔκτεινον τὴν χεῖρά σου τὴν ἄμαχον, καὶ θραῦσον τοὺς ἐχθροὺς ἡμῶν· σοῖς ἐξαπόστειλον δούλοις, βοήθειαν ἐξ ἁγίου."
 
 daLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 

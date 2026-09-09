@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = pe.d084_gr_GR_cog
 
-peDA.commemoration.full = "Σάββατον τῆς Βʹ Ἑβδομάδος" //full title of day
-peDA.commemoration.short = "Σάββατον τῆς Βʹ Ἑβδομάδος"
+peDA.commemoration.full = "Σάββατον τῆς Βʹ Ἑβδομάδος" //full title of day
+peDA.commemoration.short = "Σάββατον τῆς Βʹ Ἑβδομάδος"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = ""

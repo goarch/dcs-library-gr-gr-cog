@@ -8,7 +8,7 @@ heGA.TouProfitouSou.incipit = "Τοῦ Προφήτου σου…"
 heGA.TouProfitouSou.mode = miscellanea_gr_GR_cog.misc.Mode2
 heGA.TouProfitouSou.melody = ""
 heGA.TouProfitouSou.text1 = "Τοῦ Προφήτου σου" // insert name from Menaion. E.g. me.m09.d04_gr_GR_cog.meVE.Apolytikion2.text 
-heGA.TouProfitouSou.text2 = " τὴν μνήμην, Κύριε, ἑορτάζοντες, διʼ αὐτοῦ σὲ δυσωποῦμεν· Σῶσον τὰς ψυχὰς ἡμῶν."
+heGA.TouProfitouSou.text2 = " τὴν μνήμην, Κύριε, ἑορτάζοντες, δι’ αὐτοῦ σὲ δυσωποῦμεν· Σῶσον τὰς ψυχὰς ἡμῶν."
 
 // For one named Apostle and/or Evangelist. Insert name.
 heGA.ApostoleAgie.name = "Ἀπόστολε Ἅγιε."
@@ -40,7 +40,7 @@ heGA.OMartysSouKyrie.incipit = "Ὁ Μάρτυς σου Κύριε…"
 heGA.OMartysSouKyrie.mode = miscellanea_gr_GR_cog.misc.Mode4
 heGA.OMartysSouKyrie.greekmelody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.greekname
 heGA.OMartysSouKyrie.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
-heGA.OMartysSouKyrie.text = "Ὁ Μάρτυς σου Κύριε, ἐν τῇ ἀθλήσει αὐτοῦ, τὸ στέφος ἐκομίσατο τῆς ἀφθαρσίας, ἐκ σοῦ τοῦ Θεοῦ ἡμῶν· ἔχων γὰρ τὴν ἰσχύν σου, τοὺς τυράννους καθεῖλεν· ἔθραυσε καὶ δαιμόνων, τὰ ἀνίσχυρα θράση. Αὐτοῦ ταῖς ἱκεσίαις, Χριστὲ ὁ Θεός, σῶσον τὰς ψυχὰς ἡμῶν."
+heGA.OMartysSouKyrie.text = "Ὁ Μάρτυς σου Κύριε, ἐν τῇ ἀθλήσει αὐτοῦ, τὸ στέφος ἐκομίσατο τῆς ἀφθαρσίας, ἐκ σοῦ τοῦ Θεοῦ ἡμῶν· ἔχων γὰρ τὴν ἰσχύν σου, τοὺς τυράννους καθεῖλεν· ἔθραυσε καὶ δαιμόνων, τὰ ἀνίσχυρα θράση. Αὐτοῦ ταῖς ἱκεσίαις, Χριστὲ ὁ Θεός, σῶσον τὰς ψυχὰς ἡμῶν."
 
 // For several unnamed Martyrs
 heGA.OiMartyresSouKyrie.name = "Οἱ Μάρτυρές σου Κύριε."
@@ -48,7 +48,7 @@ heGA.OiMartyresSouKyrie.incipit = "Οἱ Μάρτυρές σου Κύριε�
 heGA.OiMartyresSouKyrie.mode = miscellanea_gr_GR_cog.misc.Mode4
 heGA.OiMartyresSouKyrie.greekmelody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.greekname
 heGA.OiMartyresSouKyrie.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
-heGA.OiMartyresSouKyrie.text = "Οἱ Μάρτυρές σου Κύριε, ἐν τῇ ἀθλήσει αὐτῶν, στεφάνους ἐκομίσαντο τῆς ἀφθαρσίας, ἐκ σοῦ τοῦ Θεοῦ ἡμῶν· σχόντες γὰρ τὴν ἰσχύν σου, τοὺς τυράννους καθεῖλον, ἔθραυσαν καὶ δαιμόνων, τὰ ἀνίσχυρα θράση. Αὐτῶν ταῖς ἱκεσίαις, Χριστὲ ὁ Θεός, σῶσον τὰς ψυχὰς ἡμῶν."
+heGA.OiMartyresSouKyrie.text = "Οἱ Μάρτυρές σου Κύριε, ἐν τῇ ἀθλήσει αὐτῶν, στεφάνους ἐκομίσαντο τῆς ἀφθαρσίας, ἐκ σοῦ τοῦ Θεοῦ ἡμῶν· σχόντες γὰρ τὴν ἰσχύν σου, τοὺς τυράννους καθεῖλον, ἔθραυσαν καὶ δαιμόνων, τὰ ἀνίσχυρα θράση. Αὐτῶν ταῖς ἱκεσίαις, Χριστὲ ὁ Θεός, σῶσον τὰς ψυχὰς ἡμῶν."
 
 // For one unnamed woman Martyr
 heGA.IAmnasSou.name = "Ἡ ἀμνάς σου Ἰησοῦ."
@@ -56,7 +56,7 @@ heGA.IAmnasSou.incipit = "Ἡ ἀμνάς σου Ἰησοῦ…"
 heGA.IAmnasSou.mode = miscellanea_gr_GR_cog.misc.Mode4
 heGA.IAmnasSou.greekmelody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.greekname
 heGA.IAmnasSou.melody = he.a.m4_gr_GR_cog.heAU.KateplagiIosif.name
-heGA.IAmnasSou.text = "Ἡ ἀμνάς σου Ἰησοῦ, κράζει μεγάλη τῇ φωνῇ. Σὲ Νυμφίε μου ποθῶ, καὶ σὲ ζητοῦσα ἀθλῶ, καὶ συσταυροῦμαι καὶ συνθάπτομαι τῷ βαπτισμῷ σου· καὶ πάσχω διὰ σέ, ὡς βασιλεύσω σὺν σοί, καὶ θνήσκω ὑπὲρ σοῦ, ἵνα καὶ ζήσω ἐν σοί· ἀλλʼ ὡς θυσίαν ἄμωμον προσδέχου τὴν μετὰ πόθου τυθεῖσάν σοι. Αὐτῆς πρεσβείαις, ὡς ἐλεήμων, σῶσον τὰς ψυχὰς ἡμῶν."
+heGA.IAmnasSou.text = "Ἡ ἀμνάς σου Ἰησοῦ, κράζει μεγάλη τῇ φωνῇ. Σὲ Νυμφίε μου ποθῶ, καὶ σὲ ζητοῦσα ἀθλῶ, καὶ συσταυροῦμαι καὶ συνθάπτομαι τῷ βαπτισμῷ σου· καὶ πάσχω διὰ σέ, ὡς βασιλεύσω σὺν σοί, καὶ θνήσκω ὑπὲρ σοῦ, ἵνα καὶ ζήσω ἐν σοί· ἀλλ’ ὡς θυσίαν ἄμωμον προσδέχου τὴν μετὰ πόθου τυθεῖσάν σοι. Αὐτῆς πρεσβείαις, ὡς ἐλεήμων, σῶσον τὰς ψυχὰς ἡμῶν."
 
 // For a group of unnamed Martyrs
 heGA.TasAlgidonas.name = "Τὰς ἀλγηδόνας τῶν Ἁγίων."
@@ -70,7 +70,7 @@ heGA.KaiTroponMetochos.name = "Καὶ τρόπων μέτοχος."
 heGA.KaiTroponMetochos.incipit = "Καὶ τρόπων μέτοχος…"
 heGA.KaiTroponMetochos.mode = miscellanea_gr_GR_cog.misc.Mode4
 heGA.KaiTroponMetochos.melody = ""
-heGA.KaiTroponMetochos.text1 = "Καὶ τρόπων μέτοχος, καὶ θρόνων διάδοχος, τῶν Ἀποστόλων γενόμενος, τὴν πρᾶξιν εὗρες Θεόπνευστε, εἰς θεωρίας ἐπίβασιν· διὰ τοῦτο τὸν λόγον τῆς ἀληθείας ὀρθοτομῶν, καὶ τῇ πίστει ἐνήθλησας μέχρις αἵματος, Ἱερομάρτυς"
+heGA.KaiTroponMetochos.text1 = "Καὶ τρόπων μέτοχος, καὶ θρόνων διάδοχος, τῶν Ἀποστόλων γενόμενος, τὴν πρᾶξιν εὗρες Θεόπνευστε, εἰς θεωρίας ἐπίβασιν· διὰ τοῦτο τὸν λόγον τῆς ἀληθείας ὀρθοτομῶν, καὶ τῇ πίστει ἐνήθλησας μέχρις αἵματος, Ἱερομάρτυς"
 heGA.KaiTroponMetochos.text2 = "πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 // For one named ascetic man. Insert name with semicolon. See Automelon: he.a.m1_gr_GR_cog.heAU.TisErimouPolitis.text
@@ -80,7 +80,7 @@ heGA.TisErimouPolitis.mode = miscellanea_gr_GR_cog.misc.Mode1
 heGA.TisErimouPolitis.greekmelody = he.a.m1_gr_GR_cog.heAU.TisErimouPolitis.greekname
 heGA.TisErimouPolitis.melody = he.a.m1_gr_GR_cog.heAU.TisErimouPolitis.name
 heGA.TisErimouPolitis.text1 = "Τῆς ἐρήμου πολίτης καὶ ἐν σώματι ἄγγελος καὶ θαυματουργὸς ἀνεδείχθης θεοφόρε πατὴρ ἡμῶν"
-heGA.TisErimouPolitis.text2 = "νηστείᾳ, ἀγρυπνίᾳ, προσευχῇ, οὐράνια χαρίσματα λαβών· θεραπεύεις τοὺς νοσοῦντας καὶ τὰς ψυχὰς τῶν πίστει προστρεχόντων σοι. Δόξα τῷ δεδωκότι σοι ἰσχύν, δόξα τῷ σὲ στεφανώσαντι, δόξα τῷ ἐνεργοῦντι διὰ σοῦ πᾶσιν ἰάματα."
+heGA.TisErimouPolitis.text2 = "νηστείᾳ, ἀγρυπνίᾳ, προσευχῇ, οὐράνια χαρίσματα λαβών· θεραπεύεις τοὺς νοσοῦντας καὶ τὰς ψυχὰς τῶν πίστει προστρεχόντων σοι. Δόξα τῷ δεδωκότι σοι ἰσχύν, δόξα τῷ σὲ στεφανώσαντι, δόξα τῷ ἐνεργοῦντι διὰ σοῦ πᾶσιν ἰάματα."
 
 // For one named ascetic man. Insert name and title with comma: name Πατὴρ ἡμῶν ὅσιε,
 heGA.TaisTonDakryonSou.name = "Ταῖς τῶν δακρύων σου ῥοαῖς."
@@ -95,7 +95,7 @@ heGA.EnSoiPaterAkrivos.name = "Ἐν σοὶ Πάτερ ἀκριβῶς."
 heGA.EnSoiPaterAkrivos.incipit = "Ἐν σοὶ Πάτερ…"
 heGA.EnSoiPaterAkrivos.mode = miscellanea_gr_GR_cog.misc.Mode8
 heGA.EnSoiPaterAkrivos.melody = ""
-heGA.EnSoiPaterAkrivos.text1 = "Ἐν σοὶ Πάτερ ἀκριβῶς διεσώθη τὸ κατʼ εἰκόνα· λαβὼν γὰρ τὸν σταυρόν, ἠκολούθησας τῷ Χριστῷ καὶ πράττων ἐδίδασκες· ὑπερορᾶν μὲν σαρκός, παρέρχεται γάρ, ἐπιμελεῖσθαι δὲ ψυχῆς πράγματος ἀθανάτου. Διὸ καὶ μετὰ Ἀγγέλων συναγάλλεται, Ὅσιε"
+heGA.EnSoiPaterAkrivos.text1 = "Ἐν σοὶ Πάτερ ἀκριβῶς διεσώθη τὸ κατ’ εἰκόνα· λαβὼν γὰρ τὸν σταυρόν, ἠκολούθησας τῷ Χριστῷ καὶ πράττων ἐδίδασκες· ὑπερορᾶν μὲν σαρκός, παρέρχεται γάρ, ἐπιμελεῖσθαι δὲ ψυχῆς πράγματος ἀθανάτου. Διὸ καὶ μετὰ Ἀγγέλων συναγάλλεται, Ὅσιε"
 heGA.EnSoiPaterAkrivos.text2 = "τὸ πνεῦμά σου."
 
 // For one named ascetic woman. Insert name
@@ -103,7 +103,7 @@ heGA.EnSoiMiterAkrivos.name = "Ἐν σοὶ Μῆτερ ἀκριβῶς."
 heGA.EnSoiMiterAkrivos.incipit = "Ἐν σοὶ Μῆτερ…"
 heGA.EnSoiMiterAkrivos.mode = miscellanea_gr_GR_cog.misc.Mode8
 heGA.EnSoiMiterAkrivos.melody = ""
-heGA.EnSoiMiterAkrivos.text1 = "Ἐν σοὶ Μῆτερ ἀκριβῶς διεσώθη τὸ κατʼ εἰκόνα· λαβοῦσα γὰρ τὸν Σταυρόν, ἠκολούθησας τῷ Χριστῷ, καὶ πράττουσα ἐδίδασκες, ὑπερορᾶν μὲν σαρκός, παρέρχεται γάρ· ἐπιμελεῖσθαι δὲ ψυχῆς, πράγματος ἀθανάτου· διὸ καὶ μετὰ Ἀγγέλων συναγάλλεται, ὁσία"
+heGA.EnSoiMiterAkrivos.text1 = "Ἐν σοὶ Μῆτερ ἀκριβῶς διεσώθη τὸ κατ’ εἰκόνα· λαβοῦσα γὰρ τὸν Σταυρόν, ἠκολούθησας τῷ Χριστῷ, καὶ πράττουσα ἐδίδασκες, ὑπερορᾶν μὲν σαρκός, παρέρχεται γάρ· ἐπιμελεῖσθαι δὲ ψυχῆς, πράγματος ἀθανάτου· διὸ καὶ μετὰ Ἀγγέλων συναγάλλεται, ὁσία"
 heGA.EnSoiMiterAkrivos.text2 = "τὸ πνεῦμά σου."
 
 // For one named Hierarch. Insert "Father" and title/name etc with semicolon
@@ -111,7 +111,7 @@ heGA.KanonaPisteos.name = "Κανόνα πίστεως."
 heGA.KanonaPisteos.incipit = "Κανόνα πίστεως…"
 heGA.KanonaPisteos.mode = miscellanea_gr_GR_cog.misc.Mode4
 heGA.KanonaPisteos.melody = ""
-heGA.KanonaPisteos.text1 = "Κανόνα πίστεως καὶ εἰκόνα πραότητος, ἐγκρατείας διδάσκαλον, ἀνέδειξέ σε τῇ ποίμνῃ σου, ἡ τῶν πραγμάτων ἀλήθεια· διὰ τοῦτο ἐκτήσω τῇ ταπεινώσει τὰ ὑψηλά, τῇ πτωχείᾳ τὰ πλούσια,"
+heGA.KanonaPisteos.text1 = "Κανόνα πίστεως καὶ εἰκόνα πραότητος, ἐγκρατείας διδάσκαλον, ἀνέδειξέ σε τῇ ποίμνῃ σου, ἡ τῶν πραγμάτων ἀλήθεια· διὰ τοῦτο ἐκτήσω τῇ ταπεινώσει τὰ ὑψηλά, τῇ πτωχείᾳ τὰ πλούσια,"
 heGA.KanonaPisteos.text2 = "πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 // For one named Hierarch Confessor or Teacher
@@ -120,7 +120,7 @@ heGA.OrthodoxiasOdigeH.incipit = "Ὀρθοδοξίας ὁδηγέ…"
 heGA.OrthodoxiasOdigeH.mode = miscellanea_gr_GR_cog.misc.Mode8
 heGA.OrthodoxiasOdigeH.melody = ""
 heGA.OrthodoxiasOdigeH.text1 = "Ὀρθοδοξίας ὁδηγέ, εὐσεβείας διδάσκαλε καὶ σεμνότητος, τῆς οἰκουμένης ὁ φωστήρ, ἀρχιερέων θεόπνευστον ἐγκαλλώπισμα,"
-heGA.OrthodoxiasOdigeH.text2 = " σοφέ, ταῖς διδαχαῖς σου πάντας ἐφώτισας, λύρα τοῦ Πνεύματος· πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
+heGA.OrthodoxiasOdigeH.text2 = " σοφέ, ταῖς διδαχαῖς σου πάντας ἐφώτισας, λύρα τοῦ Πνεύματος· πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 // For one named monastic Confessor or Teacher
 heGA.OrthodoxiasOdigeM.name = "Ὀρθοδοξίας ὁδηγέ."
@@ -128,14 +128,14 @@ heGA.OrthodoxiasOdigeM.incipit = "Ὀρθοδοξίας ὁδηγέ…"
 heGA.OrthodoxiasOdigeM.mode = miscellanea_gr_GR_cog.misc.Mode8
 heGA.OrthodoxiasOdigeM.melody = ""
 heGA.OrthodoxiasOdigeM.text1 = "Ὀρθοδοξίας ὁδηγέ, εὐσεβείας διδάσκαλε καὶ σεμνότητος, τῆς οἰκουμένης ὁ φωστήρ, τῶν μοναστῶν τὸ θεόπνευστον ἐγκαλλώπισμα,"
-heGA.OrthodoxiasOdigeM.text2 = " σοφέ, ταῖς διδαχαῖς σου πάντας ἐφώτισας, λύρα τοῦ Πνεύματος· πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
+heGA.OrthodoxiasOdigeM.text2 = " σοφέ, ταῖς διδαχαῖς σου πάντας ἐφώτισας, λύρα τοῦ Πνεύματος· πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
 
 // For several unnamed holy Fathers
 heGA.OTheosTonPateronImon.name = "Ὁ Θεὸς τῶν πατέρων ἡμῶν."
 heGA.OTheosTonPateronImon.incipit = "Ὁ Θεὸς τῶν πατέρων ἡμῶν…"
 heGA.OTheosTonPateronImon.mode = miscellanea_gr_GR_cog.misc.Mode4
 heGA.OTheosTonPateronImon.melody = ""
-heGA.OTheosTonPateronImon.text = "Ὁ Θεὸς τῶν πατέρων ἡμῶν, ὁ ποιῶν ἀεὶ μεθʼ ἡμῶν κατὰ τὴν σην ἐπιείκειαν, μὴ ἀποστήσῃς τὸ ἔλεός σου ἀφʼ ἡμῶν, ἀλλὰ ταῖς αὐτῶν ἱκεσίαις, ἐν εἰρήνῃ κυβέρνησον τὴν ζωὴν ἡμῶν."
+heGA.OTheosTonPateronImon.text = "Ὁ Θεὸς τῶν πατέρων ἡμῶν, ὁ ποιῶν ἀεὶ μεθ’ ἡμῶν κατὰ τὴν σην ἐπιείκειαν, μὴ ἀποστήσῃς τὸ ἔλεός σου ἀφ’ ἡμῶν, ἀλλὰ ταῖς αὐτῶν ἱκεσίαις, ἐν εἰρήνῃ κυβέρνησον τὴν ζωὴν ἡμῶν."
 
 // For a Stylite
 heGA.YpomonisStylos.name = "Ὑπομονῆς στῦλος."

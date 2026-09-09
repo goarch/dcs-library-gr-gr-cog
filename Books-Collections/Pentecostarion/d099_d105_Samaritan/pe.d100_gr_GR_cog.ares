@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = pe.d100_gr_GR_cog
 
 peDA.commemoration.full = "" //full title of day
-peDA.commemoration.short = "Δευτέρα τῆς Εʹ Ἑβδομάδος"
+peDA.commemoration.short = "Δευτέρα τῆς Εʹ Ἑβδομάδος"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = "holy_wisdom"
@@ -73,13 +73,13 @@ peMA.Kathisma13.text = oc.m4.d2_gr_GR_cog.ocMA.Kathisma32.text
 peMA.Kathisma1T.mode = miscellanea_gr_GR_cog.misc.Mode4
 peMA.Kathisma1T.melody = //also found in Mid-hour 3
 peMA.Kathisma1T.incipit = "Τεῖχος ἀκαταμάχητον ἡμῶν τῶν Χριστιανῶν…"
-peMA.Kathisma1T.text = "Τεῖχος ἀκαταμάχητον ἡμῶν τῶν Χριστιανῶν, ὑπάρχεις Θεοτόκε Παρθένε· πρὸς σὲ γὰρ καταφεύγοντες, ἄτρωτοι διαμένομεν, καὶ πάλιν ἁμαρτάνοντες, βοῶμέν σοι· Χαῖρε κεχαριτωμένη ὁ Κύριος μετὰ σοῦ."
+peMA.Kathisma1T.text = "Τεῖχος ἀκαταμάχητον ἡμῶν τῶν Χριστιανῶν, ὑπάρχεις Θεοτόκε Παρθένε· πρὸς σὲ γὰρ καταφεύγοντες, ἄτρωτοι διαμένομεν, καὶ πάλιν ἁμαρτάνοντες, βοῶμέν σοι· Χαῖρε κεχαριτωμένη ὁ Κύριος μετὰ σοῦ."
 
 peMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode8
 peMA.Kathisma21.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 peMA.Kathisma21.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 peMA.Kathisma21.incipit = "Ἡ Σοφία ὁ Λόγος ὁ…"
-peMA.Kathisma21.text = "Ἡ Σοφία ὁ Λόγος ὁ τοῦ Πατρός, ὁ καὶ δοὺς Ἀποστόλοις ῥῆμα Θεοῦ, κηρῦξαι τοῖς πέρασι, τὴν ἐν γῇ αὐτοῦ ἔλευσιν ὑπὸ πλάνων Ἑβραίων, μανίᾳ ὑβρίζετο, δαιμονῶν καὶ πλάνος, φρικτῶς λοιδορούμενος, ὃς ἀνεξικάκως, πρὸς αὐτοὺς ἀνεβόα· Μὴ κρίνετε ἄκριτον, κατʼ ἐμοῦ κρίσιν ἄνομοι. Πρὸς αὐτὸν οὖν βοήσωμεν· Φιλάνθρωπε Χριστὲ ὁ Θεός, τῶν πταισμάτων ἄφεσιν κατάπεμψον, τοῖς ἀνυμνοῦσιν ἐν πίστει, τὴν ἀνείκαστον δόξαν σου."
+peMA.Kathisma21.text = "Ἡ Σοφία ὁ Λόγος ὁ τοῦ Πατρός, ὁ καὶ δοὺς Ἀποστόλοις ῥῆμα Θεοῦ, κηρῦξαι τοῖς πέρασι, τὴν ἐν γῇ αὐτοῦ ἔλευσιν ὑπὸ πλάνων Ἑβραίων, μανίᾳ ὑβρίζετο, δαιμονῶν καὶ πλάνος, φρικτῶς λοιδορούμενος, ὃς ἀνεξικάκως, πρὸς αὐτοὺς ἀνεβόα· Μὴ κρίνετε ἄκριτον, κατ’ ἐμοῦ κρίσιν ἄνομοι. Πρὸς αὐτὸν οὖν βοήσωμεν· Φιλάνθρωπε Χριστὲ ὁ Θεός, τῶν πταισμάτων ἄφεσιν κατάπεμψον, τοῖς ἀνυμνοῦσιν ἐν πίστει, τὴν ἀνείκαστον δόξαν σου."
 
 peMA.Lauds1.mode = miscellanea_gr_GR_cog.misc.Mode4
 peMA.Lauds1.melody = ""
@@ -115,7 +115,7 @@ peMA.Aposticha2.text = "Ὅλος ἐν τῷ Θεῷ, ὁ λόγος σὺ ὑ
 peMA.Aposticha3.mode = miscellanea_gr_GR_cog.misc.Mode2
 peMA.Aposticha3.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
 peMA.Aposticha3.incipit = "Σὺ εἶ Παμβασιλεῦ, σοφία ἡ…"
-peMA.Aposticha3.text = "Σὺ εἶ Παμβασιλεῦ, σοφία ἡ μεγάλη, διʼ οὗ Πατὴρ τὸν κόσμον, ἐποίησε πανσόφως, σὺν τῷ ἁγίῳ Πνεύματι."
+peMA.Aposticha3.text = "Σὺ εἶ Παμβασιλεῦ, σοφία ἡ μεγάλη, δι’ οὗ Πατὴρ τὸν κόσμον, ἐποίησε πανσόφως, σὺν τῷ ἁγίῳ Πνεύματι."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
 peMA.AposGlory.melody = pe.d097_gr_GR_cog.peMA.AposGlory.melody

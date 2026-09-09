@@ -17,7 +17,7 @@ trCO.header = ""
 trVE.AposIdiomelon1.mode = miscellanea_gr_GR_cog.misc.Mode8
 trVE.AposIdiomelon1.melody = miscellanea_gr_GR_cog.misc.Idiomelon
 trVE.AposIdiomelon1.incipit = "Διὰ νηστείας καθαρθῆναι σπεύσωμεν, τοῦ…"
-trVE.AposIdiomelon1.text = "Διὰ νηστείας καθαρθῆναι σπεύσωμεν, τοῦ ῥύπου τῶν πταισμάτων ἡμῶν, καὶ διʼ ἐλέους καὶ φιλανθρωπίας, τῆς πρὸς τοὺς πένητας, εἰσελθεῖν εἰς τὸν νυμφῶνα τοῦ νυμφίου Χριστοῦ, τοῦ παρέχοντος ἡμῖν τὸ μέγα ἔλεος"
+trVE.AposIdiomelon1.text = "Διὰ νηστείας καθαρθῆναι σπεύσωμεν, τοῦ ῥύπου τῶν πταισμάτων ἡμῶν, καὶ δι’ ἐλέους καὶ φιλανθρωπίας, τῆς πρὸς τοὺς πένητας, εἰσελθεῖν εἰς τὸν νυμφῶνα τοῦ νυμφίου Χριστοῦ, τοῦ παρέχοντος ἡμῖν τὸ μέγα ἔλεος"
 
 trVE.AposMartyric.mode = miscellanea_gr_GR_cog.misc.Mode8
 trVE.AposMartyric.melody = ""
@@ -94,7 +94,7 @@ trMA.Ode2C23.ode = miscellanea_gr_GR_cog.misc.Ode2
 trMA.Ode2C23.mode = miscellanea_gr_GR_cog.misc.Mode2
 trMA.Ode2C23.melody = he.h.m2_gr_GR_cog.heHE.ProsecheteLaosMou.name
 trMA.Ode2C23.incipit = "Ὑπάρχεις γὰρ Χριστὲ πολυέλεος, πάντας…"
-trMA.Ode2C23.text = "Ὑπάρχεις γὰρ Χριστὲ πολυέλεος, πάντας ἀγαθέ, ἀεὶ προσδεχόμενος, ἐν μετανοίᾳ· διὸ πάντες σε ἀεὶ δοξάζομεν."
+trMA.Ode2C23.text = "Ὑπάρχεις γὰρ Χριστὲ πολυέλεος, πάντας ἀγαθέ, ἀεὶ προσδεχόμενος, ἐν μετανοίᾳ· διὸ πάντες σε ἀεὶ δοξάζομεν."
 
 trMA.Ode2C2Tr.ode = miscellanea_gr_GR_cog.misc.Ode2
 trMA.Ode2C2Tr.mode = miscellanea_gr_GR_cog.misc.Mode2
@@ -126,7 +126,7 @@ trMA.Ode8C12.ode = miscellanea_gr_GR_cog.misc.Ode8
 trMA.Ode8C12.mode = miscellanea_gr_GR_cog.misc.Mode3
 trMA.Ode8C12.melody = he.h.m3_gr_GR_cog.heHE.TonExAnarchou.name
 trMA.Ode8C12.incipit = "Προκαθαρθῶμεν ἀδελφοί, τῆς ψυχῆς τὰ…"
-trMA.Ode8C12.text = "Προκαθαρθῶμεν ἀδελφοί, τῆς ψυχῆς τὰ αἰσθητήρια, καὶ τῷ Κυρίῳ νῦν προσκολληθῶμεν, τρόποις κατανύξεως, βοῶντες εἰλικρινῶς, μετανοίᾳ καθαρᾷ· Ὑμνεῖτε, εὐλογεῖτε, καὶ ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
+trMA.Ode8C12.text = "Προκαθαρθῶμεν ἀδελφοί, τῆς ψυχῆς τὰ αἰσθητήρια, καὶ τῷ Κυρίῳ νῦν προσκολληθῶμεν, τρόποις κατανύξεως, βοῶντες εἰλικρινῶς, μετανοίᾳ καθαρᾷ· Ὑμνεῖτε, εὐλογεῖτε, καὶ ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
 
 trMA.Ode8C13.ode = miscellanea_gr_GR_cog.misc.Ode8
 trMA.Ode8C13.mode = miscellanea_gr_GR_cog.misc.Mode3
@@ -163,7 +163,7 @@ trMA.Ode8C2Tr.ode = miscellanea_gr_GR_cog.misc.Ode8
 trMA.Ode8C2Tr.mode = miscellanea_gr_GR_cog.misc.Mode2
 trMA.Ode8C2Tr.melody = he.h.m2_gr_GR_cog.heHE.TonEnTiVatoMosi.name
 trMA.Ode8C2Tr.incipit = "Δόξα Πατρί, καὶ Υἱῷ, καὶ…"
-trMA.Ode8C2Tr.text = "Δόξα Πατρί, καὶ Υἱῷ, καὶ τῷ ἁγίῳ Πνεύματι· εἷς Θεὸς γὰρ τὰ τρία, σὺν Ἀγγέλοις ἀπαύστως, βροτοὶ ἀνευφημοῦμεν, σὲ παναγία Τριάς, εἰς πάντας τοὺς αἰῶνας."
+trMA.Ode8C2Tr.text = "Δόξα Πατρί, καὶ Υἱῷ, καὶ τῷ ἁγίῳ Πνεύματι· εἷς Θεὸς γὰρ τὰ τρία, σὺν Ἀγγέλοις ἀπαύστως, βροτοὶ ἀνευφημοῦμεν, σὲ παναγία Τριάς, εἰς πάντας τοὺς αἰῶνας."
 
 trMA.Ode8C2T.ode = miscellanea_gr_GR_cog.misc.Ode8
 trMA.Ode8C2T.mode = miscellanea_gr_GR_cog.misc.Mode2
@@ -207,7 +207,7 @@ trMA.Ode9C1T.ode = miscellanea_gr_GR_cog.misc.Ode9
 trMA.Ode9C1T.mode = miscellanea_gr_GR_cog.misc.Mode3
 trMA.Ode9C1T.melody = he.h.m3_gr_GR_cog.heHE.SeTinAkataflekton.name
 trMA.Ode9C1T.incipit = "Σὲ τὴν κραταιάν προστασίαν, καὶ…"
-trMA.Ode9C1T.text = "Σὲ τὴν κραταιάν προστασίαν, καὶ βεβαίαν ἐλπίδα, ἀνυμνοῦντες εὐσεβῶς, ἐκδυσωποῦμεν· Τὸν Υἱόν σου δυσώπει, Παρθένε τοῦ σωθῆναι ἡμᾶς."
+trMA.Ode9C1T.text = "Σὲ τὴν κραταιάν προστασίαν, καὶ βεβαίαν ἐλπίδα, ἀνυμνοῦντες εὐσεβῶς, ἐκδυσωποῦμεν· Τὸν Υἱόν σου δυσώπει, Παρθένε τοῦ σωθῆναι ἡμᾶς."
 
 trMA.Ode9C21.ode = miscellanea_gr_GR_cog.misc.Ode9
 trMA.Ode9C21.mode = miscellanea_gr_GR_cog.misc.Mode2
@@ -250,7 +250,7 @@ trMA.Ode9C2H.text = he.h.m2_gr_GR_cog.heHE.TinParthenianSou.text
 trMA.AposIdiomelon1.mode = miscellanea_gr_GR_cog.misc.Mode3
 trMA.AposIdiomelon1.melody = miscellanea_gr_GR_cog.misc.Idiomelon
 trMA.AposIdiomelon1.incipit = "Ἀσμένως λαοί, τὴν Νηστείαν ἀσπασώμεθα…"
-trMA.AposIdiomelon1.text = "Ἀσμένως λαοί, τὴν Νηστείαν ἀσπασώμεθα· ἔφθασε γὰρ τῶν πνευματικῶν ἀγώνων ἡ ἀρχή, ἀφήσωμεν τῆς σαρκὸς τὴν εὐπάθειαν, αὐξήσωμεν τῆς ψυχῆς τὰ χαρίσματα, συγκακοπαθήσωμεν ὡς δοῦλοι Χριστοῦ, ἵνα καὶ συνδοξασθῶμεν ὡς τέκνα Θεοῦ, καὶ τὸ Πνεῦμα τὸ ἅγιον ἐν ἡμῖν οἰκῆσαν, φωτίσῃ τὰς ψυχὰς ἡμῶν."
+trMA.AposIdiomelon1.text = "Ἀσμένως λαοί, τὴν Νηστείαν ἀσπασώμεθα· ἔφθασε γὰρ τῶν πνευματικῶν ἀγώνων ἡ ἀρχή, ἀφήσωμεν τῆς σαρκὸς τὴν εὐπάθειαν, αὐξήσωμεν τῆς ψυχῆς τὰ χαρίσματα, συγκακοπαθήσωμεν ὡς δοῦλοι Χριστοῦ, ἵνα καὶ συνδοξασθῶμεν ὡς τέκνα Θεοῦ, καὶ τὸ Πνεῦμα τὸ ἅγιον ἐν ἡμῖν οἰκῆσαν, φωτίσῃ τὰς ψυχὰς ἡμῶν."
 
 trMA.AposMartyric.mode = miscellanea_gr_GR_cog.misc.Mode3
 trMA.AposMartyric.melody = ""

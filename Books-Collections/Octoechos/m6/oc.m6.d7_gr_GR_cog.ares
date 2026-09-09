@@ -11,7 +11,7 @@ ocVE.Stichera1.text = "Ῥῦσαί με γεέννης ἀποκειμενη�
 ocVE.Stichera2.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocVE.Stichera2.melody = he.a.m6_gr_GR_cog.heAU.IApegnosmeni.name
 ocVE.Stichera2.incipit = "Τίς ἐμὲ μὴ κλαύσῃ τὸν…"
-ocVE.Stichera2.text = "Τίς ἐμὲ μὴ κλαύσῃ τὸν παραβάντα, ἐντολὴν Δεσπότου διʼ ἀκρασίαν, τὸν ᾍδην οἰκήσαντα, ἀντὶ τοῦ Παραδείσου, βρῶσις γλυκεῖά μοι φανεῖσα εἰς χολὴν μετετράπη, ξένος τῆς δόξης σου Οἰκτίρμον, καὶ Ἀγγέλων ἐδείχθην, ἀλλὰ δέξαι με μετανοοῦντα ὡς ἐλεήμων καὶ φιλάνθρωπος Κύριος διὰ τὸ μέγα σου ἔλεος."
+ocVE.Stichera2.text = "Τίς ἐμὲ μὴ κλαύσῃ τὸν παραβάντα, ἐντολὴν Δεσπότου δι’ ἀκρασίαν, τὸν ᾍδην οἰκήσαντα, ἀντὶ τοῦ Παραδείσου, βρῶσις γλυκεῖά μοι φανεῖσα εἰς χολὴν μετετράπη, ξένος τῆς δόξης σου Οἰκτίρμον, καὶ Ἀγγέλων ἐδείχθην, ἀλλὰ δέξαι με μετανοοῦντα ὡς ἐλεήμων καὶ φιλάνθρωπος Κύριος διὰ τὸ μέγα σου ἔλεος."
 
 ocVE.Stichera3.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocVE.Stichera3.melody = he.a.m6_gr_GR_cog.heAU.IApegnosmeni.name
@@ -46,12 +46,12 @@ ocVE.Aposticha1.text = oc.m6.d2_gr_GR_cog.ocVE.Aposticha3.text
 ocVE.Aposticha2.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocVE.Aposticha2.melody = ""
 ocVE.Aposticha2.incipit = "Ἀρχή μοι καὶ ὑπόστασις, τὸ…"
-ocVE.Aposticha2.text = "Ἀρχή μοι καὶ ὑπόστασις, τὸ πλαστουργόν σου γέγονε πρόσταγμα· βουληθεὶς γὰρ ἐξ ἀοράτου τε καὶ ὁρατῆς, ζῶόν με συμπῆξαι φύσεως, γῆθέν μου τὸ σῶμα διέπλασας, δέδωκας δέ μοι ψυχήν, τῇ θείᾳ σου καὶ ζωοποιῷ ἐμπνεύσει. Διὸ Σωτὴρ τοὺς δούλους σου, ἐν χώρᾳ ζώντων, ἐν σκηναῖς Δικαίων ἀνάπαυσον."
+ocVE.Aposticha2.text = "Ἀρχή μοι καὶ ὑπόστασις, τὸ πλαστουργόν σου γέγονε πρόσταγμα· βουληθεὶς γὰρ ἐξ ἀοράτου τε καὶ ὁρατῆς, ζῶόν με συμπῆξαι φύσεως, γῆθέν μου τὸ σῶμα διέπλασας, δέδωκας δέ μοι ψυχήν, τῇ θείᾳ σου καὶ ζωοποιῷ ἐμπνεύσει. Διὸ Σωτὴρ τοὺς δούλους σου, ἐν χώρᾳ ζώντων, ἐν σκηναῖς Δικαίων ἀνάπαυσον."
 
 ocVE.Aposticha3.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.incipit = "Ἄλγος τῷ Ἀδὰμ…"
-ocVE.Aposticha3.text = "Ἄλγος τῷ Ἀδὰμ ἐχρημάτισεν, ἡ τοῦ ξύλου ἀπόγευσις, πάλαι ἐν Ἐδέμ, ὅτε ὄφις ἰὸν ἐξηρεύξατο· διʼ αὐτοῦ γὰρ εἰσῆλθεν ὁ θάνατος, παγγενῆ κατεσθίων τὸν ἄνθρωπον· ἀλλʼ ἐλθὼν ὁ Δεσπότης, καθεῖλε τὸν δράκοντα, καὶ ἀνάστασιν ἡμῖν ἐδωρήσατο· πρὸς αὐτὸν οὖν βοήσωμεν· Φεῖσαι Σωτήρ, καὶ οὓς προσελάβου μετὰ δικαίων ἀνάπαυσον."
+ocVE.Aposticha3.text = "Ἄλγος τῷ Ἀδὰμ ἐχρημάτισεν, ἡ τοῦ ξύλου ἀπόγευσις, πάλαι ἐν Ἐδέμ, ὅτε ὄφις ἰὸν ἐξηρεύξατο· δι’ αὐτοῦ γὰρ εἰσῆλθεν ὁ θάνατος, παγγενῆ κατεσθίων τὸν ἄνθρωπον· ἀλλ’ ἐλθὼν ὁ Δεσπότης, καθεῖλε τὸν δράκοντα, καὶ ἀνάστασιν ἡμῖν ἐδωρήσατο· πρὸς αὐτὸν οὖν βοήσωμεν· Φεῖσαι Σωτήρ, καὶ οὓς προσελάβου μετὰ δικαίων ἀνάπαυσον."
 
 ocVE.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocVE.AposTheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
@@ -95,7 +95,7 @@ ocMA.Kathisma21.text = oc.m6.d2_gr_GR_cog.ocMA.Kathisma32.text
 ocMA.Kathisma22.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.Kathisma22.melody = ""
 ocMA.Kathisma22.incipit = "Ἀληθῶς ματαιότης τὰ σύμπαντα, ὁ…"
-ocMA.Kathisma22.text = "Ἀληθῶς ματαιότης τὰ σύμπαντα, ὁ δὲ βίος σκιὰ καὶ ἐνύπνιον· καὶ γὰρ μάτην ταράττεται πᾶς γηγενής, ὡς εἶπεν ἡ Γραφή, ὅτε τὸν κόσμον κερδήσομεν, τότε τῷ τάφῳ οἰκήσομεν, ὅπου ὁμοῦ Βασιλεῖς καὶ πτωχοί. Διὸ Χριστὲ ὁ Θεός, τοὺς μεταστάντας ἀνάπαυσον, ὡς φιλάνθρωπος."
+ocMA.Kathisma22.text = "Ἀληθῶς ματαιότης τὰ σύμπαντα, ὁ δὲ βίος σκιὰ καὶ ἐνύπνιον· καὶ γὰρ μάτην ταράττεται πᾶς γηγενής, ὡς εἶπεν ἡ Γραφή, ὅτε τὸν κόσμον κερδήσομεν, τότε τῷ τάφῳ οἰκήσομεν, ὅπου ὁμοῦ Βασιλεῖς καὶ πτωχοί. Διὸ Χριστὲ ὁ Θεός, τοὺς μεταστάντας ἀνάπαυσον, ὡς φιλάνθρωπος."
 
 ocMA.Kathisma23.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.Kathisma23.greekmelody = he.a.m6_gr_GR_cog.heAU.ElpisTouKosmouAgathi.greekname
@@ -104,11 +104,11 @@ ocMA.Kathisma23.incipit = "Ἡ κραταιὰ τῶν γηγενῶν, προσ
 ocMA.Kathisma23.text = "Ἡ κραταιὰ τῶν γηγενῶν, προστασία καὶ σκέπη, Θεοκυῆτορ Μαριάμ, ἡ τεκοῦσα ἐν χρόνῳ, τὸν ἄχρονον Υἱὸν καὶ Λόγον τοῦ Θεοῦ, ἱκέτευε αὐτόν, ὡς Μήτηρ οὖσα ἐκτενῶς, σὺν Μάρτυσι καὶ Προφήταις, καὶ θείοις Ἀσκηταῖς, σῶσαι τοὺς μεταστάντας."
 
 ocMA.C1.acrostic.title = "Κανὼν εἰς πάντας τοὺς Ἁγίους,"
-ocMA.C1.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς, μετὰ τῶν Νεκρωσίμων καὶ τῶν Θεοτοκίων·"
+ocMA.C1.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς, μετὰ τῶν Νεκρωσίμων καὶ τῶν Θεοτοκίων·"
 ocMA.C1.acrostic.text = "Λόγοις γεραίρω τοὺς ἐραστὰς τοῦ Λόγου, ὁ Ἰωσήφ."
 
 ocMA.C2.acrostic.title = "Κανὼν εἰς Κοιμηθέντας,"
-ocMA.C2.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς μετὰ τῶν Θεοτοκίων·"
+ocMA.C2.acrostic.notice1 = "οὗ ἡ ἀκροστιχίς μετὰ τῶν Θεοτοκίων·"
 ocMA.C2.acrostic.text = "Ἕκτον προσαυδῶ τοῖς ἀπελθοῦσι μέλος."
 
 ocMA.CA.notice = ""
@@ -123,8 +123,8 @@ ocMA.OdeW1C1H.text = he.h.m6_gr_GR_cog.heHE.OAisthitosFarao.text
 ocMA.OdeW1C11.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW1C11.ode = miscellanea_gr_GR_cog.misc.Ode1
 ocMA.OdeW1C11.melody = he.h.m6_gr_GR_cog.heHE.OAisthitosFarao.name
-ocMA.OdeW1C11.incipit = "Λελαμπρυσμένῳ νοΐ, τοὺς σκοτεινοὺς περὶ…"
-ocMA.OdeW1C11.text = "Λελαμπρυσμένῳ νοΐ, τοὺς σκοτεινοὺς περὶ τὸ φῶς, δυσσεβοῦντας τυράννους οἱ Μάρτυρες αἰσχύναντες, πρὸς ἀνέσπερον φέγγος, νικηφόροι γενόμενοι, σοφῶς μετέβησαν."
+ocMA.OdeW1C11.incipit = "Λελαμπρυσμένῳ νοΐ, τοὺς σκοτεινοὺς περὶ…"
+ocMA.OdeW1C11.text = "Λελαμπρυσμένῳ νοΐ, τοὺς σκοτεινοὺς περὶ τὸ φῶς, δυσσεβοῦντας τυράννους οἱ Μάρτυρες αἰσχύναντες, πρὸς ἀνέσπερον φέγγος, νικηφόροι γενόμενοι, σοφῶς μετέβησαν."
 
 ocMA.OdeW1C12.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW1C12.ode = miscellanea_gr_GR_cog.misc.Ode1
@@ -141,8 +141,8 @@ ocMA.OdeW1C13.text = "Γυναίων πᾶσα πληθύς, προσῳκει
 ocMA.OdeW1C14.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW1C14.ode = miscellanea_gr_GR_cog.misc.Ode1
 ocMA.OdeW1C14.melody = he.h.m6_gr_GR_cog.heHE.OAisthitosFarao.name
-ocMA.OdeW1C14.incipit = "Ὁ ἀπὸ γῆς κατʼ ἀρχάς…"
-ocMA.OdeW1C14.text = "Ὁ ἀπὸ γῆς κατʼ ἀρχάς, πλάσας τὸν ἄνθρωπον Χριστέ, τὰς ψυχὰς τῶν σῶν δούλων, ἀνάπαυσον δεόμεθα, ἐν σκηναῖς τῶν δικαίων, καὶ ἐν τόποις ἀνέσεως, ὡς Ὑπεράγαθος."
+ocMA.OdeW1C14.incipit = "Ὁ ἀπὸ γῆς κατ’ ἀρχάς…"
+ocMA.OdeW1C14.text = "Ὁ ἀπὸ γῆς κατ’ ἀρχάς, πλάσας τὸν ἄνθρωπον Χριστέ, τὰς ψυχὰς τῶν σῶν δούλων, ἀνάπαυσον δεόμεθα, ἐν σκηναῖς τῶν δικαίων, καὶ ἐν τόποις ἀνέσεως, ὡς Ὑπεράγαθος."
 
 ocMA.OdeW1C1T.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW1C1T.ode = miscellanea_gr_GR_cog.misc.Ode1
@@ -161,19 +161,19 @@ ocMA.OdeW1C22.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW1C22.ode = miscellanea_gr_GR_cog.misc.Ode1
 ocMA.OdeW1C22.melody = he.h.m6_gr_GR_cog.heHE.OsEnIpeiroPezefsas.name
 ocMA.OdeW1C22.incipit = "Κατακοσμήσας τὰ πάντα ζῶον μικτόν…"
-ocMA.OdeW1C22.text = "Κατακοσμήσας τὰ πάντα ζῶον μικτόν, μέσον με τὸν ἄνθρωπον, ταπεινότητος ὁμοῦ, καὶ μεγέθους ἔπλασας· διό, τὰς τῶν δούλων σου ψυχάς, Σῶτερ ἀνάπαυσον."
+ocMA.OdeW1C22.text = "Κατακοσμήσας τὰ πάντα ζῶον μικτόν, μέσον με τὸν ἄνθρωπον, ταπεινότητος ὁμοῦ, καὶ μεγέθους ἔπλασας· διό, τὰς τῶν δούλων σου ψυχάς, Σῶτερ ἀνάπαυσον."
 
 ocMA.OdeW1C23.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW1C23.ode = miscellanea_gr_GR_cog.misc.Ode1
 ocMA.OdeW1C23.melody = he.h.m6_gr_GR_cog.heHE.OsEnIpeiroPezefsas.name
 ocMA.OdeW1C23.incipit = "Τοῦ παραδείσου πολίτην καὶ γεωργόν…"
-ocMA.OdeW1C23.text = "Τοῦ παραδείσου πολίτην καὶ γεωργόν, κατʼ ἀρχάς με ἔταξας, παραβάντα δὲ τὴν σήν, ἐντολὴν ἐξώρισας· διό, τὰς τῶν δούλων σου ψυχάς, Σῶτερ ἀνάπαυσον."
+ocMA.OdeW1C23.text = "Τοῦ παραδείσου πολίτην καὶ γεωργόν, κατ’ ἀρχάς με ἔταξας, παραβάντα δὲ τὴν σήν, ἐντολὴν ἐξώρισας· διό, τὰς τῶν δούλων σου ψυχάς, Σῶτερ ἀνάπαυσον."
 
 ocMA.OdeW1C2T.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW1C2T.ode = miscellanea_gr_GR_cog.misc.Ode1
 ocMA.OdeW1C2T.melody = he.h.m6_gr_GR_cog.heHE.OsEnIpeiroPezefsas.name
 ocMA.OdeW1C2T.incipit = "Ὁ ἐκ πλευρᾶς διαπλάσας Εὔαν…"
-ocMA.OdeW1C2T.text = "Ὁ ἐκ πλευρᾶς διαπλάσας Εὔαν τὸ πρίν, τὴν ἡμῶν προμήτορα, ἐξ ἀχράντου σου γαστρός, σάρκα περιβάλλεται διʼ ἧς, τοῦ θανάτου τὴν ἰσχύν, Ἁγνὴ διέλυσε."
+ocMA.OdeW1C2T.text = "Ὁ ἐκ πλευρᾶς διαπλάσας Εὔαν τὸ πρίν, τὴν ἡμῶν προμήτορα, ἐξ ἀχράντου σου γαστρός, σάρκα περιβάλλεται δι’ ἧς, τοῦ θανάτου τὴν ἰσχύν, Ἁγνὴ διέλυσε."
 
 ocMA.OdeW3C1H.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW3C1H.ode = miscellanea_gr_GR_cog.misc.Ode3
@@ -198,7 +198,7 @@ ocMA.OdeW3C13.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW3C13.ode = miscellanea_gr_GR_cog.misc.Ode3
 ocMA.OdeW3C13.melody = he.h.m6_gr_GR_cog.heHE.EnTiSterraTisPisteos.name
 ocMA.OdeW3C13.incipit = "Ἐθελοντί, ζυγὸν τὸν τοῦ Κυρίου…"
-ocMA.OdeW3C13.text = "Ἐθελοντί, ζυγὸν τὸν τοῦ Κυρίου, ὑπεισελθών, χορὸς ὁ τῶν ὁσίων, ἐνέκρωσε φρόνημα, τῆς σαρκὸς καὶ τὴν ζωήν, τὴν διʼ αἰῶνος ἀπέλαβε."
+ocMA.OdeW3C13.text = "Ἐθελοντί, ζυγὸν τὸν τοῦ Κυρίου, ὑπεισελθών, χορὸς ὁ τῶν ὁσίων, ἐνέκρωσε φρόνημα, τῆς σαρκὸς καὶ τὴν ζωήν, τὴν δι’ αἰῶνος ἀπέλαβε."
 
 ocMA.OdeW3C14.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW3C14.ode = miscellanea_gr_GR_cog.misc.Ode3
@@ -223,7 +223,7 @@ ocMA.OdeW3C22.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW3C22.ode = miscellanea_gr_GR_cog.misc.Ode3
 ocMA.OdeW3C22.melody = he.h.m6_gr_GR_cog.heHE.OukEstinAgios.name
 ocMA.OdeW3C22.incipit = "Παιδεύσας πρότερον πολλοῖς, τέρασι καὶ…"
-ocMA.OdeW3C22.text = "Παιδεύσας πρότερον πολλοῖς, τέρασι καὶ σημείοις, ἐμὲ τὸν πλανηθέντα, ἐπʼ ἐσχάτων σεαυτόν, κενώσας ὡς συμπαθής, καὶ ζητήσας εὗρες καὶ διέσωσας."
+ocMA.OdeW3C22.text = "Παιδεύσας πρότερον πολλοῖς, τέρασι καὶ σημείοις, ἐμὲ τὸν πλανηθέντα, ἐπ’ ἐσχάτων σεαυτόν, κενώσας ὡς συμπαθής, καὶ ζητήσας εὗρες καὶ διέσωσας."
 
 ocMA.OdeW3C23.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW3C23.ode = miscellanea_gr_GR_cog.misc.Ode3
@@ -235,7 +235,7 @@ ocMA.OdeW3C2T.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW3C2T.ode = miscellanea_gr_GR_cog.misc.Ode3
 ocMA.OdeW3C2T.melody = he.h.m6_gr_GR_cog.heHE.OukEstinAgios.name
 ocMA.OdeW3C2T.incipit = "Οὐκ ἔστιν ἄμεμπτος ὡς σύ…"
-ocMA.OdeW3C2T.text = "Οὐκ ἔστιν ἄμεμπτος ὡς σύ, πάναγνε Θεομῆτορ· μόνη γὰρ ἐξ αἰῶνος, τὸν Θεὸν τὸν ἀληθῆ, συνέλαβες ἐν γαστρί, τοῦ θανάτου λύσαντα τὴν δύναμιν."
+ocMA.OdeW3C2T.text = "Οὐκ ἔστιν ἄμεμπτος ὡς σύ, πάναγνε Θεομῆτορ· μόνη γὰρ ἐξ αἰῶνος, τὸν Θεὸν τὸν ἀληθῆ, συνέλαβες ἐν γαστρί, τοῦ θανάτου λύσαντα τὴν δύναμιν."
 
 ocMA.OdeW4C1H.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW4C1H.ode = miscellanea_gr_GR_cog.misc.Ode4
@@ -397,7 +397,7 @@ ocMA.OdeW6C21.ode = miscellanea_gr_GR_cog.misc.Ode6
 ocMA.OdeW6C21.greekmelody = he.h.m6_gr_GR_cog.heHE.TouViouTinThalassan.greekname
 ocMA.OdeW6C21.melody = he.h.m6_gr_GR_cog.heHE.TouViouTinThalassan.name
 ocMA.OdeW6C21.incipit = "Σταυρῷ προσηλούμενος, τῶν Μαρτύρων τοὺς…"
-ocMA.OdeW6C21.text = "Σταυρῷ προσηλούμενος, τῶν Μαρτύρων τοὺς χορούς, πρὸς ἑαυτὸν συνήγαγες, μιμουμένους τὸ πάθος σου Ἀγαθέ· διό σου δεόμεθα, τοὺς πρὸς σὲ μεταστάντας διανάπαυσον."
+ocMA.OdeW6C21.text = "Σταυρῷ προσηλούμενος, τῶν Μαρτύρων τοὺς χορούς, πρὸς ἑαυτὸν συνήγαγες, μιμουμένους τὸ πάθος σου Ἀγαθέ· διό σου δεόμεθα, τοὺς πρὸς σὲ μεταστάντας διανάπαυσον."
 
 ocMA.OdeW6C22.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW6C22.ode = miscellanea_gr_GR_cog.misc.Ode6
@@ -428,7 +428,7 @@ ocMA.OdeW7C11.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW7C11.ode = miscellanea_gr_GR_cog.misc.Ode7
 ocMA.OdeW7C11.melody = he.h.m6_gr_GR_cog.heHE.OTonOsionSouPaidon.name
 ocMA.OdeW7C11.incipit = "Τοὺς τοῦ Χριστοῦ Ἀθλοφόρους, τοὺς…"
-ocMA.OdeW7C11.text = "Τοὺς τοῦ Χριστοῦ Ἀθλοφόρους, τοὺς σβέσαντας τὴν φλόγα, ὄμβροις αἱμάτων, τῆς δεινῆς ἀθεΐας, μελῳδικῶς τιμήσωμεν."
+ocMA.OdeW7C11.text = "Τοὺς τοῦ Χριστοῦ Ἀθλοφόρους, τοὺς σβέσαντας τὴν φλόγα, ὄμβροις αἱμάτων, τῆς δεινῆς ἀθεΐας, μελῳδικῶς τιμήσωμεν."
 
 ocMA.OdeW7C12.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW7C12.ode = miscellanea_gr_GR_cog.misc.Ode7
@@ -465,7 +465,7 @@ ocMA.OdeW7C22.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW7C22.ode = miscellanea_gr_GR_cog.misc.Ode7
 ocMA.OdeW7C22.melody = he.h.m6_gr_GR_cog.heHE.DrosovolonMenTinKaminon.name
 ocMA.OdeW7C22.incipit = "Θρασυνόμενον τὸν θάνατον ἐνέκρωσας, Λόγε…"
-ocMA.OdeW7C22.text = "Θρασυνόμενον τὸν θάνατον ἐνέκρωσας, Λόγε ζωαρχικώτατε, τοὺς ἐν πίστει δὲ κοιμηθέντας, πρόσδεξαι τανῦν, ὑμνοῦντας καὶ ψάλλοντας Χριστέ· Εὐλογητὸς εἶ ὁ Θεός, ὁ τῶν Πατέρων ἡμῶν."
+ocMA.OdeW7C22.text = "Θρασυνόμενον τὸν θάνατον ἐνέκρωσας, Λόγε ζωαρχικώτατε, τοὺς ἐν πίστει δὲ κοιμηθέντας, πρόσδεξαι τανῦν, ὑμνοῦντας καὶ ψάλλοντας Χριστέ· Εὐλογητὸς εἶ ὁ Θεός, ὁ τῶν Πατέρων ἡμῶν."
 
 ocMA.OdeW7C23.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW7C23.ode = miscellanea_gr_GR_cog.misc.Ode7
@@ -477,7 +477,7 @@ ocMA.OdeW7C2T.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW7C2T.ode = miscellanea_gr_GR_cog.misc.Ode7
 ocMA.OdeW7C2T.melody = he.h.m6_gr_GR_cog.heHE.DrosovolonMenTinKaminon.name
 ocMA.OdeW7C2T.incipit = "Ὑπερτέρα πάσης κτίσεως Πανάμωμε, γέγονας…"
-ocMA.OdeW7C2T.text = "Ὑπερτέρα πάσης κτίσεως Πανάμωμε, γέγονας συλλαβοῦσα Θεόν, τὸν συντρίψαντα τοῦ θανάτου πύλας, καὶ μοχλοὺς συνθλάσαντα· ὅθεν σε Ἁγνή, ὑμνολογοῦμεν οἱ πιστοὶ ὡς Θεομήτορα."
+ocMA.OdeW7C2T.text = "Ὑπερτέρα πάσης κτίσεως Πανάμωμε, γέγονας συλλαβοῦσα Θεόν, τὸν συντρίψαντα τοῦ θανάτου πύλας, καὶ μοχλοὺς συνθλάσαντα· ὅθεν σε Ἁγνή, ὑμνολογοῦμεν οἱ πιστοὶ ὡς Θεομήτορα."
 
 ocMA.OdeW8C1H.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW8C1H.ode = miscellanea_gr_GR_cog.misc.Ode8
@@ -515,7 +515,7 @@ ocMA.OdeW8C21.ode = miscellanea_gr_GR_cog.misc.Ode8
 ocMA.OdeW8C21.greekmelody = he.h.m6_gr_GR_cog.heHE.EkFlogosToisOsiois.greekname
 ocMA.OdeW8C21.melody = he.h.m6_gr_GR_cog.heHE.EkFlogosToisOsiois.name
 ocMA.OdeW8C21.incipit = "Σταθερῶς τοὺς ἀγῶνας ἐπιδειξάμενοι, τῷ…"
-ocMA.OdeW8C21.text = "Σταθερῶς τοὺς ἀγῶνας ἐπιδειξάμενοι, τῷ τῆς νίκης στεφάνῳ κατεκοσμήθητε, Μάρτυρες Χριστοῦ, ἀθλοφόροι κραυγάζοντες· Σὲ ὑπερυψοῦμεν, εἰς πάντας τοὺς αἰῶνας."
+ocMA.OdeW8C21.text = "Σταθερῶς τοὺς ἀγῶνας ἐπιδειξάμενοι, τῷ τῆς νίκης στεφάνῳ κατεκοσμήθητε, Μάρτυρες Χριστοῦ, ἀθλοφόροι κραυγάζοντες· Σὲ ὑπερυψοῦμεν, εἰς πάντας τοὺς αἰῶνας."
 
 ocMA.OdeW8C22.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW8C22.ode = miscellanea_gr_GR_cog.misc.Ode8
@@ -533,7 +533,7 @@ ocMA.OdeW8C2T.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW8C2T.ode = miscellanea_gr_GR_cog.misc.Ode8
 ocMA.OdeW8C2T.melody = he.h.m6_gr_GR_cog.heHE.EkFlogosToisOsiois.name
 ocMA.OdeW8C2T.incipit = "Μακαρίζομεν πάντες, σὲ Παμμακάριστε, τὴν…"
-ocMA.OdeW8C2T.text = "Μακαρίζομεν πάντες, σὲ Παμμακάριστε, τὴν τὸν Λόγον τὸν ὄντως ὄντα μακάριον, σάρκα διʼ ἡμᾶς, γεγονότα γεννήσασαν, ὃν ὑπερυψοῦμεν, εἰς πάντας τοὺς αἰῶνας."
+ocMA.OdeW8C2T.text = "Μακαρίζομεν πάντες, σὲ Παμμακάριστε, τὴν τὸν Λόγον τὸν ὄντως ὄντα μακάριον, σάρκα δι’ ἡμᾶς, γεγονότα γεννήσασαν, ὃν ὑπερυψοῦμεν, εἰς πάντας τοὺς αἰῶνας."
 
 ocMA.OdeW9C1H.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW9C1H.ode = miscellanea_gr_GR_cog.misc.Ode9
@@ -595,7 +595,7 @@ ocMA.OdeW9C2T.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.OdeW9C2T.ode = miscellanea_gr_GR_cog.misc.Ode9
 ocMA.OdeW9C2T.melody = he.h.m6_gr_GR_cog.heHE.TheonAnthropois.name
 ocMA.OdeW9C2T.incipit = "Σκηνὴν ἁγίαν Ἁγνὴ γινώσκομεν, καὶ…"
-ocMA.OdeW9C2T.text = "Σκηνὴν ἁγίαν Ἁγνὴ γινώσκομεν, καὶ Κιβωτὸν καὶ Πλάκα σὲ τοῦ νόμου τῆς χάριτος· διὰ σοῦ γὰρ ἄφεσις δεδώρηται τοῖς δεδικαιωμένοις, διὰ τοῦ αἵματος τοῦ σωματωθέντος, ἐκ τῆς σῆς γαστρὸς Πανάμωμε."
+ocMA.OdeW9C2T.text = "Σκηνὴν ἁγίαν Ἁγνὴ γινώσκομεν, καὶ Κιβωτὸν καὶ Πλάκα σὲ τοῦ νόμου τῆς χάριτος· διὰ σοῦ γὰρ ἄφεσις δεδώρηται τοῖς δεδικαιωμένοις, διὰ τοῦ αἵματος τοῦ σωματωθέντος, ἐκ τῆς σῆς γαστρὸς Πανάμωμε."
 
 ocMA.LaudsRubric1.text = oc.m1.d7_gr_GR_cog.ocMA.LaudsRubric1.text
 
@@ -622,36 +622,36 @@ ocMA.Lauds4.text = oc.m6.d5_gr_GR_cog.ocMA.Aposticha3.text
 ocMA.LaudsGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.LaudsGlory.melody = ""
 ocMA.LaudsGlory.incipit = "Ἐτίμησας εἰκόνι σου…"
-ocMA.LaudsGlory.text = "Ἐτίμησας εἰκόνι σου, τὸ τῶν χειρῶν σου Σῶτερ πλαστούργημα, ζωγραφήσας ἐν ὑλικῇ μορφῇ, τῆς νοερᾶς οὐσίας τὸ ὁμοίωμα, ἧς καὶ κοινωνόν με κατέστησας, θέμενος τῶν ἐπὶ γῆς κατάρχειν με τῷ αὐτεξουσίῳ Λόγε· διὸ Σῶτερ τοὺς δούλους σου, ἐν χώρᾳ ζώντων, ἐν σκηναῖς Δικαίων ἀνάπαυσον."
+ocMA.LaudsGlory.text = "Ἐτίμησας εἰκόνι σου, τὸ τῶν χειρῶν σου Σῶτερ πλαστούργημα, ζωγραφήσας ἐν ὑλικῇ μορφῇ, τῆς νοερᾶς οὐσίας τὸ ὁμοίωμα, ἧς καὶ κοινωνόν με κατέστησας, θέμενος τῶν ἐπὶ γῆς κατάρχειν με τῷ αὐτεξουσίῳ Λόγε· διὸ Σῶτερ τοὺς δούλους σου, ἐν χώρᾳ ζώντων, ἐν σκηναῖς Δικαίων ἀνάπαυσον."
 
 ocMA.LaudsTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.LaudsTheotokion.melody = ""
 ocMA.LaudsTheotokion.incipit = "Σὺ εἶ ὁ Θεὸς ἡμῶν…"
-ocMA.LaudsTheotokion.text = "Σὺ εἶ ὁ Θεὸς ἡμῶν, ὁ ἐν σοφίᾳ τὰ πάντα δημιουργῶν καὶ πληρῶν. Προφήτας ἐξαπέστειλας, Χριστέ, προφητεῦσαί σου τὴν παρουσίαν, καὶ Ἀποστόλους κηρῦξαί σου τὰ μεγαλεῖα, καὶ οἱ μὲν προεφήτευσαν τὴν ἔλευσίν σου, οἱ δὲ τῷ βαπτίσματι ἐφώτισαν τὰ ἔθνη. Μάρτυρες δὲ ἔτυχον ὧν περ ἐπόθουν, καὶ πρεσβεύει σοι ὁ χορὸς τῶν ἀμφοτέρων, σὺν τῇ τεκούσῃ σε. Ἀνάπαυσον Κύριε ψυχάς, ἃς προσελάβου, καὶ ἡμᾶς καταξίωσον τῆς Βασιλείας σου, ὁ Σταυρὸν ὑπομείνας, διʼ ἐμὲ τὸν κατάκριτον, ὁ Λυτρωτής μου καὶ Θεός."
+ocMA.LaudsTheotokion.text = "Σὺ εἶ ὁ Θεὸς ἡμῶν, ὁ ἐν σοφίᾳ τὰ πάντα δημιουργῶν καὶ πληρῶν. Προφήτας ἐξαπέστειλας, Χριστέ, προφητεῦσαί σου τὴν παρουσίαν, καὶ Ἀποστόλους κηρῦξαί σου τὰ μεγαλεῖα, καὶ οἱ μὲν προεφήτευσαν τὴν ἔλευσίν σου, οἱ δὲ τῷ βαπτίσματι ἐφώτισαν τὰ ἔθνη. Μάρτυρες δὲ ἔτυχον ὧν περ ἐπόθουν, καὶ πρεσβεύει σοι ὁ χορὸς τῶν ἀμφοτέρων, σὺν τῇ τεκούσῃ σε. Ἀνάπαυσον Κύριε ψυχάς, ἃς προσελάβου, καὶ ἡμᾶς καταξίωσον τῆς Βασιλείας σου, ὁ Σταυρὸν ὑπομείνας, δι’ ἐμὲ τὸν κατάκριτον, ὁ Λυτρωτής μου καὶ Θεός."
 
 ocMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.Aposticha1.greekmelody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.greekname
 ocMA.Aposticha1.melody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.name
 ocMA.Aposticha1.incipit = "Ἔχων ἀκατάληπτον, τὴν εἰς ἡμᾶς…"
-ocMA.Aposticha1.text = "Ἔχων ἀκατάληπτον, τὴν εἰς ἡμᾶς εὐσπλαγχνίαν, καὶ πηγὴν ἀκένωτον θεϊκῆς χρηστότητος πολυέλεε, τοὺς πρὸς σὲ Δέσποτα, μεταβεβηκότας, ἐν γῇ ζώντων κατασκήνωσον, εἰς τὰ σκηνώματα, τὰ ἀγαπητὰ καὶ ποθούμενα, κατάσχεσιν δωρούμενος, τὴν διηνεκῶς διαμένουσαν· σὺ γὰρ ὑπὲρ πάντων, ἐξέχεας τὸ αἷμά σου Χριστέ, καὶ ζωηφόρῳ τιμήματι, κόσμον ἐξηγόρασας."
+ocMA.Aposticha1.text = "Ἔχων ἀκατάληπτον, τὴν εἰς ἡμᾶς εὐσπλαγχνίαν, καὶ πηγὴν ἀκένωτον θεϊκῆς χρηστότητος πολυέλεε, τοὺς πρὸς σὲ Δέσποτα, μεταβεβηκότας, ἐν γῇ ζώντων κατασκήνωσον, εἰς τὰ σκηνώματα, τὰ ἀγαπητὰ καὶ ποθούμενα, κατάσχεσιν δωρούμενος, τὴν διηνεκῶς διαμένουσαν· σὺ γὰρ ὑπὲρ πάντων, ἐξέχεας τὸ αἷμά σου Χριστέ, καὶ ζωηφόρῳ τιμήματι, κόσμον ἐξηγόρασας."
 
 ocMA.Aposticha2.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.Aposticha2.greekmelody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.greekname
 ocMA.Aposticha2.melody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.name
 ocMA.Aposticha2.incipit = "Νέκρωσιν ὑπέμεινας, ζωοποιὸν ἑκουσίως, καὶ…"
-ocMA.Aposticha2.text = "Νέκρωσιν ὑπέμεινας, ζωοποιὸν ἑκουσίως, καὶ ζωὴν ἐπήγασας, καὶ τρυφὴν ἀΐδιον πιστοῖς δέδωκας, ἐν ᾗ κατάταξον, τοὺς κεκοιμημένους, ἐπʼ ἐλπίδι ἀναστάσεως, τὰ τούτων πταίσματα, πάντα συγχωρῶν ἀγαθότητι, ὡς μόνος ἀναμάρτητος, μόνος ἀγαθὸς καὶ φιλάνθρωπος, ἵνα διὰ πάντων, ὑμνῆταί σου τὸ ὄνομα Χριστέ, καὶ σεσωσμένοι δοξάζωμεν, τὴν οἰκονομίαν σου."
+ocMA.Aposticha2.text = "Νέκρωσιν ὑπέμεινας, ζωοποιὸν ἑκουσίως, καὶ ζωὴν ἐπήγασας, καὶ τρυφὴν ἀΐδιον πιστοῖς δέδωκας, ἐν ᾗ κατάταξον, τοὺς κεκοιμημένους, ἐπ’ ἐλπίδι ἀναστάσεως, τὰ τούτων πταίσματα, πάντα συγχωρῶν ἀγαθότητι, ὡς μόνος ἀναμάρτητος, μόνος ἀγαθὸς καὶ φιλάνθρωπος, ἵνα διὰ πάντων, ὑμνῆταί σου τὸ ὄνομα Χριστέ, καὶ σεσωσμένοι δοξάζωμεν, τὴν οἰκονομίαν σου."
 
 ocMA.Aposticha3.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.Aposticha3.greekmelody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.greekname
 ocMA.Aposticha3.melody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.name
 ocMA.Aposticha3.incipit = "Ζώντων κυριεύοντα, θεαρχικῇ ἐξουσίᾳ, καὶ…"
-ocMA.Aposticha3.text = "Ζώντων κυριεύοντα, θεαρχικῇ ἐξουσίᾳ, καὶ νεκρῶν δεσπόζοντα, σὲ Χριστὲ γινώσκοντες ἱκετεύομεν. Τοὺς πιστοὺς δούλους σου, τοὺς πρὸς σὲ τὸν μόνον, εὐεργέτην ἐκδημήσαντας, αὐτοὺς ἀνάπαυσον, σὺν τοῖς ἐκλεκτοῖς σου φιλάνθρωπε, ἐν τόποις ἀναψύξεως, ἐν ταῖς τῶν Ἁγίων λαμπρότησι, θελητὴς ἐλέους· ὑπάρχεις γὰρ καὶ σώζεις ὡς Θεός, οὓς κατʼ εἰκόνα σου ἔπλασας, μόνε πολυέλεε."
+ocMA.Aposticha3.text = "Ζώντων κυριεύοντα, θεαρχικῇ ἐξουσίᾳ, καὶ νεκρῶν δεσπόζοντα, σὲ Χριστὲ γινώσκοντες ἱκετεύομεν. Τοὺς πιστοὺς δούλους σου, τοὺς πρὸς σὲ τὸν μόνον, εὐεργέτην ἐκδημήσαντας, αὐτοὺς ἀνάπαυσον, σὺν τοῖς ἐκλεκτοῖς σου φιλάνθρωπε, ἐν τόποις ἀναψύξεως, ἐν ταῖς τῶν Ἁγίων λαμπρότησι, θελητὴς ἐλέους· ὑπάρχεις γὰρ καὶ σώζεις ὡς Θεός, οὓς κατ’ εἰκόνα σου ἔπλασας, μόνε πολυέλεε."
 
 ocMA.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.AposTheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.greekname
 ocMA.AposTheotokion.melody = he.a.m6_gr_GR_cog.heAU.OlinApothemenoi.name
-ocMA.AposTheotokion.incipit = "Ὤφθης ἐνδιαίτημα, θεοπρεπὲς Παναγία· Θεὸν…"
-ocMA.AposTheotokion.text = "Ὤφθης ἐνδιαίτημα, θεοπρεπὲς Παναγία· Θεὸν γὰρ ἐχώρησας, καὶ Χριστὸν ἐγέννησας ἀπειρόγαμε, βροτὸν ὁρώμενον, ἐν δυσὶν οὐσίαις, ἐν μιὰ τῇ ὑποστάσει δέ, ὃν ἐκδυσώπησον, ὡς μονογενῆ καὶ πρωτότοκον, τὸν σὲ παρθένον ἄμωμον, καὶ μετὰ τὸν τόκον φυλάξαντα, ψυχὰς ἀναπαῦσαι, τῶν πίστει κοιμηθέντων ἐν φωτί, ἐν ἀκηράτῳ φαιδρότητι, καὶ μακαριότητι."
+ocMA.AposTheotokion.incipit = "Ὤφθης ἐνδιαίτημα, θεοπρεπὲς Παναγία· Θεὸν…"
+ocMA.AposTheotokion.text = "Ὤφθης ἐνδιαίτημα, θεοπρεπὲς Παναγία· Θεὸν γὰρ ἐχώρησας, καὶ Χριστὸν ἐγέννησας ἀπειρόγαμε, βροτὸν ὁρώμενον, ἐν δυσὶν οὐσίαις, ἐν μιὰ τῇ ὑποστάσει δέ, ὃν ἐκδυσώπησον, ὡς μονογενῆ καὶ πρωτότοκον, τὸν σὲ παρθένον ἄμωμον, καὶ μετὰ τὸν τόκον φυλάξαντα, ψυχὰς ἀναπαῦσαι, τῶν πίστει κοιμηθέντων ἐν φωτί, ἐν ἀκηράτῳ φαιδρότητι, καὶ μακαριότητι."
 
 ocMA.ApolTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocMA.ApolTheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.ElpisTouKosmouAgathi.greekname
@@ -687,12 +687,12 @@ ocLI.BeatitudesTr.text = "Παντοκράτορ, ἡ Τριὰς ἡ ἐν Μ�
 ocLI.BeatitudesT.mode = miscellanea_gr_GR_cog.misc.Mode6
 ocLI.BeatitudesT.melody = he.h.m6_gr_GR_cog.heHE.IToChaireDiAngelou.name
 ocLI.BeatitudesT.incipit = "Μακαρία, γενεαῖς ἐν πάσαις ὤφθης…"
-ocLI.BeatitudesT.text = "Μακαρία, γενεαῖς ἐν πάσαις ὤφθης· τὸν Θεὸν γὰρ τὸν ὄντως μακάριον, ἀνερμηνεύτως, ἐκύησας Ἄχραντε."
+ocLI.BeatitudesT.text = "Μακαρία, γενεαῖς ἐν πάσαις ὤφθης· τὸν Θεὸν γὰρ τὸν ὄντως μακάριον, ἀνερμηνεύτως, ἐκύησας Ἄχραντε."
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_gr_GR_cog.media.key
 
 ocBK.end.title = "ΤΕΛΟΣ ΤΟΥ ΠΛΑΓΙΟΥ ΔΕΥΤΕΡΟΥ ΗΧΟΥ"
-ocBK.end.verse1.text = "Ἕκτος μελῳδός, ἀλλʼ ὑπέρπρωτος πέλεις,"
+ocBK.end.verse1.text = "Ἕκτος μελῳδός, ἀλλ’ ὑπέρπρωτος πέλεις,"
 ocBK.end.verse2.text = "Ὁ δεύτερος σύ, τῶν μελῶν δευτερεύων."
 ocBK.end.verse3.text = "Τὰς ἡδονὰς σὺ διπλοσυνθέτους φέρεις,"
 ocBK.end.verse4.text = "Τοῦ δευτέρου πως δευτερεύων δευτέρως."

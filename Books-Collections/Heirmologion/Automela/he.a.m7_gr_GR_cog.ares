@@ -7,14 +7,14 @@ heAU.KatafronisantesPanton.melody = "Αὐτόμελον."
 heAU.KatafronisantesPanton.mode = miscellanea_gr_GR_cog.misc.Mode7
 heAU.KatafronisantesPanton.name = "Καταφρονήσαντες πάντων."
 heAU.KatafronisantesPanton.incipit = "Καταφρονήσαντες πάντων…"
-heAU.KatafronisantesPanton.text = "Καταφρονήσαντες πάντων, τῶν ἐπὶ γῆς ἅγιοι Μάρτυρες, καὶ ἐν σταδίῳ τὸν Χριστόν, ἀνδρείως κηρύξαντες, ἀμοιβὰς τῶν βασάνων, παρʼ αὐτοῦ ἐκομίσασθε· ἀλλʼ ὡς ἔχοντες παῤῥησίαν, αὐτὸν ἱκετεύσατε, ὡς Θεὸν παντοδύναμον, τὰς ψυχὰς ἡμῶν σῶσαι, τῶν εἰς ὑμᾶς προστρεχόντων δεόμεθα."
+heAU.KatafronisantesPanton.text = "Καταφρονήσαντες πάντων, τῶν ἐπὶ γῆς ἅγιοι Μάρτυρες, καὶ ἐν σταδίῳ τὸν Χριστόν, ἀνδρείως κηρύξαντες, ἀμοιβὰς τῶν βασάνων, παρ’ αὐτοῦ ἐκομίσασθε· ἀλλ’ ὡς ἔχοντες παῤῥησίαν, αὐτὸν ἱκετεύσατε, ὡς Θεὸν παντοδύναμον, τὰς ψυχὰς ἡμῶν σῶσαι, τῶν εἰς ὑμᾶς προστρεχόντων δεόμεθα."
 
 heAU.ODiEmeAnaschomenos.greekname = " "
 heAU.ODiEmeAnaschomenos.melody = "Αὐτόμελον."
 heAU.ODiEmeAnaschomenos.mode = miscellanea_gr_GR_cog.misc.Mode7
-heAU.ODiEmeAnaschomenos.name = "Ὁ διʼ ἐμὲ ἀνασχόμενος."
-heAU.ODiEmeAnaschomenos.incipit = "Ὁ διʼ ἐμὲ ἀνασχόμενος…"
-heAU.ODiEmeAnaschomenos.text = "Ὁ διʼ ἐμὲ ἀνασχόμενος, τῆς ἐν Σταυρῷ προσηλώσεως, δέξαι μου τὴν ἄγρυπνον αἴνεσιν, Χριστὲ ὁ Θεός, καὶ σῶσόν με ὡς φιλάνθρωπος."
+heAU.ODiEmeAnaschomenos.name = "Ὁ δι’ ἐμὲ ἀνασχόμενος."
+heAU.ODiEmeAnaschomenos.incipit = "Ὁ δι’ ἐμὲ ἀνασχόμενος…"
+heAU.ODiEmeAnaschomenos.text = "Ὁ δι’ ἐμὲ ἀνασχόμενος, τῆς ἐν Σταυρῷ προσηλώσεως, δέξαι μου τὴν ἄγρυπνον αἴνεσιν, Χριστὲ ὁ Θεός, καὶ σῶσόν με ὡς φιλάνθρωπος."
 
 heAU.OsEchousaToSympathes.greekname = " "
 heAU.OsEchousaToSympathes.melody = "Αὐτόμελον."
@@ -28,7 +28,7 @@ heAU.OuketiFloginiRomfaia.melody = "Αὐτόμελον."
 heAU.OuketiFloginiRomfaia.mode = miscellanea_gr_GR_cog.misc.Mode7
 heAU.OuketiFloginiRomfaia.name = "Οὐκέτι φλογίνη ῥομφαία."
 heAU.OuketiFloginiRomfaia.incipit = "Οὐκέτι φλογίνη ῥομφαία…"
-heAU.OuketiFloginiRomfaia.text = "Οὐκέτι φλογίνη ῥομφαία φυλάττει τὴν πύλην τῆς Ἐδέμ· αὐτῇ γὰρ ἐπῆλθε παράδοξος σβέσις τὸ ξύλον τοῦ Σταυροῦ, θανάτου τὸ κέντρον, καὶ ᾍδου τὸ νῖκος ἐλήλαται, ἐπέστης δὲ Σωτήρ μου βοῶν τοῖς ἐν ᾍδῃ· Εἰσάγεσθε πάλιν εἰς τὸν Παράδεισον."
+heAU.OuketiFloginiRomfaia.text = "Οὐκέτι φλογίνη ῥομφαία φυλάττει τὴν πύλην τῆς Ἐδέμ· αὐτῇ γὰρ ἐπῆλθε παράδοξος σβέσις τὸ ξύλον τοῦ Σταυροῦ, θανάτου τὸ κέντρον, καὶ ᾍδου τὸ νῖκος ἐλήλαται, ἐπέστης δὲ Σωτήρ μου βοῶν τοῖς ἐν ᾍδῃ· Εἰσάγεσθε πάλιν εἰς τὸν Παράδεισον."
 
 heAU.OukEtiKolyometha.greekname = " "
 heAU.OukEtiKolyometha.melody = "Αὐτόμελον."

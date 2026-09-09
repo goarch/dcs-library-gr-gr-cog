@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m06.d17_gr_GR_cog
 
-meDA.date = "Τῌ ΙΖʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "Μνήμη τῶν Ἁγίων Μαρτύρων, Ἰσαύρου, Βασιλείου, Ἰννοκεντίου, Ἑρμείου, Φήλικος καὶ Περεγρίνου· καὶ τῶν Ἁγίων Μαρτύρων, Μανουήλ, Σαβὲλ καὶ Ἰσμαήλ." // full title of day
+meDA.date = "Τῌ ΙΖʹ ΙΟΥΝΙΟΥ" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "Μνήμη τῶν Ἁγίων Μαρτύρων, Ἰσαύρου, Βασιλείου, Ἰννοκεντίου, Ἑρμείου, Φήλικος καὶ Περεγρίνου· καὶ τῶν Ἁγίων Μαρτύρων, Μανουήλ, Σαβὲλ καὶ Ἰσμαήλ." // full title of day
 meDA.commemoration.first = "Μνήμη τῶν Ἁγίων Μαρτύρων, Ἰσαύρου, Βασιλείου, Ἰννοκεντίου, Ἑρμείου, Φήλικος καὶ Περεγρίνου"
 meDA.commemoration.first_short = "Μνήμη τῶν Ἁγίων Μαρτύρων, Ἰσαύρου, Βασιλείου, Ἰννοκεντίου, Ἑρμείου, Φήλικος καὶ Περεγρίνου"
 meDA.commemoration.first_title = "Τοῦ Ἁγ. Ἰσαύρου καὶ τῶν σὺν αὐτῷ."
@@ -9,7 +9,7 @@ meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "Τῶν Ἁγ. Μανουὴλ καὶ τῶν σὺν αὐτῷ."
 meDA.commemoration.second_name = ""
 meDA.insert1 = "τῶν Ἁγίων Μαρτύρων, Ἰσαύρου καὶ Μανουήλ, καὶ τῶν σὺν αὐτοῖς," // for use in petitions and dismissal
-meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
+meDA.insert2 = "ὧν καὶ τὴν μνήμην ἐπιτελοῦμεν·" // for use in petitions and dismissal
 meDA.note = ""
 meDA.pdfcoverdate = "τῆς 17ης Ἰουνίου,"
 meDA.pdfdatebefore = "τῆς 16ης Ἰουνίου"
@@ -29,7 +29,7 @@ meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.greekname
 meVE.Stichera01.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
 meVE.Stichera01.incipit = "Πόνοις συντριβόμενοι…"
-meVE.Stichera01.text = "Πόνοις συντριβόμενοι, καὶ κακουχίαις στενούμενοι, καὶ εἱρκτῇ συγκλειόμενοι, ξίφεσι κοπτόμενοι, καὶ βιαιοτάτῳ, θνῄσκοντες θανάτῳ, οὐκ ἀπηρνήσασθε Χριστόν, οὐ τοῖς ξοάνοις σέβας ἐνείματε· διὸ καὶ ἠξιώθητε, τῆς οὐρανίου λαμπρότητος, δυσωποῦντες τὸν Κύριον, ὑπὲρ πάντων μακάριοι."
+meVE.Stichera01.text = "Πόνοις συντριβόμενοι, καὶ κακουχίαις στενούμενοι, καὶ εἱρκτῇ συγκλειόμενοι, ξίφεσι κοπτόμενοι, καὶ βιαιοτάτῳ, θνῄσκοντες θανάτῳ, οὐκ ἀπηρνήσασθε Χριστόν, οὐ τοῖς ξοάνοις σέβας ἐνείματε· διὸ καὶ ἠξιώθητε, τῆς οὐρανίου λαμπρότητος, δυσωποῦντες τὸν Κύριον, ὑπὲρ πάντων μακάριοι."
 
 meVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
@@ -45,7 +45,7 @@ meVE.Stichera04.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera04.greekmelody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera04.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
 meVE.Stichera04.incipit = "Ὡς ἀστέρες πολύφωτοι…"
-meVE.Stichera04.text = "Ὡς ἀστέρες πολύφωτοι, Ἀθλοφόροι πανεύφημοι, θεϊκαῖς λαμπρότησι καταυγάζετε, τῆς οἰκουμένης τὰ πέρατα, δαιμόνων σκοτόμαιναν, καὶ παθῶν φθοροποιῶν, καὶ κινδύνων ἐξαίροντες· ὅθεν σήμερον, τὴν φαιδρὰν καὶ φωσφόρον καὶ ἁγίαν, συνελθόντες ἐκτελοῦμεν, ὑμῶν πανήγυριν ἔνδοξοι."
+meVE.Stichera04.text = "Ὡς ἀστέρες πολύφωτοι, Ἀθλοφόροι πανεύφημοι, θεϊκαῖς λαμπρότησι καταυγάζετε, τῆς οἰκουμένης τὰ πέρατα, δαιμόνων σκοτόμαιναν, καὶ παθῶν φθοροποιῶν, καὶ κινδύνων ἐξαίροντες· ὅθεν σήμερον, τὴν φαιδρὰν καὶ φωσφόρον καὶ ἁγίαν, συνελθόντες ἐκτελοῦμεν, ὑμῶν πανήγυριν ἔνδοξοι."
 
 meVE.Stichera05.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera05.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
@@ -55,13 +55,13 @@ meVE.Stichera05.text = "Μανουὴλ ὁ θαυμάσιος, καὶ Σαβ�
 meVE.Stichera06.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Stichera06.melody = he.a.m4_gr_GR_cog.heAU.OsGennaionEnMartysi.name
 meVE.Stichera06.incipit = "Βασιλέα παράνομον…"
-meVE.Stichera06.text = "Βασιλέα παράνομον, παρανόμως προστάττοντα, ὑποκύπτειν σέβας τε νέμειν ἄλογον, θεοῖς ἀψύχοις μακάριοι, ἐμφρόνως ᾐσχύνατε, Μανουὴλ καὶ Ἰσμαήλ, καὶ Σαβὲλ μεγαλώνυμοι· καὶ ἀθλήσαντες, καρτερῶς καὶ νομίμως τοὺς στεφάνους, ἀνεπλέξασθε τῆς νίκης, ὑπὲρ τοῦ κόσμου πρεσβεύοντες."
+meVE.Stichera06.text = "Βασιλέα παράνομον, παρανόμως προστάττοντα, ὑποκύπτειν σέβας τε νέμειν ἄλογον, θεοῖς ἀψύχοις μακάριοι, ἐμφρόνως ᾐσχύνατε, Μανουὴλ καὶ Ἰσμαήλ, καὶ Σαβὲλ μεγαλώνυμοι· καὶ ἀθλήσαντες, καρτερῶς καὶ νομίμως τοὺς στεφάνους, ἀνεπλέξασθε τῆς νίκης, ὑπὲρ τοῦ κόσμου πρεσβεύοντες."
 
 meVE.SticGlory.poet = poets_gr_GR_cog.po.Anatoliou
 meVE.SticGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Εἰλικρινῶς ποθήσαντές σε…"
-meVE.SticGlory.text = "Εἰλικρινῶς ποθήσαντές σε Λόγε Θεοῦ, οἱ ἔνδοξοι Μάρτυρες, τὸ πυρσολατρεῖν ἐάσαντες, λιπόντες καὶ τὴν τῶν Χαλδαίων χθόνα, τῷ σῷ φωτὶ κατηυγάσθησαν· θωρακισθέντες δὲ ὅπλοις τῆς πίστεως, ᾔσχυναν Ἰουλιανὸν τὸν τύραννον, Μανουὴλ ὁ ἔνδοξος, καὶ Σαβὲλ ὁ ἀείμνηστος, καὶ Ἰσμαὴλ ὁ τρισόλβιος, σὺν Πατρὶ καὶ τῷ Πνεύματι ὑμνοῦντές σε, καὶ πρεσβεύουσι τοῦ σωθῆναι τὰς ψυχὰς ὑμῶν."
+meVE.SticGlory.text = "Εἰλικρινῶς ποθήσαντές σε Λόγε Θεοῦ, οἱ ἔνδοξοι Μάρτυρες, τὸ πυρσολατρεῖν ἐάσαντες, λιπόντες καὶ τὴν τῶν Χαλδαίων χθόνα, τῷ σῷ φωτὶ κατηυγάσθησαν· θωρακισθέντες δὲ ὅπλοις τῆς πίστεως, ᾔσχυναν Ἰουλιανὸν τὸν τύραννον, Μανουὴλ ὁ ἔνδοξος, καὶ Σαβὲλ ὁ ἀείμνηστος, καὶ Ἰσμαὴλ ὁ τρισόλβιος, σὺν Πατρὶ καὶ τῷ Πνεύματι ὑμνοῦντές σε, καὶ πρεσβεύουσι τοῦ σωθῆναι τὰς ψυχὰς ὑμῶν."
 
 meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.SticTheotokion.greekmelody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.greekname
@@ -80,12 +80,12 @@ meVE.Apolytikion1ger.mode = miscellanea_gr_GR_cog.misc.Mode3
 meVE.Apolytikion1ger.greekmelody = he.a.m3_gr_GR_cog.heAU.TinOraiotita.greekname
 meVE.Apolytikion1ger.melody = he.a.m3_gr_GR_cog.heAU.TinOraiotita.name
 meVE.Apolytikion1ger.incipit = "Ὡς ἐννεάριθμον…"
-meVE.Apolytikion1ger.text = "Ὡς ἐννεάριθμον, τοῦ Λόγου σύνταγμα, ἐχθρῶν τὰς φάλαγγας, κατετροπώσαντο, Ἴσαυρος Φῆλιξ σὺν αὐτοῖς, Ἑρμείας καὶ Περεγρῖνος, ἅμα Ἰννοκέντιος, Μανουὴλ καὶ Βασίλειος, Ἰσμαὴλ ὁ ἔνδοξος, καὶ Σαβὲλ ὁ μακάριος· διὸ καὶ τὰ βραβεῖα τῆς νίκης, εὗρον ὡς Μάρτυρες Κυρίου."
+meVE.Apolytikion1ger.text = "Ὡς ἐννεάριθμον, τοῦ Λόγου σύνταγμα, ἐχθρῶν τὰς φάλαγγας, κατετροπώσαντο, Ἴσαυρος Φῆλιξ σὺν αὐτοῖς, Ἑρμείας καὶ Περεγρῖνος, ἅμα Ἰννοκέντιος, Μανουὴλ καὶ Βασίλειος, Ἰσμαὴλ ὁ ἔνδοξος, καὶ Σαβὲλ ὁ μακάριος· διὸ καὶ τὰ βραβεῖα τῆς νίκης, εὗρον ὡς Μάρτυρες Κυρίου."
 
 meMA.C1.acrostic.title = "Ὁ Κανὼν τῶν Ἁγίων,"
-meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
+meMA.C1.acrostic.notice1 = "οὗ ἡ Ἀκροστιχίς·"
 meMA.C1.acrostic.text = "Ἴσαυ(ρε Μ)άρτυς, εὐμενὴς φάνηθί μοι."
-meMA.C1.acrostic.notice2 = "Ἐν δὲ τοῖς Θεοτοκίοις· Γ(ρ)ηγορίου."
+meMA.C1.acrostic.notice2 = "Ἐν δὲ τοῖς Θεοτοκίοις· Γ(ρ)ηγορίου."
 meMA.C1.title = titles_gr_GR_cog.ti.CanonSaints
 meMA.C1.verse = prayers_gr_GR_cog.pr.verse_SaintsM.text
 
@@ -100,7 +100,7 @@ meMA.Ode1C12.ode = miscellanea_gr_GR_cog.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode1C12.melody = he.h.m8_gr_GR_cog.heHE.YgranDiodefsas.name
 meMA.Ode1C12.incipit = "Στενούμενος πταίσμασι χαλεποῖς, καὶ πλήθει…"
-meMA.Ode1C12.text = "Στενούμενος πταίσμασι χαλεποῖς, καὶ πλήθει κινδύνων, πιεζόμενος ἐκβοῶ· Ἴσαυρε θεόφρον πρόστηθί μου, τῆς συνεχούσης ἀνάγκης καὶ λύτρωσαι."
+meMA.Ode1C12.text = "Στενούμενος πταίσμασι χαλεποῖς, καὶ πλήθει κινδύνων, πιεζόμενος ἐκβοῶ· Ἴσαυρε θεόφρον πρόστηθί μου, τῆς συνεχούσης ἀνάγκης καὶ λύτρωσαι."
 
 meMA.Ode1C13.ode = miscellanea_gr_GR_cog.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -131,7 +131,7 @@ meMA.Ode3C13.ode = miscellanea_gr_GR_cog.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode3C13.melody = he.h.m8_gr_GR_cog.heHE.SyEiToStereoma.name
 meMA.Ode3C13.incipit = "Τίμιος γεγένησαι, τὸ τοῦ Χριστοῦ…"
-meMA.Ode3C13.text = "Τίμιος γεγένησαι, τὸ τοῦ Χριστοῦ τιμῶν ὄνομα· διὸ βοῶ· λύτρωσαί με πάσης, ἀτιμίας πρεσβείαις σου."
+meMA.Ode3C13.text = "Τίμιος γεγένησαι, τὸ τοῦ Χριστοῦ τιμῶν ὄνομα· διὸ βοῶ· λύτρωσαί με πάσης, ἀτιμίας πρεσβείαις σου."
 
 meMA.Ode3C1T.ode = miscellanea_gr_GR_cog.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -160,7 +160,7 @@ meMA.Ode3KathismaT.text = oc.m3.d2_gr_GR_cog.ocMA.Kathisma23.text
 meMA.Ode3KathismaSt.mode = miscellanea_gr_GR_cog.misc.Mode3
 meMA.Ode3KathismaSt.melody = he.a.m3_gr_GR_cog.heAU.TheiasPisteos.name
 meMA.Ode3KathismaSt.incipit = "Ἡ ἀμίαντος, ἀμνὰς τοῦ Λόγου…"
-meMA.Ode3KathismaSt.text = "Ἡ ἀμίαντος, ἀμνὰς τοῦ Λόγου, ἡ ἀκήρατος, Παρθενομῆτορ, ἐν τῷ Σταυρῷ θεασαμένη κρεμάμενον, τὸν ἐξ αὐτῆς ἀνωδίνως βλαστήσαντα, μητροπρεπῶς θρηνῳδοῦσα ἐκραύγαζεν· Οἴμοι! τέκνον μου, πῶς πάσχεις, θέλων ῥύσασθαι, παθῶν τῆς ἀτιμίας τὸν ἄνθρωπον;"
+meMA.Ode3KathismaSt.text = "Ἡ ἀμίαντος, ἀμνὰς τοῦ Λόγου, ἡ ἀκήρατος, Παρθενομῆτορ, ἐν τῷ Σταυρῷ θεασαμένη κρεμάμενον, τὸν ἐξ αὐτῆς ἀνωδίνως βλαστήσαντα, μητροπρεπῶς θρηνῳδοῦσα ἐκραύγαζεν· Οἴμοι! τέκνον μου, πῶς πάσχεις, θέλων ῥύσασθαι, παθῶν τῆς ἀτιμίας τὸν ἄνθρωπον;"
 
 meMA.Ode4C11.ode = miscellanea_gr_GR_cog.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -179,7 +179,7 @@ meMA.Ode4C13.ode = miscellanea_gr_GR_cog.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode4C13.melody = he.h.m8_gr_GR_cog.heHE.EisakikoaKyrie.name
 meMA.Ode4C13.incipit = "Ἐν ὀδύνῃ καρδίας μου, τὸν…"
-meMA.Ode4C13.text = "Ἐν ὀδύνῃ καρδίας μου, τὸν ἐμὸν προστάτην σε τὸν θερμότατον, δυσωπῶ· Μὴ καταλίπῃς με, ἐχθρῶν ἐπηρείαις ἀπολλύμενον."
+meMA.Ode4C13.text = "Ἐν ὀδύνῃ καρδίας μου, τὸν ἐμὸν προστάτην σε τὸν θερμότατον, δυσωπῶ· Μὴ καταλίπῃς με, ἐχθρῶν ἐπηρείαις ἀπολλύμενον."
 
 meMA.Ode4C1T.ode = miscellanea_gr_GR_cog.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -192,13 +192,13 @@ meMA.Ode5C11.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode5C11.greekmelody = he.h.m8_gr_GR_cog.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_gr_GR_cog.heHE.InaTiMeAposo.name
 meMA.Ode5C11.incipit = "Υἱὸς ὤφθης ἡμέρας, ἔχων ἐν…"
-meMA.Ode5C11.text = "Υἱὸς ὤφθης ἡμέρας, ἔχων ἐν καρδίᾳ σου λάμπον φῶς ἄδυτον, διʼ οὗ σκοτομήνη, τῆς ἀπάτης μειοῦται καὶ ἅπασι, δᾳδουχεῖται γνῶσις, θείου φωτός· διὸ βοῶ σοι· Φώτισόν με τὸν γνώμῃ τυφλώττοντα."
+meMA.Ode5C11.text = "Υἱὸς ὤφθης ἡμέρας, ἔχων ἐν καρδίᾳ σου λάμπον φῶς ἄδυτον, δι’ οὗ σκοτομήνη, τῆς ἀπάτης μειοῦται καὶ ἅπασι, δᾳδουχεῖται γνῶσις, θείου φωτός· διὸ βοῶ σοι· Φώτισόν με τὸν γνώμῃ τυφλώττοντα."
 
 meMA.Ode5C12.ode = miscellanea_gr_GR_cog.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode5C12.melody = he.h.m8_gr_GR_cog.heHE.InaTiMeAposo.name
 meMA.Ode5C12.incipit = "Μὴ παρίδῃς με Μάρτυς, πίστει…"
-meMA.Ode5C12.text = "Μὴ παρίδῃς με Μάρτυς, πίστει σοι προστρέχοντα, μηδὲ ἀπώσῃ με· γλώσσῃ γὰρ δολία, κατʼ ἐμοῦ οἱ μισοῦντές με φθέγγονται, πολεμοῦντες μάτην, τοῦ ἀπολέσαι τὸν σὸν δοῦλον, ἀλλὰ πρόφθασον σῶσόν με Ἅγιε."
+meMA.Ode5C12.text = "Μὴ παρίδῃς με Μάρτυς, πίστει σοι προστρέχοντα, μηδὲ ἀπώσῃ με· γλώσσῃ γὰρ δολία, κατ’ ἐμοῦ οἱ μισοῦντές με φθέγγονται, πολεμοῦντες μάτην, τοῦ ἀπολέσαι τὸν σὸν δοῦλον, ἀλλὰ πρόφθασον σῶσόν με Ἅγιε."
 
 meMA.Ode5C13.ode = miscellanea_gr_GR_cog.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -223,7 +223,7 @@ meMA.Ode6C12.ode = miscellanea_gr_GR_cog.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode6C12.melody = he.h.m8_gr_GR_cog.heHE.TinDeisinEkcheo.name
 meMA.Ode6C12.incipit = "Ἡγίασέ σε ἀθλήσαντα Μάρτυς, ὁ…"
-meMA.Ode6C12.text = "Ἡγίασέ σε ἀθλήσαντα Μάρτυς, ὁ πανάγιος Θεὸς ὃν δυσώπει, ἁγιασμόν, τοῖς σοῖς δούλοις ἐκπέμψαι, καὶ φωτισμὸν καὶ πταισμάτων τὴν λύτρωσιν· προστάτης γὰρ παρὰ Θεοῦ, ἐχαρίσθης ἡμῖν ἀκαταίσχυντος."
+meMA.Ode6C12.text = "Ἡγίασέ σε ἀθλήσαντα Μάρτυς, ὁ πανάγιος Θεὸς ὃν δυσώπει, ἁγιασμόν, τοῖς σοῖς δούλοις ἐκπέμψαι, καὶ φωτισμὸν καὶ πταισμάτων τὴν λύτρωσιν· προστάτης γὰρ παρὰ Θεοῦ, ἐχαρίσθης ἡμῖν ἀκαταίσχυντος."
 
 meMA.Ode6C13.ode = miscellanea_gr_GR_cog.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -255,7 +255,7 @@ meMA.Ode7C12.ode = miscellanea_gr_GR_cog.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode7C12.melody = he.h.m8_gr_GR_cog.heHE.TheouSynkatavasin.name
 meMA.Ode7C12.incipit = "Ἀστέρες πολύφωτοι, ζόφον τῆς πλάνης…"
-meMA.Ode7C12.text = "Ἀστέρες πολύφωτοι, ζόφον τῆς πλάνης μειοῦντες ὤφθητε, ἀθλοφόροι Κυρίου· διὸ ψυχήν μου γνώμῃ τυφλώττουσαν, θεογνωσίας φωτὶ καταλάμψατε, τῆς ἀγνωσίας ἀχλύν ἀποδιώκοντες."
+meMA.Ode7C12.text = "Ἀστέρες πολύφωτοι, ζόφον τῆς πλάνης μειοῦντες ὤφθητε, ἀθλοφόροι Κυρίου· διὸ ψυχήν μου γνώμῃ τυφλώττουσαν, θεογνωσίας φωτὶ καταλάμψατε, τῆς ἀγνωσίας ἀχλύν ἀποδιώκοντες."
 
 meMA.Ode7C13.ode = miscellanea_gr_GR_cog.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -280,19 +280,19 @@ meMA.Ode8C12.ode = miscellanea_gr_GR_cog.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode8C12.melody = he.h.m8_gr_GR_cog.heHE.EptaplasiosKaminon.name
 meMA.Ode8C12.incipit = "Θανατωθεὶς ὁ δείλαιος, ἡδονῶν τῷ…"
-meMA.Ode8C12.text = "Θανατωθεὶς ὁ δείλαιος, ἡδονῶν τῷ ἐκπτώματι, ἔῤῥιμμαι εἰς γῆν, θέαμα θρήνων ἄξιον, πανένδοξε, Ἴσαυρε, νῦν ἐπʼ ἐμὲ ἐπίβλεψον, δεῖξον ἐν ἐμοί, τὴν τῶν θαυμάτων σου χάριν, βροτῶν ἰδέτω γένος, ὅτι σύ μου προστάτης, καὶ σῴζεις ἐκ θανάτου, τοὺς σοὺς ἀχρείους δούλους."
+meMA.Ode8C12.text = "Θανατωθεὶς ὁ δείλαιος, ἡδονῶν τῷ ἐκπτώματι, ἔῤῥιμμαι εἰς γῆν, θέαμα θρήνων ἄξιον, πανένδοξε, Ἴσαυρε, νῦν ἐπ’ ἐμὲ ἐπίβλεψον, δεῖξον ἐν ἐμοί, τὴν τῶν θαυμάτων σου χάριν, βροτῶν ἰδέτω γένος, ὅτι σύ μου προστάτης, καὶ σῴζεις ἐκ θανάτου, τοὺς σοὺς ἀχρείους δούλους."
 
 meMA.Ode8C13.ode = miscellanea_gr_GR_cog.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode8C13.melody = he.h.m8_gr_GR_cog.heHE.EptaplasiosKaminon.name
 meMA.Ode8C13.incipit = "Ἱερωσύνῃ πρότερον, κοσμηθεὶς ἱερώτατε, καὶ…"
-meMA.Ode8C13.text = "Ἱερωσύνῃ πρότερον, κοσμηθεὶς ἱερώτατε, καὶ διακονήσας, εὐλαβῶς εἰς ὕστερον, αὐθαίρετον γέγονας, σὺ ἱερεῖον ἄμωμον, ἱερουργηθείς, Χριστῷ διὰ μαρτυρίου· διὸ κἀμοῦ τὸν ὕμνον, ὡς θυμίαμα Μάρτυς, προσκόμισον τῷ Κτίστῃ, καὶ σῶσόν με λιταῖς σου."
+meMA.Ode8C13.text = "Ἱερωσύνῃ πρότερον, κοσμηθεὶς ἱερώτατε, καὶ διακονήσας, εὐλαβῶς εἰς ὕστερον, αὐθαίρετον γέγονας, σὺ ἱερεῖον ἄμωμον, ἱερουργηθείς, Χριστῷ διὰ μαρτυρίου· διὸ κἀμοῦ τὸν ὕμνον, ὡς θυμίαμα Μάρτυς, προσκόμισον τῷ Κτίστῃ, καὶ σῶσόν με λιταῖς σου."
 
 meMA.Ode8C1T.ode = miscellanea_gr_GR_cog.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode8C1T.melody = he.h.m8_gr_GR_cog.heHE.EptaplasiosKaminon.name
 meMA.Ode8C1T.incipit = "Ὁ τῶν φωστήρων κάλλεσιν, οὐρανὸν…"
-meMA.Ode8C1T.text = "Ὁ τῶν φωστήρων κάλλεσιν, οὐρανὸν καλλωπίσας Θεός, ἄλλον οὐρανόν σε, Θεοτόκε ἔδειξεν· ἐκ σοῦ γὰρ ὡς ἥλιος, ἐξανατείλας πᾶσαν τὴν γῆν, τῆς θεογνωσίας, κατελάμπρυνε φέγγει· διὸ οὐδεὶς προστρέχων, ἐν σοὶ κατῃσχυμμένος, πορεύεται τῶν θείων, μὴ τυχὼν δωρεῶν σου."
+meMA.Ode8C1T.text = "Ὁ τῶν φωστήρων κάλλεσιν, οὐρανὸν καλλωπίσας Θεός, ἄλλον οὐρανόν σε, Θεοτόκε ἔδειξεν· ἐκ σοῦ γὰρ ὡς ἥλιος, ἐξανατείλας πᾶσαν τὴν γῆν, τῆς θεογνωσίας, κατελάμπρυνε φέγγει· διὸ οὐδεὶς προστρέχων, ἐν σοὶ κατῃσχυμμένος, πορεύεται τῶν θείων, μὴ τυχὼν δωρεῶν σου."
 
 meMA.Ode8H.ode = miscellanea_gr_GR_cog.misc.Ode8
 meMA.Ode8H.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -306,13 +306,13 @@ meMA.Ode9C11.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode9C11.greekmelody = he.h.m8_gr_GR_cog.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C11.melody = he.h.m8_gr_GR_cog.heHE.ExestiEpiTouto.name
 meMA.Ode9C11.incipit = "Μεγάλων χαρισμάτων ἀξιωθείς, ἐκ Θεοῦ…"
-meMA.Ode9C11.text = "Μεγάλων χαρισμάτων ἀξιωθείς, ἐκ Θεοῦ παναοίδιμε Ἴσαυρε, ἀποσοβεῖς, δαίμονας καὶ νόσους παντοδαπάς, καὶ πειρασμοὺς καὶ θάνατον, πᾶσι τὰ αἰτήματα χορηγῶν· διὸ κἀμοὶ παράσχου, εἰρήνην καὶ ὑγείαν, καὶ τῶν πταισμάτων ἀπολύτρωσιν."
+meMA.Ode9C11.text = "Μεγάλων χαρισμάτων ἀξιωθείς, ἐκ Θεοῦ παναοίδιμε Ἴσαυρε, ἀποσοβεῖς, δαίμονας καὶ νόσους παντοδαπάς, καὶ πειρασμοὺς καὶ θάνατον, πᾶσι τὰ αἰτήματα χορηγῶν· διὸ κἀμοὶ παράσχου, εἰρήνην καὶ ὑγείαν, καὶ τῶν πταισμάτων ἀπολύτρωσιν."
 
 meMA.Ode9C12.ode = miscellanea_gr_GR_cog.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode9C12.melody = he.h.m8_gr_GR_cog.heHE.ExestiEpiTouto.name
 meMA.Ode9C12.incipit = "Ὁ θεῖος καὶ σεβάσμιός σου…"
-meMA.Ode9C12.text = "Ὁ θεῖος καὶ σεβάσμιός σου ναός, τὸ πολύτιμον ἅγιον σῶμά σου, ὡς θησαυρόν, ἔχων ἀναφαίρετον τοὺς πιστούς, καταπλουτίζει πάντοτε, ταῖς τῶν χαρισμάτων διανομαῖς· διὸ κἀγὼ τῶν θείων, τύχοιμι δωρεῶν σου, ὁ προσφυγὼν τῷ θείῳ τάφῳ σου."
+meMA.Ode9C12.text = "Ὁ θεῖος καὶ σεβάσμιός σου ναός, τὸ πολύτιμον ἅγιον σῶμά σου, ὡς θησαυρόν, ἔχων ἀναφαίρετον τοὺς πιστούς, καταπλουτίζει πάντοτε, ταῖς τῶν χαρισμάτων διανομαῖς· διὸ κἀγὼ τῶν θείων, τύχοιμι δωρεῶν σου, ὁ προσφυγὼν τῷ θείῳ τάφῳ σου."
 
 meMA.Ode9C13.ode = miscellanea_gr_GR_cog.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -324,7 +324,7 @@ meMA.Ode9C1T.ode = miscellanea_gr_GR_cog.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.Ode9C1T.melody = he.h.m8_gr_GR_cog.heHE.ExestiEpiTouto.name
 meMA.Ode9C1T.incipit = "Ὑπέρφωτε νεφέλη Μήτηρ Θεοῦ, τοὺς…"
-meMA.Ode9C1T.text = "Ὑπέρφωτε νεφέλη Μήτηρ Θεοῦ, τοὺς ἡμῖν πολεμοῦντας πολέμησον, τῇ κραταιᾷ, καὶ παντοδυνάμῳ σου δεξιᾷ, τοῖς ἐν ἀνάγκαις πρόστηθι, τῶν ἀδικουμένων ἀντιλαβοῦ, πταισμάτων λυτρουμένη, ταῖς σαῖς ἱκετηρίαις· ὅσα γὰρ θέλεις πάντα δύνασαι."
+meMA.Ode9C1T.text = "Ὑπέρφωτε νεφέλη Μήτηρ Θεοῦ, τοὺς ἡμῖν πολεμοῦντας πολέμησον, τῇ κραταιᾷ, καὶ παντοδυνάμῳ σου δεξιᾷ, τοῖς ἐν ἀνάγκαις πρόστηθι, τῶν ἀδικουμένων ἀντιλαβοῦ, πταισμάτων λυτρουμένη, ταῖς σαῖς ἱκετηρίαις· ὅσα γὰρ θέλεις πάντα δύνασαι."
 
 meMA.Ode9H.ode = miscellanea_gr_GR_cog.misc.Ode9
 meMA.Ode9H.mode = miscellanea_gr_GR_cog.misc.Mode8

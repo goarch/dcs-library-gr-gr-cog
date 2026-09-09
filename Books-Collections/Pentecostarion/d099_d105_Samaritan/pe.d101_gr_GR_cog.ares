@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = pe.d101_gr_GR_cog
 
 peDA.commemoration.full = "" //full title of day
-peDA.commemoration.short = "Τρίτη τῆς Εʹ Ἑβδομάδος"
+peDA.commemoration.short = "Τρίτη τῆς Εʹ Ἑβδομάδος"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = "holy_wisdom"
@@ -115,7 +115,7 @@ peMA.Aposticha2.text = "Ἤκουσεν ἡ Σιών, τῆς Ἀναστάσ�
 peMA.Aposticha3.mode = miscellanea_gr_GR_cog.misc.Mode2
 peMA.Aposticha3.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
 peMA.Aposticha3.incipit = "Σέλας τὸ ἐκ Πατρός, ἐξέλαμψας…"
-peMA.Aposticha3.text = "Σέλας τὸ ἐκ Πατρός, ἐξέλαμψας ὁ Λόγος· ἀλλʼ ἐπʼ ἐσχάτων χρόνων, ἐφάνης ὡς βροτός μοι, πταισμάτων νέμων ἄφεσιν."
+peMA.Aposticha3.text = "Σέλας τὸ ἐκ Πατρός, ἐξέλαμψας ὁ Λόγος· ἀλλ’ ἐπ’ ἐσχάτων χρόνων, ἐφάνης ὡς βροτός μοι, πταισμάτων νέμων ἄφεσιν."
 
 peMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode8
 peMA.AposGlory.melody = pe.d097_gr_GR_cog.peMA.LaudsGlory.melody

@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = tr.d031_gr_GR_cog
 
 trDA.commemoration.full = "" // full title of day
-trDA.commemoration.short = "Τρίτη τῆς Βʹ Ἑβδομάδος"
+trDA.commemoration.short = "Τρίτη τῆς Βʹ Ἑβδομάδος"
 trDA.title = ""
 trDA.insert1 = "" // for use in petitions and dismissal
 trDA.insert2 = "" // for use in petitions and dismissal
@@ -19,7 +19,7 @@ trVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode8
 trVE.Stichera01.greekmelody = he.a.m8_gr_GR_cog.heAU.TiYmasKalesomen.greekname
 trVE.Stichera01.melody = he.a.m8_gr_GR_cog.heAU.TiYmasKalesomen.name
 trVE.Stichera01.incipit = "Τίνι ὡμοιώθης ταλαίπωρε, ῥαθυμοῦσα, ὦ…"
-trVE.Stichera01.text = "Τίνι ὡμοιώθης ταλαίπωρε, ῥαθυμοῦσα, ὦ ψυχή, καὶ μὴ ποιοῦσα τὰ καλά, ἀλλὰ στέργουσα ἀεί, τῇ τῶν κακῶν ἐπιμονῆ; ἡ κρίσις ἐπὶ θύραις, μετανόησον, νηστείᾳ, καὶ δεήσει καθαγνίσθητι, καὶ τῷ Δεσπότῃ σου βόησον· Ἡμάρτηκά σοι, συγχώρησον, ὡς εὔσπλαγχνος, καὶ τὴν ἄφεσίν μοι δώρησαι."
+trVE.Stichera01.text = "Τίνι ὡμοιώθης ταλαίπωρε, ῥαθυμοῦσα, ὦ ψυχή, καὶ μὴ ποιοῦσα τὰ καλά, ἀλλὰ στέργουσα ἀεί, τῇ τῶν κακῶν ἐπιμονῆ; ἡ κρίσις ἐπὶ θύραις, μετανόησον, νηστείᾳ, καὶ δεήσει καθαγνίσθητι, καὶ τῷ Δεσπότῃ σου βόησον· Ἡμάρτηκά σοι, συγχώρησον, ὡς εὔσπλαγχνος, καὶ τὴν ἄφεσίν μοι δώρησαι."
 
 trVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode8
 trVE.Stichera02.greekmelody = he.a.m8_gr_GR_cog.heAU.TiYmasKalesomen.greekname
@@ -37,7 +37,7 @@ trVE.Stichera03.text = "Ὁ ἀγαγὼν καὶ νῦν ἡμᾶς Θεός,
 trVE.AposIdiomelon1.mode = miscellanea_gr_GR_cog.misc.Mode3
 trVE.AposIdiomelon1.melody = miscellanea_gr_GR_cog.misc.Idiomelon
 trVE.AposIdiomelon1.incipit = "Τὴν πνευματικὴν Νηστείαν νηστεύσωμεν, διάῤῥήξωμεν…"
-trVE.AposIdiomelon1.text = "Τὴν πνευματικὴν Νηστείαν νηστεύσωμεν, διάῤῥήξωμεν πᾶσαν στραγγαλιάν, ἐκφευξώμεθα δὲ καὶ τῶν σκανδάλων τῆς ἁμαρτίας, ἀφήσωμεν ἀδελφοῖς τὰ ὀφειλήματα, ἵνα καὶ ἡμῖν ἀφεθῇ τὰ παραπτώματα ἡμῶν· οὕτω γὰρ βοῆσαι δυνησόμεθα. Κατευθυνθήτω ἡ προσευχὴ ἡμῶν, ὡς θυμίαμα, ἐνώπιόν σου Κύριε."
+trVE.AposIdiomelon1.text = "Τὴν πνευματικὴν Νηστείαν νηστεύσωμεν, διάῤῥήξωμεν πᾶσαν στραγγαλιάν, ἐκφευξώμεθα δὲ καὶ τῶν σκανδάλων τῆς ἁμαρτίας, ἀφήσωμεν ἀδελφοῖς τὰ ὀφειλήματα, ἵνα καὶ ἡμῖν ἀφεθῇ τὰ παραπτώματα ἡμῶν· οὕτω γὰρ βοῆσαι δυνησόμεθα. Κατευθυνθήτω ἡ προσευχὴ ἡμῶν, ὡς θυμίαμα, ἐνώπιόν σου Κύριε."
 
 trVE.AposMartyric.mode = miscellanea_gr_GR_cog.misc.Mode3
 trVE.AposMartyric.melody = ""
@@ -71,7 +71,7 @@ trMA.Kathisma32.mode = miscellanea_gr_GR_cog.misc.Mode8
 trMA.Kathisma32.greekmelody = he.a.m8_gr_GR_cog.heAU.AnestisEkNekron.greekname
 trMA.Kathisma32.melody = he.a.m8_gr_GR_cog.heAU.AnestisEkNekron.name
 trMA.Kathisma32.incipit = "Ἐκ πάσης ἀπειλῆς, καὶ κακίας…"
-trMA.Kathisma32.text = "Ἐκ πάσης ἀπειλῆς, καὶ κακίας ἀνθρώπων, διάσωσον ἡμᾶς, Παναγία Παρθένε· σὲ γὰρ ἔχομεν σκέπην, καὶ προστασίαν οἱ καταφεύγοντες, ἐπὶ σοὶ Θεομῆτορ, καὶ τὸν τεχθέντα ἐκ σοῦ Θεὸν ἡμῶν, ὃν ἐκδυσώπει ῥύσασθαι ἡμᾶς, κινδύνων καὶ θλίψεων."
+trMA.Kathisma32.text = "Ἐκ πάσης ἀπειλῆς, καὶ κακίας ἀνθρώπων, διάσωσον ἡμᾶς, Παναγία Παρθένε· σὲ γὰρ ἔχομεν σκέπην, καὶ προστασίαν οἱ καταφεύγοντες, ἐπὶ σοὶ Θεομῆτορ, καὶ τὸν τεχθέντα ἐκ σοῦ Θεὸν ἡμῶν, ὃν ἐκδυσώπει ῥύσασθαι ἡμᾶς, κινδύνων καὶ θλίψεων."
 
 trMA.C1.poet = poets_gr_GR_cog.po.Iosif
 
@@ -89,7 +89,7 @@ trMA.Ode2C11.mode = miscellanea_gr_GR_cog.misc.Mode8
 trMA.Ode2C11.greekmelody = he.h.m8_gr_GR_cog.heHE.IdeteIdeteOProTonAionon.greekname
 trMA.Ode2C11.melody = he.h.m8_gr_GR_cog.heHE.IdeteIdeteOProTonAionon.name
 trMA.Ode2C11.incipit = "Στέναξον δάκρυσον, ψυχὴ ἐπίστρεψον μετανόησον…"
-trMA.Ode2C11.text = "Στέναξον δάκρυσον, ψυχὴ ἐπίστρεψον μετανόησον, ἤγγικεν ἡ ἡμέρα, ἐπὶ θύραις ὁ Κριτής, πρὸς ἀπολογίαν ἑτοιμάζου, καὶ βόησον· Ἡμάρτηκά σοι Οἰκτίρμον, ἐλεῆμον ἀγαθέ, σύ με οἴκτειρον."
+trMA.Ode2C11.text = "Στέναξον δάκρυσον, ψυχὴ ἐπίστρεψον μετανόησον, ἤγγικεν ἡ ἡμέρα, ἐπὶ θύραις ὁ Κριτής, πρὸς ἀπολογίαν ἑτοιμάζου, καὶ βόησον· Ἡμάρτηκά σοι Οἰκτίρμον, ἐλεῆμον ἀγαθέ, σύ με οἴκτειρον."
 
 trMA.Ode2C12.ode = miscellanea_gr_GR_cog.misc.Ode2
 trMA.Ode2C12.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -114,31 +114,31 @@ trMA.Ode2C21.mode = miscellanea_gr_GR_cog.misc.Mode8
 trMA.Ode2C21.greekmelody = he.h.m8_gr_GR_cog.heHE.IdeteIdeteOProTonAionon.greekname
 trMA.Ode2C21.melody = he.h.m8_gr_GR_cog.heHE.IdeteIdeteOProTonAionon.name
 trMA.Ode2C21.incipit = "Ἴδομεν, ἔγνωμεν, ὡς ἀγαθὸς ἡμῖν…"
-trMA.Ode2C21.text = "Ἴδομεν, ἔγνωμεν, ὡς ἀγαθὸς ἡμῖν εἰς μετάνοιαν, ὃν καιρὸν ὡρίσω, ἀλλʼ ἐν τούτῳ ὁ Θεὸς πρόσδεξαι ἡμῶν τὰς προσευχάς, καὶ κατεύθυνον ἐνώπιόν σου Οἰκτίρμον, ὡς θυμίαμα καλόν, ὥσπερ θυσίαν δεκτήν."
+trMA.Ode2C21.text = "Ἴδομεν, ἔγνωμεν, ὡς ἀγαθὸς ἡμῖν εἰς μετάνοιαν, ὃν καιρὸν ὡρίσω, ἀλλ’ ἐν τούτῳ ὁ Θεὸς πρόσδεξαι ἡμῶν τὰς προσευχάς, καὶ κατεύθυνον ἐνώπιόν σου Οἰκτίρμον, ὡς θυμίαμα καλόν, ὥσπερ θυσίαν δεκτήν."
 
 trMA.Ode2C22.ode = miscellanea_gr_GR_cog.misc.Ode2
 trMA.Ode2C22.mode = miscellanea_gr_GR_cog.misc.Mode8
 trMA.Ode2C22.melody = he.h.m8_gr_GR_cog.heHE.IdeteIdeteOProTonAionon.name
 trMA.Ode2C22.incipit = "Φρίττω καὶ πτοοῦμαι, κατανοούμενος ὅσα…"
-trMA.Ode2C22.text = "Φρίττω καὶ πτοοῦμαι, κατανοούμενος ὅσα ἥμαρτον· Πῶς σοι ὑπαντήσω; πῶς ὀφθῶ σοι φοβερὲ; πῶς δὲ παραστῷ τῷ ἀδεκάστῳ σου Βήματι; διὸ φεῖσαί μου Οἰκτίρμον ἐν τῇ ὥρᾳ, ὅταν μέλλῃς κρῖναι πᾶσαν τὴν γῆν."
+trMA.Ode2C22.text = "Φρίττω καὶ πτοοῦμαι, κατανοούμενος ὅσα ἥμαρτον· Πῶς σοι ὑπαντήσω; πῶς ὀφθῶ σοι φοβερὲ; πῶς δὲ παραστῷ τῷ ἀδεκάστῳ σου Βήματι; διὸ φεῖσαί μου Οἰκτίρμον ἐν τῇ ὥρᾳ, ὅταν μέλλῃς κρῖναι πᾶσαν τὴν γῆν."
 
 trMA.Ode2C2Tr.ode = miscellanea_gr_GR_cog.misc.Ode2
 trMA.Ode2C2Tr.mode = miscellanea_gr_GR_cog.misc.Mode8
 trMA.Ode2C2Tr.melody = he.h.m8_gr_GR_cog.heHE.IdeteIdeteOProTonAionon.name
 trMA.Ode2C2Tr.incipit = "Ὑπερτελεστάτη Μονάς, ὑπέρθεε, τρισυπόστατε, ἀγέννητε…"
-trMA.Ode2C2Tr.text = "Ὑπερτελεστάτη Μονάς, ὑπέρθεε, τρισυπόστατε, ἀγέννητε Πάτερ, καὶ Υἱὲ μονογενές, Πνεῦμα ἐκ Πατρὸς ἐκπορευθέν, διʼ Υἱοῦ δὲ φανέν, οὐσία μία καὶ φύσις, κυριότης βασιλεία, σῶσον πάντας ἡμᾶς."
+trMA.Ode2C2Tr.text = "Ὑπερτελεστάτη Μονάς, ὑπέρθεε, τρισυπόστατε, ἀγέννητε Πάτερ, καὶ Υἱὲ μονογενές, Πνεῦμα ἐκ Πατρὸς ἐκπορευθέν, δι’ Υἱοῦ δὲ φανέν, οὐσία μία καὶ φύσις, κυριότης βασιλεία, σῶσον πάντας ἡμᾶς."
 
 trMA.Ode2C2T.ode = miscellanea_gr_GR_cog.misc.Ode2
 trMA.Ode2C2T.mode = miscellanea_gr_GR_cog.misc.Mode8
 trMA.Ode2C2T.melody = he.h.m8_gr_GR_cog.heHE.IdeteIdeteOProTonAionon.name
 trMA.Ode2C2T.incipit = "Ἄῤῥητον τὸ θαῦμα, τῆς σῆς…"
-trMA.Ode2C2T.text = "Ἄῤῥητον τὸ θαῦμα, τῆς σῆς κυήσεως Μητροπάρθενε· πῶς γὰρ καὶ λοχεύεις, καὶ ἁγνεύεις ἐνταυτῶ; πῶς παιδοτοκεῖς καὶ ἀγνοεῖς, πεῖραν ὅλως ἀνδρός; Ὡς οἶδεν ὁ ὑπὲρ φύσιν, ἐξ ἐμοῦ καινοπρεπῶς, Λόγος Θεοῦ γεννηθείς."
+trMA.Ode2C2T.text = "Ἄῤῥητον τὸ θαῦμα, τῆς σῆς κυήσεως Μητροπάρθενε· πῶς γὰρ καὶ λοχεύεις, καὶ ἁγνεύεις ἐνταυτῶ; πῶς παιδοτοκεῖς καὶ ἀγνοεῖς, πεῖραν ὅλως ἀνδρός; Ὡς οἶδεν ὁ ὑπὲρ φύσιν, ἐξ ἐμοῦ καινοπρεπῶς, Λόγος Θεοῦ γεννηθείς."
 
 trMA.Ode2C2A1.ode = miscellanea_gr_GR_cog.misc.Ode2
 trMA.Ode2C2A1.mode = miscellanea_gr_GR_cog.misc.Mode8
 trMA.Ode2C2A1.melody = he.h.m8_gr_GR_cog.heHE.IdeteIdeteOProTonAionon.name
-trMA.Ode2C2A1.incipit = "Σὺ τοὺς Νινευΐτας, μετανοήσαντας καὶ…"
-trMA.Ode2C2A1.text = "Σὺ τοὺς Νινευΐτας, μετανοήσαντας καὶ νηστεύσαντας, τῆς ἀπειλουμένης, ἐπανήγαγες ὀργῆς, τοὺς δὲ Σοδομίτας, ἐν πυρὶ ἀπετέφρωσας, ἐν πλησμονῇ ἀσελγοῦντας. Ἀλλὰ ῥῦσαί με Χριστέ, τῆς ἀπειλῆς αὐτῶν."
+trMA.Ode2C2A1.incipit = "Σὺ τοὺς Νινευΐτας, μετανοήσαντας καὶ…"
+trMA.Ode2C2A1.text = "Σὺ τοὺς Νινευΐτας, μετανοήσαντας καὶ νηστεύσαντας, τῆς ἀπειλουμένης, ἐπανήγαγες ὀργῆς, τοὺς δὲ Σοδομίτας, ἐν πυρὶ ἀπετέφρωσας, ἐν πλησμονῇ ἀσελγοῦντας. Ἀλλὰ ῥῦσαί με Χριστέ, τῆς ἀπειλῆς αὐτῶν."
 
 trMA.Ode2C2H.ode = miscellanea_gr_GR_cog.misc.Ode2
 trMA.Ode2C2H.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -195,7 +195,7 @@ trMA.Ode8C2T.ode = miscellanea_gr_GR_cog.misc.Ode8
 trMA.Ode8C2T.mode = miscellanea_gr_GR_cog.misc.Mode8
 trMA.Ode8C2T.melody = he.h.m8_gr_GR_cog.heHE.TonEnOreiAgio.name
 trMA.Ode8C2T.incipit = "Σὺ τὸ ὄρος, τοῦ Θεοῦ…"
-trMA.Ode8C2T.text = "Σὺ τὸ ὄρος, τοῦ Θεοῦ ἀνεδείχθης, Θεοτόκε, ἐν ᾧ Χριστὸς οἰκήσας, θείους ναοὺς εἰργάσατο τοὺς ψάλλοντας· Κύριον ὑμνεῖτε, καὶ ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
+trMA.Ode8C2T.text = "Σὺ τὸ ὄρος, τοῦ Θεοῦ ἀνεδείχθης, Θεοτόκε, ἐν ᾧ Χριστὸς οἰκήσας, θείους ναοὺς εἰργάσατο τοὺς ψάλλοντας· Κύριον ὑμνεῖτε, καὶ ὑπερυψοῦτε, εἰς πάντας τοὺς αἰῶνας."
 
 trMA.Ode8C2A1.ode = miscellanea_gr_GR_cog.misc.Ode8
 trMA.Ode8C2A1.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -276,7 +276,7 @@ trMA.Ode9C2H.text = he.h.m8_gr_GR_cog.heHE.TonProdilothenta.text
 trMA.AposIdiomelon1.mode = miscellanea_gr_GR_cog.misc.Mode5
 trMA.AposIdiomelon1.melody = miscellanea_gr_GR_cog.misc.Idiomelon
 trMA.AposIdiomelon1.incipit = "Ἵνα τί ῥαθυμοῦσα ψυχή μου…"
-trMA.AposIdiomelon1.text = "Ἵνα τί ῥαθυμοῦσα ψυχή μου, τῇ ἁμαρτίᾳ δουλεύεις; καὶ ἵνα τί ἀσθενοῦσα, τῷ ἰατρῷ οὐ προστρέχεις; Ἰδοὺ καιρὸς εὐπρόσδεκτος, ἰδοὺ σωτηρίας νῦν ἡμέρα ἀληθής, διεγέρθητι, νίψον σου τὸ πρόσωπον τοῖς τῆς μετανοίας δάκρυσι, καὶ ἐλαίῳ εὐποιΐας, τὴν λαμπάδα φαίδρυνον, ὅπως εὕρῃς ἱλασμόν, παρὰ Χριστοῦ τοῦ Θεοῦ, καὶ τὸ μέγα ἔλεος."
+trMA.AposIdiomelon1.text = "Ἵνα τί ῥαθυμοῦσα ψυχή μου, τῇ ἁμαρτίᾳ δουλεύεις; καὶ ἵνα τί ἀσθενοῦσα, τῷ ἰατρῷ οὐ προστρέχεις; Ἰδοὺ καιρὸς εὐπρόσδεκτος, ἰδοὺ σωτηρίας νῦν ἡμέρα ἀληθής, διεγέρθητι, νίψον σου τὸ πρόσωπον τοῖς τῆς μετανοίας δάκρυσι, καὶ ἐλαίῳ εὐποιΐας, τὴν λαμπάδα φαίδρυνον, ὅπως εὕρῃς ἱλασμόν, παρὰ Χριστοῦ τοῦ Θεοῦ, καὶ τὸ μέγα ἔλεος."
 
 trMA.AposMartyric.mode = miscellanea_gr_GR_cog.misc.Mode5
 trMA.AposMartyric.melody = ""
@@ -291,6 +291,6 @@ trMA.AposTheotokion.text = oc.m5.d3_gr_GR_cog.ocVE.AposTheotokion.text
 trTE.Troparion.mode = miscellanea_gr_GR_cog.misc.Mode6
 trTE.Troparion.melody = ""
 trTE.Troparion.incipit = "Ἀξίως ἀνυμνεῖν σε οὐκ ἔχομεν…"
-trTE.Troparion.text = "Ἀξίως ἀνυμνεῖν σε οὐκ ἔχομεν, ἀλλʼ αἰτοῦμεν δεόμενοι· Μὴ συναπολέσῃς ἡμᾶς, ταῖς ἀνομίαις ἡμῶν, εὐδιάλλακτε Κύριε."
+trTE.Troparion.text = "Ἀξίως ἀνυμνεῖν σε οὐκ ἔχομεν, ἀλλ’ αἰτοῦμεν δεόμενοι· Μὴ συναπολέσῃς ἡμᾶς, ταῖς ἀνομίαις ἡμῶν, εὐδιάλλακτε Κύριε."
 trTE.Troparion2.incipit = "Μὴ συναπολέσῃς ἡμᾶς, ταῖς ἀνομίαις…"
 trTE.Troparion2.text = "Μὴ συναπολέσῃς ἡμᾶς, ταῖς ἀνομίαις ἡμῶν, εὐδιάλλακτε Κύριε."

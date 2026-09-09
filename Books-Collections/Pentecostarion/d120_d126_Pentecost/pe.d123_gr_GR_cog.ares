@@ -18,7 +18,7 @@ peVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode1
 peVE.Stichera01.greekmelody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.greekname
 peVE.Stichera01.melody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.name
 peVE.Stichera01.incipit = "Ὡς προσφυὲς ὡς οἰκεῖον, τοῖς…"
-peVE.Stichera01.text = "Ὡς προσφυὲς ὡς οἰκεῖον, τοῖς λογικοῖς οὐρανοῖς, ἐν πυριμόρφοις γλώσσαις, τοῦ Θεοῦ καταγγέλλειν, τοῖς ἔθνεσι τὴν δόξαν, τοῦ τῷ πυρί, οὐρανοὺς ὡραΐσαντος, καὶ καταυγάσαντος κόσμον τὸν αἰσθητόν, σὺν Υἱῷ τε καὶ τῷ Πνεύματι."
+peVE.Stichera01.text = "Ὡς προσφυὲς ὡς οἰκεῖον, τοῖς λογικοῖς οὐρανοῖς, ἐν πυριμόρφοις γλώσσαις, τοῦ Θεοῦ καταγγέλλειν, τοῖς ἔθνεσι τὴν δόξαν, τοῦ τῷ πυρί, οὐρανοὺς ὡραΐσαντος, καὶ καταυγάσαντος κόσμον τὸν αἰσθητόν, σὺν Υἱῷ τε καὶ τῷ Πνεύματι."
 
 peVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode1
 peVE.Stichera02.melody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.name
@@ -39,17 +39,17 @@ peVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode4
 peVE.Aposticha1.greekmelody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.greekname
 peVE.Aposticha1.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
 peVE.Aposticha1.incipit = "Σήμερον ἐφοίτησε, τοῦ παναγίου σου…"
-peVE.Aposticha1.text = "Σήμερον ἐφοίτησε, τοῦ παναγίου σου Πνεύματος, ἡ ἐνέργεια Κύριε, ἐν τοῖς Ἀποστόλοις σου· καὶ σοφοὺς ἐνδεῖξαν, τῇ Θεογνωσίᾳ, καταπεπλήρωκεν ἰδού, τῆς μακαρίας διδασκαλίας σου· διό σου τὴν σωτήριον, οἰκονομίαν δοξάζομεν, Ἰησοῦ Παντοδύναμε, ὁ Σωτὴρ τῶν ψυχῶν ἡμῶν."
+peVE.Aposticha1.text = "Σήμερον ἐφοίτησε, τοῦ παναγίου σου Πνεύματος, ἡ ἐνέργεια Κύριε, ἐν τοῖς Ἀποστόλοις σου· καὶ σοφοὺς ἐνδεῖξαν, τῇ Θεογνωσίᾳ, καταπεπλήρωκεν ἰδού, τῆς μακαρίας διδασκαλίας σου· διό σου τὴν σωτήριον, οἰκονομίαν δοξάζομεν, Ἰησοῦ Παντοδύναμε, ὁ Σωτὴρ τῶν ψυχῶν ἡμῶν."
 
 peVE.Aposticha2.mode = miscellanea_gr_GR_cog.misc.Mode4
 peVE.Aposticha2.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
 peVE.Aposticha2.incipit = "Σήμερον τὸ Πνεῦμά σου, τὸ…"
-peVE.Aposticha2.text = "Σήμερον τὸ Πνεῦμά σου, τὸ παντοδύναμον Δέσποτα, ἐκ Πατρὸς καταπέμπεται, τὸ σοὶ ὁμοούσιον, ἐν πυρίναις γλώσσαις· διανεμηθὲν δέ, τὰ μεγαλεῖά σου λαλεῖν, τοὺς Ἀποστόλους σου παρεσκεύασε· διό σου τὴν σωτήριον, οἰκονομίαν δοξάζομεν, Ἰησοῦ παντοδύναμε, ὁ Σωτὴρ τῶν ψυχῶν ἡμῶν."
+peVE.Aposticha2.text = "Σήμερον τὸ Πνεῦμά σου, τὸ παντοδύναμον Δέσποτα, ἐκ Πατρὸς καταπέμπεται, τὸ σοὶ ὁμοούσιον, ἐν πυρίναις γλώσσαις· διανεμηθὲν δέ, τὰ μεγαλεῖά σου λαλεῖν, τοὺς Ἀποστόλους σου παρεσκεύασε· διό σου τὴν σωτήριον, οἰκονομίαν δοξάζομεν, Ἰησοῦ παντοδύναμε, ὁ Σωτὴρ τῶν ψυχῶν ἡμῶν."
 
 peVE.Aposticha3.mode = miscellanea_gr_GR_cog.misc.Mode4
 peVE.Aposticha3.melody = he.a.m4_gr_GR_cog.heAU.EdokasSimeiosin.name
 peVE.Aposticha3.incipit = "Σήμερον ἐξέχεας, τοῦ Παρακλήτου σου…"
-peVE.Aposticha3.text = "Σήμερον ἐξέχεας, τοῦ Παρακλήτου σου Πνεύματος, ὁ Σωτὴρ τὰ χαρίσματα, τῇ βροτείᾳ φύσει, διδοὺς προφητεύειν, ὡς ἔφησας Λόγε, καὶ τὴν Τριάδα προσκυνεῖν, ἀδιαιρέτως συνεξεπαίδευσας· διό σου τὴν σωτήριον, οἰκονομίαν δοξάζομεν, Ἰησοῦ παντοδύναμε, ὁ Σωτὴρ τῶν ψυχῶν ἡμῶν."
+peVE.Aposticha3.text = "Σήμερον ἐξέχεας, τοῦ Παρακλήτου σου Πνεύματος, ὁ Σωτὴρ τὰ χαρίσματα, τῇ βροτείᾳ φύσει, διδοὺς προφητεύειν, ὡς ἔφησας Λόγε, καὶ τὴν Τριάδα προσκυνεῖν, ἀδιαιρέτως συνεξεπαίδευσας· διό σου τὴν σωτήριον, οἰκονομίαν δοξάζομεν, Ἰησοῦ παντοδύναμε, ὁ Σωτὴρ τῶν ψυχῶν ἡμῶν."
 
 peVE.AposGlory.mode = pe.d120_gr_GR_cog.peVE.Stichera05.mode
 peVE.AposGlory.melody = pe.d120_gr_GR_cog.peVE.Stichera05.melody
@@ -60,13 +60,13 @@ peMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode4
 peMA.Kathisma11.greekmelody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.greekname
 peMA.Kathisma11.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name
 peMA.Kathisma11.incipit = "Καθὼς ἐπηγγείλατο, αὐτεξουσίως μολόν, τὸ…"
-peMA.Kathisma11.text = "Καθὼς ἐπηγγείλατο, αὐτεξουσίως μολόν, τὸ Πνεῦμα τὸ ἅγιον, τοῖς Ἀποστόλοις Χριστέ, εἰς μίαν συνήρμοσε, πίστεως συμφωνίαν, τῆς ἀκτίστου Τριάδος, γλώσσας τὰς διαφόρους, τῆς ἐθνῶν πανσπερμίας· ἀλλʼ οἴκησον καὶ ἡμῖν ἀγαθέ, Φιλάνθρωπε δεόμεθα."
+peMA.Kathisma11.text = "Καθὼς ἐπηγγείλατο, αὐτεξουσίως μολόν, τὸ Πνεῦμα τὸ ἅγιον, τοῖς Ἀποστόλοις Χριστέ, εἰς μίαν συνήρμοσε, πίστεως συμφωνίαν, τῆς ἀκτίστου Τριάδος, γλώσσας τὰς διαφόρους, τῆς ἐθνῶν πανσπερμίας· ἀλλ’ οἴκησον καὶ ἡμῖν ἀγαθέ, Φιλάνθρωπε δεόμεθα."
 
 peMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode8
 peMA.Kathisma21.greekmelody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.greekname
 peMA.Kathisma21.melody = he.a.m8_gr_GR_cog.heAU.TinSofianKaiLogon.name
 peMA.Kathisma21.incipit = "Τὸ πανάγιον Πνεῦμα νῦν κατελθόν…"
-peMA.Kathisma21.text = "Τὸ πανάγιον Πνεῦμα νῦν κατελθόν, ἐπὶ τοὺς Ἀποστόλους εἴδει πυρός, θάμβους ἐπλήρωσε, τῶν ἐθνῶν τὰ συστήματα· ἐν γὰρ γλώσσαις λαλούντων, πυρίναις Φιλάνθρωπε, τὴν ἰδίαν ἕκαστος, διάλεξιν ἤκουεν· ὅθεν καὶ τὸ θαῦμα, τοῖς ἀπίστοις ὡς μέθη, πιστοῖς δὲ σωτήριον, ἀληθῶς ἐγνωρίζετο· διὰ τοῦτο δοξάζομεν, τὸ κράτος σου, Χριστὲ ὁ Θεός, τῶν πταισμάτων ἄφεσιν αἰτούμενοι, καταπέμψαι πλουσίως τοῖς δούλοις σου."
+peMA.Kathisma21.text = "Τὸ πανάγιον Πνεῦμα νῦν κατελθόν, ἐπὶ τοὺς Ἀποστόλους εἴδει πυρός, θάμβους ἐπλήρωσε, τῶν ἐθνῶν τὰ συστήματα· ἐν γὰρ γλώσσαις λαλούντων, πυρίναις Φιλάνθρωπε, τὴν ἰδίαν ἕκαστος, διάλεξιν ἤκουεν· ὅθεν καὶ τὸ θαῦμα, τοῖς ἀπίστοις ὡς μέθη, πιστοῖς δὲ σωτήριον, ἀληθῶς ἐγνωρίζετο· διὰ τοῦτο δοξάζομεν, τὸ κράτος σου, Χριστὲ ὁ Θεός, τῶν πταισμάτων ἄφεσιν αἰτούμενοι, καταπέμψαι πλουσίως τοῖς δούλοις σου."
 
 peMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode6
 peMA.Aposticha1.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
@@ -82,7 +82,7 @@ peMA.Aposticha2.text = "Τὸ Πνεῦμα τὸ πανάγιον, ἐγκα�
 peMA.Aposticha3.mode = miscellanea_gr_GR_cog.misc.Mode6
 peMA.Aposticha3.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name
 peMA.Aposticha3.incipit = "Τὸ Πνεῦμα τὸ πανάγιον, πιστῶς…"
-peMA.Aposticha3.text = "Τὸ Πνεῦμα τὸ πανάγιον, πιστῶς θεολογήσωμεν, ἐκβοῶντες· Μὴ ἀποστῇς ἀφʼ ἡμῶν, Παράκλητε, ὁ πᾶσι παρέχων σωτηρίαν, καὶ ἁγιάζων τοὺς ὑμνοῦντάς σε."
+peMA.Aposticha3.text = "Τὸ Πνεῦμα τὸ πανάγιον, πιστῶς θεολογήσωμεν, ἐκβοῶντες· Μὴ ἀποστῇς ἀφ’ ἡμῶν, Παράκλητε, ὁ πᾶσι παρέχων σωτηρίαν, καὶ ἁγιάζων τοὺς ὑμνοῦντάς σε."
 
 peMA.AposGlory.mode = pe.d120_gr_GR_cog.peVE.Stichera06.mode
 peMA.AposGlory.melody = pe.d120_gr_GR_cog.peVE.Stichera06.melody

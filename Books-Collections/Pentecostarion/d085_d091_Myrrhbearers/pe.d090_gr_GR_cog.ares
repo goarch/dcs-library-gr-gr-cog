@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = pe.d090_gr_GR_cog
 
 peDA.commemoration.full = "" //full title of day
-peDA.commemoration.short = "Παρασκευὴ τῆς Γʹ Ἑβδομάδος"
+peDA.commemoration.short = "Παρασκευὴ τῆς Γʹ Ἑβδομάδος"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = ""
@@ -18,7 +18,7 @@ peVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode8
 peVE.Stichera01.greekmelody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.greekname
 peVE.Stichera01.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
 peVE.Stichera01.incipit = "Χριστοῦ φανέντος τοῖς ἴχνεσιν…"
-peVE.Stichera01.text = "Χριστοῦ φανέντος τοῖς ἴχνεσιν, ἀκολουθοῦσαι σεμναί, καὶ αὐτὸν θεραπεύουσαι, γνώμης προθυμότατα, Μυροφόροι εὐθύτητι, οὐδὲ θανόντα τοῦτον ἐλίπετε· ἀλλʼ ἀπελθοῦσαι μύρα σὺν δάκρυσιν, ἀπεκομίσατε συμπαθῶς κινούμεναι· ὅθεν ὑμῶν, μνήμην τὴν πανίερον, πανηγυρίζομεν."
+peVE.Stichera01.text = "Χριστοῦ φανέντος τοῖς ἴχνεσιν, ἀκολουθοῦσαι σεμναί, καὶ αὐτὸν θεραπεύουσαι, γνώμης προθυμότατα, Μυροφόροι εὐθύτητι, οὐδὲ θανόντα τοῦτον ἐλίπετε· ἀλλ’ ἀπελθοῦσαι μύρα σὺν δάκρυσιν, ἀπεκομίσατε συμπαθῶς κινούμεναι· ὅθεν ὑμῶν, μνήμην τὴν πανίερον, πανηγυρίζομεν."
 
 peVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode8
 peVE.Stichera02.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
@@ -68,7 +68,7 @@ peMA.Kathisma12.text = oc.m2.d1_gr_GR_cog.ocMA.Kathisma21.text
 peMA.Kathisma13.mode = miscellanea_gr_GR_cog.misc.Mode2
 peMA.Kathisma13.melody = ""
 peMA.Kathisma13.incipit = "Ὅτε τοῖς ἄθλοις ἠγωνίσαντο τοῦ…"
-peMA.Kathisma13.text = "Ὅτε τοῖς ἄθλοις ἠγωνίσαντο τοῦ Κυρίου οἱ Μάρτυρες, τότε τὸ θράσος ἠμαύρωται τῶν ἀσεβῶν διὰ πίστεως· ὅτε δὲ τὴν πλάνην τῶν εἰδώλων ἐνθέως κατήργησαν, τότε τοὺς στεφάνους τῆς νίκης ἐδέξαντο ἄνωθεν, καὶ πρεσβεύουσιν ὑπὲρ τῶν ψυχῶν ἡμῶν."
+peMA.Kathisma13.text = "Ὅτε τοῖς ἄθλοις ἠγωνίσαντο τοῦ Κυρίου οἱ Μάρτυρες, τότε τὸ θράσος ἠμαύρωται τῶν ἀσεβῶν διὰ πίστεως· ὅτε δὲ τὴν πλάνην τῶν εἰδώλων ἐνθέως κατήργησαν, τότε τοὺς στεφάνους τῆς νίκης ἐδέξαντο ἄνωθεν, καὶ πρεσβεύουσιν ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
 peMA.Kathisma1T.mode = miscellanea_gr_GR_cog.misc.Mode2
 peMA.Kathisma1T.melody = ""

@@ -8,7 +8,7 @@ hoD03.GeneralApolytikion3.name = "πάτερ ἱεράρχα Ἀνατόλι�
 
 hoD04.GeneralApolytikion1.name = "πάτερ ἱεράρχα Ἀνδρέα,"
 
-hoD09.GeneralApolytikion1.name = "Παγκράτιε·"
+hoD09.GeneralApolytikion1.name = "Παγκράτιε·"
 
 hoD17.Apolytikion3.title = titles_gr_GR_cog.ti.SaintW
 hoD17.Apolytikion3.poet = ""
@@ -24,7 +24,7 @@ hoD18.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
 hoD18.Apolytikion1.greekmelody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.greekname
 hoD18.Apolytikion1.melody = he.a.m4_gr_GR_cog.heAU.OYpsotheisEnToStavro.name
 hoD18.Apolytikion1.incipit = "Ὡς προσφορὰ καὶ ὁλοκάρπωμα θεῖον…"
-hoD18.Apolytikion1.text = "Ὡς προσφορὰ καὶ ὁλοκάρπωμα θεῖον, διὰ πυρὸς προσενεχθεὶς τῷ Δεσπότῃ, τοῖς ὄμβροις τῶν χαρίτων σου, εὐφραίνεις νῦν ἡμᾶς· πῦρ γὰρ τὸ οὐράνιον, τῇ ψυχῇ περιφέρων, ὥσπερ αὔραν ἔφερες, τὴν κατάφλεξιν Μάρτυς. Ἀλλὰ μὴ παύσῃ πάντοτε φρουρῶν, τοὺς σὲ τιμῶντας, Αἰμιλιανὲ ἔνδοξε."
+hoD18.Apolytikion1.text = "Ὡς προσφορὰ καὶ ὁλοκάρπωμα θεῖον, διὰ πυρὸς προσενεχθεὶς τῷ Δεσπότῃ, τοῖς ὄμβροις τῶν χαρίτων σου, εὐφραίνεις νῦν ἡμᾶς· πῦρ γὰρ τὸ οὐράνιον, τῇ ψυχῇ περιφέρων, ὥσπερ αὔραν ἔφερες, τὴν κατάφλεξιν Μάρτυς. Ἀλλὰ μὴ παύσῃ πάντοτε φρουρῶν, τοὺς σὲ τιμῶντας, Αἰμιλιανὲ ἔνδοξε."
 
 hoD18.Kontakion1.title = titles_gr_GR_cog.ti.SaintM
 hoD18.Kontakion1.poet = ""
@@ -32,7 +32,7 @@ hoD18.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoD18.Kontakion1.greekmelody = he.a.m8_gr_GR_cog.heAU.TiYpermacho.greekname
 hoD18.Kontakion1.melody = he.a.m8_gr_GR_cog.heAU.TiYpermacho.name
 hoD18.Kontakion1.incipit = "Ὡς εὐσεβείας στηλογράφημα θεόγλυπτον, τῆς…"
-hoD18.Kontakion1.text = "Ὡς εὐσεβείας στηλογράφημα θεόγλυπτον, τῆς ἀσεβείας καθαιρέτηες ἀναδέδειξαι, τὰ σεβάσματα συντρίψας τῆς ἀπωλείας. Ἀλλʼ ὡς ἔμπλεως τῆς θείας ἀγαπήσεως, ὡς χρυσὸς ἐν τῷ πυρὶ εὑρέθης δόκιμος, ὅθεν κράζομεν, χαίριοις Μάρτυς ἀήττητε."
+hoD18.Kontakion1.text = "Ὡς εὐσεβείας στηλογράφημα θεόγλυπτον, τῆς ἀσεβείας καθαιρέτηες ἀναδέδειξαι, τὰ σεβάσματα συντρίψας τῆς ἀπωλείας. Ἀλλ’ ὡς ἔμπλεως τῆς θείας ἀγαπήσεως, ὡς χρυσὸς ἐν τῷ πυρὶ εὑρέθης δόκιμος, ὅθεν κράζομεν, χαίριοις Μάρτυς ἀήττητε."
 
 hoD19.GeneralApolytikion1.name = "Μακρίνα,"
 hoD19.GeneralApolytikion3.name = "Δῖε,"

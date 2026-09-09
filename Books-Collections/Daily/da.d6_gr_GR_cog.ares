@@ -47,7 +47,7 @@ daMA.ExapTheotokion2.mode = miscellanea_gr_GR_cog.misc.Mode3
 daMA.ExapTheotokion2.greekmelody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.greekname
 daMA.ExapTheotokion2.melody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion2.incipit = "Ἐν τῷ Σταυρῷ παρεστῶσα…"
-daMA.ExapTheotokion2.text = "Ἐν τῷ Σταυρῷ παρεστῶσα, ἡ σὲ ἀσπόρως τεκοῦσα, καὶ θρηνῳδοῦσα ἐβόα· Οἴμοι! γλυκύτατον τέκνον, πῶς ἔδυς ἐξ ὀφθαλμῶν μου, πῶς ἐν νεκροῖς ἐλογίσθης;"
+daMA.ExapTheotokion2.text = "Ἐν τῷ Σταυρῷ παρεστῶσα, ἡ σὲ ἀσπόρως τεκοῦσα, καὶ θρηνῳδοῦσα ἐβόα· Οἴμοι! γλυκύτατον τέκνον, πῶς ἔδυς ἐξ ὀφθαλμῶν μου, πῶς ἐν νεκροῖς ἐλογίσθης;"
 
 daLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 

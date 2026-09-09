@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = ho.ho15.m02_gr_GR_cog
 
 ho.Month = "ΜΗΝ ΦΕΒΡΟΥΑΡΙΟΣ"
-ho.Days = "ἔχων ἡμέρας 28· εἰ δέ ἐστι βίσεκτον το ἔτος, 29."
+ho.Days = "ἔχων ἡμέρας 28· εἰ δέ ἐστι βίσεκτον το ἔτος, 29."
 ho.Hours = "Ἡ ἡμέρα ἔχει ὥρας 11, καὶ ἡ νὺξ ὥρας 13."
 
 hoD01.Apolytikion2.title = titles_gr_GR_cog.ti.Martyr
@@ -32,8 +32,8 @@ hoD11.Apolytikion2.poet = ""
 hoD11.Apolytikion2.mode = miscellanea_gr_GR_cog.misc.Mode5
 hoD11.Apolytikion2.greekmelody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.greekname
 hoD11.Apolytikion2.melody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.name
-hoD11.Apolytikion2.incipit = "Δωρεῶν τῶν ἐνθέων…"
-hoD11.Apolytikion2.text = "Δωρεῶν τῶν ἐνθέων οὖσα ἐπώνυμος, τὴν Ἐκκλησίαν φαιδρύνεις βασιλικαῖς δωρεαῖς, ὡς θεόγλυπτος εἰκὼν θείας φρονήσεως, τῶν γὰρ Εἰκόνων τῶν σεπτῶν, τὴν τιμὴν ὡς σχετικήν, ἐτράνωσας Θεοδώρα, τῶν Βασιλίδων ἄκρατης, τῶν Ὀρθοδόξων ἐγκαλλώπισμα."
+hoD11.Apolytikion2.incipit = "Δωρεῶν τῶν ἐνθέων…"
+hoD11.Apolytikion2.text = "Δωρεῶν τῶν ἐνθέων οὖσα ἐπώνυμος, τὴν Ἐκκλησίαν φαιδρύνεις βασιλικαῖς δωρεαῖς, ὡς θεόγλυπτος εἰκὼν θείας φρονήσεως, τῶν γὰρ Εἰκόνων τῶν σεπτῶν, τὴν τιμὴν ὡς σχετικήν, ἐτράνωσας Θεοδώρα, τῶν Βασιλίδων ἄκρατης, τῶν Ὀρθοδόξων ἐγκαλλώπισμα."
 
 hoD12.GeneralApolytikion1.name = "πάτερ ἱεράρχα Μελέτιε,"
 

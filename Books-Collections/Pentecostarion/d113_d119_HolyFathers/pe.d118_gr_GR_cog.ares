@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = pe.d118_gr_GR_cog
 
-peDA.commemoration.full = "Παρασκευὴ τῆς Ζʹ Ἑβδομάδος - Ἀπόδοσις τῆς Ἀναλήψεως" //full title of day
+peDA.commemoration.full = "Παρασκευὴ τῆς Ζʹ Ἑβδομάδος - Ἀπόδοσις τῆς Ἀναλήψεως" //full title of day
 peDA.commemoration.short = "Ἀπόδοσις τῆς Ἀναλήψεως"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal

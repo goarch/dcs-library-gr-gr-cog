@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.va.unction_gr_GR_cog
 
-levaUNC.Gospel1.title = "Εὐαγγέλιον Αʹ"
-levaUNC.Gospel1.title_abbr = "Εὐαγ. Αʹ"
+levaUNC.Gospel1.title = "Εὐαγγέλιον Αʹ"
+levaUNC.Gospel1.title_abbr = "Εὐαγ. Αʹ"
 levaUNC.Gospel1.version = le.go.lu.d056_gr_GR_cog.leluLI.Gospel.version
 levaUNC.Gospel1.book_string = le.go.lu.d056_gr_GR_cog.leluLI.Gospel.book_string
 levaUNC.Gospel1.book_abbr = le.go.lu.d056_gr_GR_cog.leluLI.Gospel.book_abbr
@@ -9,8 +9,8 @@ levaUNC.Gospel1.chapverse = le.go.lu.d056_gr_GR_cog.leluLI.Gospel.chapverse
 levaUNC.Gospel1.incipit = le.go.lu.d056_gr_GR_cog.leluLI.Gospel.incipit
 levaUNC.Gospel1.text = le.go.lu.d056_gr_GR_cog.leluLI.Gospel.text
 
-levaUNC.Gospel2.title = "Εὐαγγέλιον Βʹ"
-levaUNC.Gospel2.title_abbr = "Εὐαγ. Βʹ"
+levaUNC.Gospel2.title = "Εὐαγγέλιον Βʹ"
+levaUNC.Gospel2.title_abbr = "Εὐαγ. Βʹ"
 levaUNC.Gospel2.version = le.go.lu.d105_gr_GR_cog.leluLI.Gospel.version
 levaUNC.Gospel2.book_string = le.go.lu.d105_gr_GR_cog.leluLI.Gospel.book_string
 levaUNC.Gospel2.book_abbr = le.go.lu.d105_gr_GR_cog.leluLI.Gospel.book_abbr
@@ -18,8 +18,8 @@ levaUNC.Gospel2.chapverse = le.go.lu.d105_gr_GR_cog.leluLI.Gospel.chapverse
 levaUNC.Gospel2.incipit = le.go.lu.d105_gr_GR_cog.leluLI.Gospel.incipit
 levaUNC.Gospel2.text = le.go.lu.d105_gr_GR_cog.leluLI.Gospel.text
 
-levaUNC.Gospel3.title = "Εὐαγγέλιον Γʹ"
-levaUNC.Gospel3.title_abbr = "Εὐαγ. Γʹ"
+levaUNC.Gospel3.title = "Εὐαγγέλιον Γʹ"
+levaUNC.Gospel3.title_abbr = "Εὐαγ. Γʹ"
 levaUNC.Gospel3.version = le.go.ge.unmercenary_gr_GR_cog.legeLI.Gospel.version
 levaUNC.Gospel3.book_string = le.go.ge.unmercenary_gr_GR_cog.legeLI.Gospel.book_string
 levaUNC.Gospel3.book_abbr = le.go.ge.unmercenary_gr_GR_cog.legeLI.Gospel.book_abbr
@@ -27,8 +27,8 @@ levaUNC.Gospel3.chapverse = le.go.ge.unmercenary_gr_GR_cog.legeLI.Gospel.chapver
 levaUNC.Gospel3.incipit = le.go.ge.unmercenary_gr_GR_cog.legeLI.Gospel.incipit
 levaUNC.Gospel3.text = le.go.ge.unmercenary_gr_GR_cog.legeLI.Gospel.text
 
-levaUNC.Gospel4.title = "Εὐαγγέλιον Δʹ"
-levaUNC.Gospel4.title_abbr = "Εὐαγ. Δʹ"
+levaUNC.Gospel4.title = "Εὐαγγέλιον Δʹ"
+levaUNC.Gospel4.title_abbr = "Εὐαγ. Δʹ"
 levaUNC.Gospel4.version = le.go.mc.d147_gr_GR_cog.lemcLI.Gospel.version
 levaUNC.Gospel4.book_string = le.go.mc.d147_gr_GR_cog.lemcLI.Gospel.book_string
 levaUNC.Gospel4.book_abbr = le.go.mc.d147_gr_GR_cog.lemcLI.Gospel.book_abbr
@@ -36,8 +36,8 @@ levaUNC.Gospel4.chapverse = le.go.mc.d147_gr_GR_cog.lemcLI.Gospel.chapverse
 levaUNC.Gospel4.incipit = le.go.mc.d147_gr_GR_cog.lemcLI.Gospel.incipit
 levaUNC.Gospel4.text = le.go.mc.d147_gr_GR_cog.lemcLI.Gospel.text
 
-levaUNC.Gospel5.title = "Εὐαγγέλιον Εʹ"
-levaUNC.Gospel5.title_abbr = "Εὐαγ. Εʹ"
+levaUNC.Gospel5.title = "Εὐαγγέλιον Εʹ"
+levaUNC.Gospel5.title_abbr = "Εὐαγ. Εʹ"
 levaUNC.Gospel5.version = le.go.mc.d238_gr_GR_cog.lemcLI.Gospel.version
 levaUNC.Gospel5.book_string = le.go.mc.d238_gr_GR_cog.lemcLI.Gospel.book_string
 levaUNC.Gospel5.book_abbr = le.go.mc.d238_gr_GR_cog.lemcLI.Gospel.book_abbr
@@ -45,8 +45,8 @@ levaUNC.Gospel5.chapverse = le.go.mc.d238_gr_GR_cog.lemcLI.Gospel.chapverse
 levaUNC.Gospel5.incipit = le.go.mc.d238_gr_GR_cog.lemcLI.Gospel.incipit
 levaUNC.Gospel5.text = le.go.mc.d238_gr_GR_cog.lemcLI.Gospel.text
 
-levaUNC.Gospel6.title = "Εὐαγγέλιον Ϛʹ"
-levaUNC.Gospel6.title_abbr = "Εὐαγ. Ϛʹ"
+levaUNC.Gospel6.title = "Εὐαγγέλιον Ϛʹ"
+levaUNC.Gospel6.title_abbr = "Εὐαγ. Ϛʹ"
 levaUNC.Gospel6.version = le.go.mc.d239_gr_GR_cog.lemcLI.Gospel.version
 levaUNC.Gospel6.book_string = le.go.mc.d239_gr_GR_cog.lemcLI.Gospel.book_string
 levaUNC.Gospel6.book_abbr = le.go.mc.d239_gr_GR_cog.lemcLI.Gospel.book_abbr
@@ -54,8 +54,8 @@ levaUNC.Gospel6.chapverse = le.go.mc.d239_gr_GR_cog.lemcLI.Gospel.chapverse
 levaUNC.Gospel6.incipit = le.go.mc.d239_gr_GR_cog.lemcLI.Gospel.incipit
 levaUNC.Gospel6.text = le.go.mc.d239_gr_GR_cog.lemcLI.Gospel.text
 
-levaUNC.Gospel7.title = "Εὐαγγέλιον Ζʹ"
-levaUNC.Gospel7.title_abbr = "Εὐαγ. Ζʹ"
+levaUNC.Gospel7.title = "Εὐαγγέλιον Ζʹ"
+levaUNC.Gospel7.title_abbr = "Εὐαγ. Ζʹ"
 levaUNC.Gospel7.version = le.go.mc.d154_gr_GR_cog.lemcLI.Gospel.version
 levaUNC.Gospel7.book_string = le.go.mc.d154_gr_GR_cog.lemcLI.Gospel.book_string
 levaUNC.Gospel7.book_abbr = le.go.mc.d154_gr_GR_cog.lemcLI.Gospel.book_abbr

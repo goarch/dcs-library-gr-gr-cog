@@ -32,8 +32,8 @@ hoD05.Apolytikion1.poet = ""
 hoD05.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode3
 hoD05.Apolytikion1.greekmelody = he.a.m3_gr_GR_cog.heAU.TheiasPisteos.greekname
 hoD05.Apolytikion1.melody = he.a.m3_gr_GR_cog.heAU.TheiasPisteos.name
-hoD05.Apolytikion1.incipit = "Χαίρει ἔχουσα, Ἐπανομή σε…"
-hoD05.Apolytikion1.text = "Χαίρει ἔχουσα, Ἐπανομή σε, θεῖον βλάστημα, καὶ πολιοῦχον, Νεομάρτυς τοῦ Σωτῆρος Ἀργύριε, καὶ τὴν ἁγίαν σου ἄθλησιν μέλπουσα, τῇ σῇ πρεσβείᾳ προστρέχει κραυγάζουσα· Μάρτυς ἔνδοξε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τό μέγα ἔλεος."
+hoD05.Apolytikion1.incipit = "Χαίρει ἔχουσα, Ἐπανομή σε…"
+hoD05.Apolytikion1.text = "Χαίρει ἔχουσα, Ἐπανομή σε, θεῖον βλάστημα, καὶ πολιοῦχον, Νεομάρτυς τοῦ Σωτῆρος Ἀργύριε, καὶ τὴν ἁγίαν σου ἄθλησιν μέλπουσα, τῇ σῇ πρεσβείᾳ προστρέχει κραυγάζουσα· Μάρτυς ἔνδοξε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τό μέγα ἔλεος."
 
 hoD09.GeneralApolytikion1.name = "Ματρῶνα,"
 
@@ -47,7 +47,7 @@ hoD12.GeneralApolytikion2.title = titles_gr_GR_cog.ti.DevoutSaintM
 hoD12.GeneralApolytikion2.poet = ""
 hoD12.GeneralApolytikion2.mode = he.ga_gr_GR_cog.heGA.TaisTonDakryonSou.mode
 hoD12.GeneralApolytikion2.melody = he.ga_gr_GR_cog.heGA.TaisTonDakryonSou.name
-hoD12.GeneralApolytikion2.name = "Νεῖλε Πατὴρ ἡμῶν ὅσιε·"
+hoD12.GeneralApolytikion2.name = "Νεῖλε Πατὴρ ἡμῶν ὅσιε·"
 
 hoD19.GeneralApolytikion1.name = "Ἀβδιού"
 

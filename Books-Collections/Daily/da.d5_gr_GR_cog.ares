@@ -57,7 +57,7 @@ daMA.ExapTheotokion2.mode = miscellanea_gr_GR_cog.misc.Mode3
 daMA.ExapTheotokion2.greekmelody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.greekname
 daMA.ExapTheotokion2.melody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion2.incipit = "Ἐλπὶς τῶν ἀπηλπισμένων, πανύμνητε Θεοτόκε…"
-daMA.ExapTheotokion2.text = "Ἐλπὶς τῶν ἀπηλπισμένων, πανύμνητε Θεοτόκε, μετὰ δακρύων βοῶ σοι, ἐκ βάθους μου τῆς καρδίας· Ἐξάρπασόν με Παρθένε, ἐκ τῶν τοῦ ᾅδου κευθμώνων."
+daMA.ExapTheotokion2.text = "Ἐλπὶς τῶν ἀπηλπισμένων, πανύμνητε Θεοτόκε, μετὰ δακρύων βοῶ σοι, ἐκ βάθους μου τῆς καρδίας· Ἐξάρπασόν με Παρθένε, ἐκ τῶν τοῦ ᾅδου κευθμώνων."
 
 daLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 

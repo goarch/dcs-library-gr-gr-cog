@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = le.ep.va.unction_gr_GR_cog
 
-levaUNC.Epistle1.title = "Ἀπόστολος Αʹ"
-levaUNC.Epistle1.title_abbr = "Ἀπόσ. Αʹ"
+levaUNC.Epistle1.title = "Ἀπόστολος Αʹ"
+levaUNC.Epistle1.title_abbr = "Ἀπόσ. Αʹ"
 levaUNC.Epistle1.version = properties_gr_GR_cog.version.designation
 levaUNC.Epistle1.book_string = bible_gr_GR_cog.James.text
 levaUNC.Epistle1.book_abbr = bible_gr_GR_cog.James.abbr
 levaUNC.Epistle1.chapverse = "5:10 – 16"
 levaUNC.Epistle1.incipit = "Ὑπόδειγμα λάβετε τῆς κακοπαθείας…"
-levaUNC.Epistle1.text = "Ἀδελφοί, ὑπόδειγμα λάβετε τῆς κακοπαθείας καὶ τῆς μακροθυμίας τοὺς προφήτας, οἳ ἐλάλησαν τῷ ὀνόματι Κυρίου. ἰδοὺ μακαρίζομεν τοὺς ὑπομένοντας· τὴν ὑπομονὴν Ἰὼβ ἠκούσατε, καὶ τὸ τέλος Κυρίου εἴδετε, ὅτι πολύσπλαγχνός ἐστιν ὁ Κύριος καὶ οἰκτίρμων. Πρὸ πάντων δέ, ἀδελφοί μου, μὴ ὀμνύετε μήτε τὸν οὐρανὸν μήτε τὴν γῆν μήτε ἄλλον τινὰ ὅρκον· ἤτω δὲ ὑμῶν τὸ ναὶ ναί, καὶ τὸ οὒ οὔ, ἵνα μὴ εἰς ὑπόκρισιν πέσητε. Κακοπαθεῖ τις ἐν ὑμῖν; προσευχέσθω· εὐθυμεῖ τις; ψαλλέτω. ἀσθενεῖ τις ἐν ὑμῖν; προσκαλεσάσθω τοὺς πρεσβυτέρους τῆς ἐκκλησίας, καὶ προσευξάσθωσαν ἐπ᾽ αὐτὸν ἀλείψαντες αὐτὸν ἐλαίῳ ἐν τῷ ὀνόματι τοῦ Κυρίου· καὶ ἡ εὐχὴ τῆς πίστεως σώσει τὸν κάμνοντα, καὶ ἐγερεῖ αὐτὸν ὁ Κύριος· κἂν ἁμαρτίας ᾖ πεποιηκώς, ἀφεθήσεται αὐτῷ. ἐξομολογεῖσθε ἀλλήλοις τὰ παραπτώματα, καὶ εὔχεσθε ὑπὲρ ἀλλήλων, ὅπως ἰαθῆτε· πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη."
+levaUNC.Epistle1.text = "Ἀδελφοί, ὑπόδειγμα λάβετε τῆς κακοπαθείας καὶ τῆς μακροθυμίας τοὺς προφήτας, οἳ ἐλάλησαν τῷ ὀνόματι Κυρίου. ἰδοὺ μακαρίζομεν τοὺς ὑπομένοντας· τὴν ὑπομονὴν Ἰὼβ ἠκούσατε, καὶ τὸ τέλος Κυρίου εἴδετε, ὅτι πολύσπλαγχνός ἐστιν ὁ Κύριος καὶ οἰκτίρμων. Πρὸ πάντων δέ, ἀδελφοί μου, μὴ ὀμνύετε μήτε τὸν οὐρανὸν μήτε τὴν γῆν μήτε ἄλλον τινὰ ὅρκον· ἤτω δὲ ὑμῶν τὸ ναὶ ναί, καὶ τὸ οὒ οὔ, ἵνα μὴ εἰς ὑπόκρισιν πέσητε. Κακοπαθεῖ τις ἐν ὑμῖν; προσευχέσθω· εὐθυμεῖ τις; ψαλλέτω. ἀσθενεῖ τις ἐν ὑμῖν; προσκαλεσάσθω τοὺς πρεσβυτέρους τῆς ἐκκλησίας, καὶ προσευξάσθωσαν ἐπ᾽ αὐτὸν ἀλείψαντες αὐτὸν ἐλαίῳ ἐν τῷ ὀνόματι τοῦ Κυρίου· καὶ ἡ εὐχὴ τῆς πίστεως σώσει τὸν κάμνοντα, καὶ ἐγερεῖ αὐτὸν ὁ Κύριος· κἂν ἁμαρτίας ᾖ πεποιηκώς, ἀφεθήσεται αὐτῷ. ἐξομολογεῖσθε ἀλλήλοις τὰ παραπτώματα, καὶ εὔχεσθε ὑπὲρ ἀλλήλων, ὅπως ἰαθῆτε· πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη."
 
-levaUNC.Epistle2.title = "Ἀπόστολος Βʹ"
-levaUNC.Epistle2.title_abbr = "Ἀπόσ. Βʹ"
+levaUNC.Epistle2.title = "Ἀπόστολος Βʹ"
+levaUNC.Epistle2.title_abbr = "Ἀπόσ. Βʹ"
 levaUNC.Epistle2.version = properties_gr_GR_cog.version.designation
 levaUNC.Epistle2.book_string = bible_gr_GR_cog.Romans.text
 levaUNC.Epistle2.book_abbr = bible_gr_GR_cog.Romans.abbr
@@ -18,8 +18,8 @@ levaUNC.Epistle2.chapverse = "15:1 – 7"
 levaUNC.Epistle2.incipit = le.ep.mc.d169_gr_GR_cog.lemcLI.Epistle.incipit
 levaUNC.Epistle2.text = le.ep.mc.d169_gr_GR_cog.lemcLI.Epistle.text
 
-levaUNC.Epistle3.title = "Ἀπόστολος Γʹ"
-levaUNC.Epistle3.title_abbr = "Ἀπόσ. Γʹ"
+levaUNC.Epistle3.title = "Ἀπόστολος Γʹ"
+levaUNC.Epistle3.title_abbr = "Ἀπόσ. Γʹ"
 levaUNC.Epistle3.version = properties_gr_GR_cog.version.designation
 levaUNC.Epistle3.book_string = bible_gr_GR_cog.Corinthians1.text
 levaUNC.Epistle3.book_abbr = bible_gr_GR_cog.Corinthians1.abbr
@@ -27,8 +27,8 @@ levaUNC.Epistle3.chapverse = "12:27 – 31; 13:1 – 8"
 levaUNC.Epistle3.incipit = le.ep.me.m11.d01_gr_GR_cog.lemeLI.Epistle.incipit
 levaUNC.Epistle3.text = le.ep.me.m11.d01_gr_GR_cog.lemeLI.Epistle.text
 
-levaUNC.Epistle4.title = "Ἀπόστολος Δʹ"
-levaUNC.Epistle4.title_abbr = "Ἀπόσ. Δʹ"
+levaUNC.Epistle4.title = "Ἀπόστολος Δʹ"
+levaUNC.Epistle4.title_abbr = "Ἀπόσ. Δʹ"
 levaUNC.Epistle4.version = properties_gr_GR_cog.version.designation
 levaUNC.Epistle4.book_string = bible_gr_GR_cog.Corinthians2.text
 levaUNC.Epistle4.book_abbr = bible_gr_GR_cog.Corinthians2.abbr
@@ -36,8 +36,8 @@ levaUNC.Epistle4.chapverse = "6:16 – 7:1"
 levaUNC.Epistle4.incipit = le.ep.mc.d239_gr_GR_cog.lemcLI.Epistle.incipit
 levaUNC.Epistle4.text = le.ep.mc.d239_gr_GR_cog.lemcLI.Epistle.text
 
-levaUNC.Epistle5.title = "Ἀπόστολος Εʹ"
-levaUNC.Epistle5.title_abbr = "Ἀπόσ. Εʹ"
+levaUNC.Epistle5.title = "Ἀπόστολος Εʹ"
+levaUNC.Epistle5.title_abbr = "Ἀπόσ. Εʹ"
 levaUNC.Epistle5.version = properties_gr_GR_cog.version.designation
 levaUNC.Epistle5.book_string = bible_gr_GR_cog.Corinthians2.text
 levaUNC.Epistle5.book_abbr = bible_gr_GR_cog.Corinthians2.abbr
@@ -45,8 +45,8 @@ levaUNC.Epistle5.chapverse = "1:8 – 11"
 levaUNC.Epistle5.incipit = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.incipit
 levaUNC.Epistle5.text = le.ep.mc.d259_gr_GR_cog.lemcLI.Epistle.text
 
-levaUNC.Epistle6.title = "Ἀπόστολος Ϛʹ"
-levaUNC.Epistle6.title_abbr = "Ἀπόσ. Ϛʹ"
+levaUNC.Epistle6.title = "Ἀπόστολος Ϛʹ"
+levaUNC.Epistle6.title_abbr = "Ἀπόσ. Ϛʹ"
 levaUNC.Epistle6.version = properties_gr_GR_cog.version.designation
 levaUNC.Epistle6.book_string = bible_gr_GR_cog.Galatians.text
 levaUNC.Epistle6.book_abbr = bible_gr_GR_cog.Galatians.abbr
@@ -54,8 +54,8 @@ levaUNC.Epistle6.chapverse = "5:22 – 6:2"
 levaUNC.Epistle6.incipit = le.ep.mc.d308_gr_GR_cog.lemcLI.Epistle.incipit
 levaUNC.Epistle6.text = le.ep.mc.d308_gr_GR_cog.lemcLI.Epistle.text
 
-levaUNC.Epistle7.title = "Ἀπόστολος Ζʹ"
-levaUNC.Epistle7.title_abbr = "Ἀπόσ. Ζʹ"
+levaUNC.Epistle7.title = "Ἀπόστολος Ζʹ"
+levaUNC.Epistle7.title_abbr = "Ἀπόσ. Ζʹ"
 levaUNC.Epistle7.version = properties_gr_GR_cog.version.designation
 levaUNC.Epistle7.book_string = bible_gr_GR_cog.Thessalonians1.text
 levaUNC.Epistle7.book_abbr = bible_gr_GR_cog.Thessalonians1.abbr

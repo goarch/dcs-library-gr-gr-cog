@@ -18,7 +18,7 @@ peVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode1
 peVE.Stichera01.greekmelody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.greekname
 peVE.Stichera01.melody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.name
 peVE.Stichera01.incipit = "Νῦν ἐγκαινίζονται γλῶσσαι, τὰ μεγαλεῖα…"
-peVE.Stichera01.text = "Νῦν ἐγκαινίζονται γλῶσσαι, τὰ μεγαλεῖα Θεοῦ, ἑτεροφθόγγοις λόγοις, καὶ πυρὸς ὡς ἐν εἴδει, εἰς πίστωσιν ἁπάντων, τῶν ἐπὶ γῆς, διηγεῖσθαι τρανότατα· νῦν εἰς σημεῖον τοῖς ἔθνεσιν ἀληθῶς, σωτηρία ἐπεδήμησεν."
+peVE.Stichera01.text = "Νῦν ἐγκαινίζονται γλῶσσαι, τὰ μεγαλεῖα Θεοῦ, ἑτεροφθόγγοις λόγοις, καὶ πυρὸς ὡς ἐν εἴδει, εἰς πίστωσιν ἁπάντων, τῶν ἐπὶ γῆς, διηγεῖσθαι τρανότατα· νῦν εἰς σημεῖον τοῖς ἔθνεσιν ἀληθῶς, σωτηρία ἐπεδήμησεν."
 
 peVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode1
 peVE.Stichera02.melody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.name
@@ -60,7 +60,7 @@ peMA.Kathisma11.mode = miscellanea_gr_GR_cog.misc.Mode1
 peMA.Kathisma11.greekmelody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.greekname
 peMA.Kathisma11.melody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.name
 peMA.Kathisma11.incipit = "Συντάττω, συνυμνῶ, συνδοξάζω, συνσέβω, Πατρὶ…"
-peMA.Kathisma11.text = "Συντάττω, συνυμνῶ, συνδοξάζω, συνσέβω, Πατρὶ καὶ τῷ Υἱῷ, τὸ πανάγιον Πνεῦμα, ἑνῶν τῇ Θεότητι, διαιρῶν ἰδιότησιν· οὕτω τοῦτο γάρ, τοὺς τοῦ Χριστοῦ Ἀποστόλους, ἐμφορῆσαν νῦν, ἀνὰ τὸν σύμπαντα κόσμον, κηρύττειν ἐσόφισε."
+peMA.Kathisma11.text = "Συντάττω, συνυμνῶ, συνδοξάζω, συνσέβω, Πατρὶ καὶ τῷ Υἱῷ, τὸ πανάγιον Πνεῦμα, ἑνῶν τῇ Θεότητι, διαιρῶν ἰδιότησιν· οὕτω τοῦτο γάρ, τοὺς τοῦ Χριστοῦ Ἀποστόλους, ἐμφορῆσαν νῦν, ἀνὰ τὸν σύμπαντα κόσμον, κηρύττειν ἐσόφισε."
 
 peMA.Kathisma21.mode = miscellanea_gr_GR_cog.misc.Mode1
 peMA.Kathisma21.greekmelody = he.a.m1_gr_GR_cog.heAU.TonTafonSouSotir.greekname

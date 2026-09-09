@@ -88,13 +88,13 @@ hoCA.Ode41.ode = miscellanea_gr_GR_cog.misc.Ode4
 hoCA.Ode41.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode41.melody = he.h.m8_gr_GR_cog.heHE.EisakikoaKyrie.name
 hoCA.Ode41.incipit = "Τὰς ἐνέδρας τοῦ δράκοντος, ἃς…"
-hoCA.Ode41.text = "Τὰς ἐνέδρας τοῦ δράκοντος, ἃς τεκταίνει μάρτυς καθʼ ἡμῶν σύντριψον, τῇ ταχείᾳ ἀντιλήψει σου, καὶ τῆς τούτου βλάβης ἡμᾶς ἀπάλλαξον."
+hoCA.Ode41.text = "Τὰς ἐνέδρας τοῦ δράκοντος, ἃς τεκταίνει μάρτυς καθ’ ἡμῶν σύντριψον, τῇ ταχείᾳ ἀντιλήψει σου, καὶ τῆς τούτου βλάβης ἡμᾶς ἀπάλλαξον."
 
 hoCA.Ode42.ode = miscellanea_gr_GR_cog.misc.Ode4
 hoCA.Ode42.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode42.melody = he.h.m8_gr_GR_cog.heHE.EisakikoaKyrie.name
 hoCA.Ode42.incipit = "Ὑποπέσας ταῖς θλίψεσιν, ὡς παραπικράνας…"
-hoCA.Ode42.text = "Ὑποπέσας ταῖς θλίψεσιν, ὡς παραπικράνας Χριστὸν τὸν εὔσπλαχνον, ἐκ καρδίας ἀνακράζω σοι· Λῦσον ὢ Βαρβάρα, τὴν ἀθυμίαν μου."
+hoCA.Ode42.text = "Ὑποπέσας ταῖς θλίψεσιν, ὡς παραπικράνας Χριστὸν τὸν εὔσπλαχνον, ἐκ καρδίας ἀνακράζω σοι· Λῦσον ὢ Βαρβάρα, τὴν ἀθυμίαν μου."
 
 hoCA.Ode43.ode = miscellanea_gr_GR_cog.misc.Ode4
 hoCA.Ode43.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -202,7 +202,7 @@ hoCA.Ode73.ode = miscellanea_gr_GR_cog.misc.Ode7
 hoCA.Ode73.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode73.melody = he.h.m8_gr_GR_cog.heHE.OiEkTisIoudaias.name
 hoCA.Ode73.incipit = "Νεκρωθεῖς τῇ κακίᾳ, ἀῤῥωστήμασι πλείστοις…"
-hoCA.Ode73.text = "Νεκρωθεῖς τῇ κακίᾳ, ἀῤῥωστήμασι πλείστοις νῦν κατατρύχομαι, ἀλλʼ ὢ Μεγαλομάρτυς, ἐπίφανον ὑψόθεν, τὴν θερμήν σου ἀντίληψιν, καὶ τῶν πολλῶν μου κακῶν, ρυσθήσομαι ἐν τάχει."
+hoCA.Ode73.text = "Νεκρωθεῖς τῇ κακίᾳ, ἀῤῥωστήμασι πλείστοις νῦν κατατρύχομαι, ἀλλ’ ὢ Μεγαλομάρτυς, ἐπίφανον ὑψόθεν, τὴν θερμήν σου ἀντίληψιν, καὶ τῶν πολλῶν μου κακῶν, ρυσθήσομαι ἐν τάχει."
 
 hoCA.Ode74.ode = miscellanea_gr_GR_cog.misc.Ode7
 hoCA.Ode74.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -237,8 +237,8 @@ hoCA.Ode83.text = "Ἔχουσα Μάρτυς, πλουσίαν χάριν θ
 hoCA.Ode84.ode = miscellanea_gr_GR_cog.misc.Ode8
 hoCA.Ode84.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode84.melody = he.h.m8_gr_GR_cog.heHE.TonVasileaTonOuranon.name
-hoCA.Ode84.incipit = "Ρείθροις ἀΰλοις, τῶν δωρημάτων σου…"
-hoCA.Ode84.text = "Ρείθροις ἀΰλοις, τῶν δωρημάτων σου Μάρτυς, ἐναπόπλυνον τὰ ἕλκη τῆς ψυχῆς μου, καὶ ὑγείαν δός μοι τῷ πάσχοντι ἀθλίως."
+hoCA.Ode84.incipit = "Ρείθροις ἀΰλοις, τῶν δωρημάτων σου…"
+hoCA.Ode84.text = "Ρείθροις ἀΰλοις, τῶν δωρημάτων σου Μάρτυς, ἐναπόπλυνον τὰ ἕλκη τῆς ψυχῆς μου, καὶ ὑγείαν δός μοι τῷ πάσχοντι ἀθλίως."
 
 hoCA.Ode8T.ode = miscellanea_gr_GR_cog.misc.Ode8
 hoCA.Ode8T.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -256,7 +256,7 @@ hoCA.Ode92.ode = miscellanea_gr_GR_cog.misc.Ode9
 hoCA.Ode92.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode92.melody = he.h.m8_gr_GR_cog.heHE.KyriosTheotokon.name
 hoCA.Ode92.incipit = "Ἰσχύν τὴν τοῦ Βελίαρ, θραῦσον…"
-hoCA.Ode92.text = "Ἰσχύν τὴν τοῦ Βελίαρ, θραῦσον Ἀθληφόρε, τὴν καθʼ ἡμῶν κινουμένην καὶ αἴτησαι, τὴν τῶν πταισμάτων Βαρβάρα ἡμῖν συγχώρησιν."
+hoCA.Ode92.text = "Ἰσχύν τὴν τοῦ Βελίαρ, θραῦσον Ἀθληφόρε, τὴν καθ’ ἡμῶν κινουμένην καὶ αἴτησαι, τὴν τῶν πταισμάτων Βαρβάρα ἡμῖν συγχώρησιν."
 
 hoCA.Ode93.ode = miscellanea_gr_GR_cog.misc.Ode9
 hoCA.Ode93.mode = miscellanea_gr_GR_cog.misc.Mode8
@@ -268,7 +268,7 @@ hoCA.Ode94.ode = miscellanea_gr_GR_cog.misc.Ode9
 hoCA.Ode94.mode = miscellanea_gr_GR_cog.misc.Mode8
 hoCA.Ode94.melody = he.h.m8_gr_GR_cog.heHE.KyriosTheotokon.name
 hoCA.Ode94.incipit = "Ὁδόν με πρὸς εὐθείαν, ἔλκυσον…"
-hoCA.Ode94.text = "Ὁδόν με πρὸς εὐθείαν, ἔλκυσον Βαρβάρα, ἐκ τῶν βαράθρων τῆς πλάνης καὶ σύντριψον, τὴν κατʼ ἐμοῦ τοῦ δολίου μανίαν δέομαι."
+hoCA.Ode94.text = "Ὁδόν με πρὸς εὐθείαν, ἔλκυσον Βαρβάρα, ἐκ τῶν βαράθρων τῆς πλάνης καὶ σύντριψον, τὴν κατ’ ἐμοῦ τοῦ δολίου μανίαν δέομαι."
 
 hoCA.Ode9T.ode = miscellanea_gr_GR_cog.misc.Ode9
 hoCA.Ode9T.mode = miscellanea_gr_GR_cog.misc.Mode8

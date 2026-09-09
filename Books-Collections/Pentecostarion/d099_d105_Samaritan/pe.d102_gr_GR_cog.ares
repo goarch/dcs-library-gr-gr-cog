@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = pe.d102_gr_GR_cog
 
-peDA.commemoration.full = "Τῌ ΤΕΤΑΡΤῌ ΤΗΣ Εʹ ΕΒΔΟΜΑΔΟΣ" //full title of day
+peDA.commemoration.full = "Τῌ ΤΕΤΑΡΤῌ ΤΗΣ Εʹ ΕΒΔΟΜΑΔΟΣ" //full title of day
 peDA.commemoration.short = "Ἀπόδοσις τῆς Μεσοπεντηκοστῆς"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal

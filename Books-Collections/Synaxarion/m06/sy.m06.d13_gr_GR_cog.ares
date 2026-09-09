@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = sy.m06.d13_gr_GR_cog
 
-syMA.commemoration01.text = "Τῇ ΙΓʹ τοῦ αὐτοῦ μηνός, μνήμη τῆς Ἁγίας Μάρτυρος Ἀκυλίνης."
+syMA.commemoration01.text = "Τῇ ΙΓʹ τοῦ αὐτοῦ μηνός, μνήμη τῆς Ἁγίας Μάρτυρος Ἀκυλίνης."
 syMA.commemoration01.couplet1.title = titles_gr_GR_cog.ti.Verses
 syMA.commemoration01.couplet1.verse1 = "Τὸν παστὸν εὐτρέπιζε λαμπρόν, Νυμφίε."
 syMA.commemoration01.couplet1.verse2 = "Ἀκυλίνα σοι τέμνεται Νύμφη νέα."

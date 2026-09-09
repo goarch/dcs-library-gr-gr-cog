@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = pe.d114_gr_GR_cog
 
 peDA.commemoration.full = "" //full title of day
-peDA.commemoration.short = "Δευτέρα τῆς Ζʹ Ἑβδομάδος"
+peDA.commemoration.short = "Δευτέρα τῆς Ζʹ Ἑβδομάδος"
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = "ascension"
@@ -91,8 +91,8 @@ peMA.Aposticha2.text = "ᾜσχυναν ἐμφανῶς, τὴν Μανιχα�
 
 peMA.Aposticha3.mode = miscellanea_gr_GR_cog.misc.Mode2
 peMA.Aposticha3.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
-peMA.Aposticha3.incipit = "Ἀνάκρουσον Δαυΐδ, γηθόμενος τὴν λύραν…"
-peMA.Aposticha3.text = "Ἀνάκρουσον Δαυΐδ, γηθόμενος τὴν λύραν· ἀναληφθεὶς Χριστὸς γάρ, τοῖς πράγμασι τοὺς λόγους, κυροῖ τῆς Προφητείας σου."
+peMA.Aposticha3.incipit = "Ἀνάκρουσον Δαυΐδ, γηθόμενος τὴν λύραν…"
+peMA.Aposticha3.text = "Ἀνάκρουσον Δαυΐδ, γηθόμενος τὴν λύραν· ἀναληφθεὶς Χριστὸς γάρ, τοῖς πράγμασι τοὺς λόγους, κυροῖ τῆς Προφητείας σου."
 
 peMA.AposGlory.mode = pe.d110_gr_GR_cog.peVE.Aposticha3.mode
 peMA.AposGlory.melody = pe.d110_gr_GR_cog.peVE.Aposticha3.melody
