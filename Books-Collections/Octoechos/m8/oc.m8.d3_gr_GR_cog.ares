@@ -57,7 +57,7 @@ ocVE.Aposticha3.text = "Μάρτυρες Κυρίου, ἱκετεύσατε 
 
 ocVE.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode8
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.incipit = "Ἡ σκέπη σου Θεοτόκε Παρθένε…"
+ocVE.AposTheotokion.incipit = "Ἡ σκέπη σου Θεοτόκε…"
 ocVE.AposTheotokion.text = "Ἡ σκέπη σου Θεοτόκε Παρθένε, ἰατρεῖον ὑπάρχει πνευματικόν· ἐν αὐτῇ γὰρ καταφεύγοντες, ψυχικῶν νοσημάτων λυτρούμεθα."
 
 ocVE.ApolTheotokionVM.mode = miscellanea_gr_GR_cog.misc.Mode8
