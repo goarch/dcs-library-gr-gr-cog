@@ -643,18 +643,18 @@ meMA.LaudsGlory.text = me.m11.d08_gr_GR_cog.meVE.LityBoth.text
 meMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.Aposticha1.greekmelody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
-meMA.Aposticha1.incipit = "Ἔνδον τοῦ ἱεροῦ, Ἁγίαν τῶν…"
+meMA.Aposticha1.incipit = "Ἔνδον τοῦ ἱεροῦ…"
 meMA.Aposticha1.text = "Ἔνδον τοῦ ἱεροῦ, Ἁγίαν τῶν Ἁγίων, τὴν Θεοτόκον οὖσαν, ὦ Ζαχαρία δέχου, Ἁγίων εἰς τὰ Ἅγια."
 
 meMA.Aposticha2.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
-meMA.Aposticha2.incipit = "Ῥίζης μὲν ἐκ Δαυΐδ, ἐβλάστησας…"
-meMA.Aposticha2.text = "Ῥίζης μὲν ἐκ Δαυΐδ, ἐβλάστησας Παρθένε, Γαβριὴλ δὲ τὸ Χαῖρε, κομίζων σοι ἐβόα, Θεὸν δὴ τέξῃ Πάναγνε."
+meMA.Aposticha2.incipit = "Ῥίζης μὲν ἐκ Δαυΐδ…"
+meMA.Aposticha2.text = "Ῥίζης μὲν ἐκ Δαυΐδ, ἐβλάστησας Παρθένε· Γαβριὴλ δὲ τὸ Χαῖρε, κομίζων σοι ἐβόα· Θεὸν δὴ τέξῃ Πάναγνε."
 
 meMA.Aposticha3.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.Aposticha3.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
-meMA.Aposticha3.incipit = "Εὖγε τῆς ἱερᾶς, καὶ θείας…"
-meMA.Aposticha3.text = "Εὖγε τῆς ἱερᾶς, καὶ θείας ξυνωρίδος, Ἰωακεὶμ καὶ Ἄννης, ὑφ’ ὧν Ἁγνὴ τεχθεῖσα, προσήχθης νῦν τῷ Κτίστῃ σου."
+meMA.Aposticha3.incipit = "Εὖγε τῆς ἱερᾶς…"
+meMA.Aposticha3.text = "Εὖγε τῆς ἱερᾶς, καὶ θείας ξυνωρίδος, Ἰωακεὶμ καὶ Ἄννης· ὑφ’ ὧν Ἁγνὴ τεχθεῖσα, προσήχθης νῦν τῷ Κτίστῃ σου."
 
 meMA.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode2
 meMA.AposGlory.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
