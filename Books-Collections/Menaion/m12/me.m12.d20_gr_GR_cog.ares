@@ -80,8 +80,8 @@ meVE.Aposticha1.text = "Βηθλεὲμ γῆ Ἰούδα, τὸ κατὰ σ�
 meVE.Aposticha2.poet = poets_gr_GR_cog.po.AndreouPyrou
 meVE.Aposticha2.mode = miscellanea_gr_GR_cog.misc.Mode2
 meVE.Aposticha2.melody = ""
-meVE.Aposticha2.incipit = "Δεῦτε ἅπαντες…"
-meVE.Aposticha2.text = "Δεῦτε ἅπαντες, Χριστοῦ τὰ Γενέθλια, πιστῶς προεορτάσωμεν· καὶ νοητῶς τὸν ὕμνον, ὡς ἀστέρα προβαλλόμενοι, Μαγικὰς δοξολογίας, μετὰ Ποιμένων βοήσωμεν· Ἦλθεν ἡ σωτηρία τῶν βροτῶν, ἐκ παρθενικῆς νηδύος, πιστοὺς ἀνακαλέσασθαι."
+meVE.Aposticha2.incipit = me.m12.d17_gr_GR_cog.meVE.SticBoth.incipit
+meVE.Aposticha2.text = me.m12.d17_gr_GR_cog.meVE.SticBoth.text
 
 meVE.Aposticha3.poet = poets_gr_GR_cog.po.Kyprianou
 meVE.Aposticha3.mode = miscellanea_gr_GR_cog.misc.Mode2
