@@ -505,11 +505,6 @@ meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = me.m01.d15_gr_GR_cog.meVE.AposGlory.incipit
 meMA.LaudsGlory.text = me.m01.d15_gr_GR_cog.meVE.AposGlory.text
 
-meMA.LaudsTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meMA.LaudsTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meMA.LaudsTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meMA.LaudsTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiOsiou.text
-
 meMA.MM.Lauds1123as5678.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = me.m12.d05_gr_GR_cog.meMA.Kontakion1.mode

@@ -45,11 +45,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Σήμερον ἡμῖν ἡ κρηπὶς τῆς…"
 meVE.SticGlory.text = "Σήμερον ἡμῖν ἡ κρηπὶς τῆς Ἐκκλησίας, Πέτρος, ἡ πέτρα τῆς πίστεως, προτίθεται τὴν τιμίαν αὐτοῦ Ἅλυσιν, εἰς ψυχικὴν εὐεξίαν. Δεῦτε πάντες ταύτην προσπτυσσόμενοι, ἐν εὐφήμοις ᾠδαῖς, αὐτὸν καταστέψωμεν· Χαίροις ὁ θερμὸς τῆς πίστεως πρόμαχος, ὁ θερμῇ τῇ διανοίᾳ τὸν Χριστὸν ὁμολογήσας, Υἱὸν Θεοῦ ἐν παῤῥησίᾳ πολλῇ. Χαίροις τῆς οἰκουμένης τὸ ἀγαλλίαμα, καὶ τῆς οὐρανῶν Βασιλείας κλειδοῦχε. Χάριν πορίζου τοῖς πόθῳ σε τιμῶσι, καὶ τὴν σὴν σεβάσμιον Ἅλυσιν, προσπτυσσομένοις ἐκ πόθου, ὡς παριστάμενος τῷ θρόνῳ τοῦ Παντάνακτος Θεοῦ, πρεσβείαν ποιούμενος, ὑπὲρ ἡμῶν τῶν ἑπταικότων."
 
-meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiApostolou.text
-
 meVE.SticStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
 meVE.SticStavrotheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name

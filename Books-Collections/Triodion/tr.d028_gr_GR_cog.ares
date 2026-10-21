@@ -920,11 +920,6 @@ trMA.LaudsGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
 trMA.LaudsGlory.incipit = me.m02.d17_gr_GR_cog.meMA.LaudsGlory.incipit
 trMA.LaudsGlory.text = me.m02.d17_gr_GR_cog.meMA.LaudsGlory.text
 
-trMA.LaudsTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-trMA.LaudsTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-trMA.LaudsTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-trMA.LaudsTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiAthloforou.text
-
 trMA.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode3
 trMA.Aposticha1.melody = miscellanea_gr_GR_cog.misc.Idiomelon
 trMA.Aposticha1.incipit = "Χορεύουσι στίφη Μαρτύρων χαρμονικῶς, νῦν…"

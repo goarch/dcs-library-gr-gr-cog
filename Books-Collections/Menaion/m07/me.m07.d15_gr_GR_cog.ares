@@ -44,11 +44,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Δεῦτε καὶ θεάσασθε ἅπαντες ξένον…"
 meVE.SticGlory.text = "Δεῦτε καὶ θεάσασθε ἅπαντες ξένον θέαμα καὶ παράδοξον· Τίς ἑώρακε νήπιον, τριετῆ ὄντα, τύραννον αἰσχύναντα; ὢ τοῦ θαύματος! Μητέρα ἐθήλαζε, καὶ τιθηνούμενος τῇ γαλουχῷ ἐβόα· Μὴ πτοοῦ μῆτέρ μου, τὰς ἀπειλὰς τοῦ δεινοῦ κοσμοκράτορος· Χριστὸς γὰρ ἐστιν ἡ ἐλπὶς τῶν πιστευόντων εἰς αὐτόν."
 
-meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiAthloforon.text
-
 meVE.SticStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
 meVE.SticStavrotheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name

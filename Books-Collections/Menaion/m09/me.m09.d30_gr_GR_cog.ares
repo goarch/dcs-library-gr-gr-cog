@@ -62,11 +62,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Εἰς τὸν ἄδυτον γνόφον…"
 meVE.AposGlory.text = "Εἰς τὸν ἄδυτον γνόφον τοῦ ἀφράστου φωτός, εἰσδύσας νοητῶς ὁ Μάρτυς καὶ Ποιμήν, ἐμυήθη τὰ ἀπόῤῥητα τῶν μυστηρίων Θεοῦ, ὡς Μάρτυς μὲν φωτιζόμενος, ὡς ποιμὴν δὲ μυσταγωγούμενος· διὸ διπλοῦς καὶ τοὺς στεφάνους, ἐκ τῆς ἄνω δόξης ἀνεδήσατο, πρεσβεύων πάντοτε Χριστῷ ὑπὲρ τῶν ψυχῶν ἡμῶν."
 
-meVE.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.AposTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiAthloforou.text
-
 meVE.AposStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
 meVE.AposStavrotheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
 meVE.AposStavrotheotokion.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name

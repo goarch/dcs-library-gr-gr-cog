@@ -813,11 +813,6 @@ trMA.LaudsGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
 trMA.LaudsGlory.incipit = "Ὅσιοι Πατέρες, εἰς πᾶσαν τὴν…"
 trMA.LaudsGlory.text = "Ὅσιοι Πατέρες, εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος, τῶν κατορθωμάτων ὑμῶν, δι’ ὧν ἐν τοῖς οὐρανοῖς, εὕρετε μισθὸν τῶν καμάτων ὑμῶν, τῶν δαιμόνων ὠλέσατε τὰς φάλαγγας, τῶν Ἀγγέλων ἐφθάσατε τὰ τάγματα, ὧν τὸν βίον ἀμέμπτως ἐζηλώσατε, παῤῥησίαν ἔχοντες πρὸς Κύριον, εἰρήνην αἰτήσασθε ταῖς ψυχαῖς ἡμῶν."
 
-trMA.LaudsTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-trMA.LaudsTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-trMA.LaudsTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-trMA.LaudsTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiOsion.text
-
 trLI.MM.CommunionHymn.text = properties_gr_GR_cog.media.key
 
 trLI.Megalynarion.text = ""

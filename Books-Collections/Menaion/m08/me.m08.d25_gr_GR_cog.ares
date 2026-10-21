@@ -60,11 +60,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Ἔστησας ἐν θαλάσσῃ τὸ ὅρμημα…"
 meVE.SticGlory.text = "Ἔστησας ἐν θαλάσσῃ τὸ ὅρμημα, πολυχρόνιος νεκρός, καὶ τὴν τρίβον σου ἐν ὕδασι πολλοῖς, Βαρθολομαῖε πανεύφημε, Ἀνατολῆς ἐξορμώμενος· Δίκαιοι γὰρ εἰς αἰῶνα ζῶσι, προνοίᾳ τοῦ σοῦ Διδασκάλου, Χριστοῦ τοῦ Θεοῦ ἡμῶν, ὃν ἱκέτευε Ἀπόστολε, δωρηθῆναι ἡμῖν τὸ μέγα ἔλεος."
 
-meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiApostolon.text
-
 meVE.AposGlory.mode = miscellanea_gr_GR_cog.misc.Mode6
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Τῆς ἐκλογῆς τοῦ σκεύους, Παύλου…"

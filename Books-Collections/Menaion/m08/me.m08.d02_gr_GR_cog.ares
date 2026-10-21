@@ -69,11 +69,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Χαίροις ἐν Κυρίῳ, στεφανηφόρε Στέφανε…"
 meVE.AposGlory.text = "Χαίροις ἐν Κυρίῳ, στεφανηφόρε Στέφανε, ὁ μιμητὴς τοῦ Δεσπότου, διότι καὶ Πρωτομάρτυς γέγονας Χριστοῦ τοῦ Βασιλέως ἡμῶν, καὶ τὴν πλάνην τῶν ἀνόμων Ἰουδαίων κατήργησας. Πρέσβευε ὑπὲρ ἡμῶν πρὸς Κύριον."
 
-meVE.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.AposTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiApostolou.text
-
 meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Apolytikion1.greekmelody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name

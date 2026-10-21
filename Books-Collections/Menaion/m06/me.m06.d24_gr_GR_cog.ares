@@ -740,11 +740,6 @@ meMA.LaudsGlory.melody = miscellanea_gr_GR_cog.misc.Idiomelon
 meMA.LaudsGlory.incipit = "Ἀστὴρ ἀστέρων Πρόδρομος, στειρωτικῆς ἐκ…"
 meMA.LaudsGlory.text = "Ἀστὴρ ἀστέρων Πρόδρομος, στειρωτικῆς ἐκ νηδύος, ἐπὶ γῆς τίκτεται σήμερον, Ἰωάννης ὁ θεοπόθητος, καὶ Χριστοῦ ἐπιφαίνει τὴν αὐγὴν ἀνατολὴν τὴν ἐξ ὕψους, εἰς εὐθεῖαν πιστοῖς διάβασιν."
 
-meMA.LaudsTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meMA.LaudsTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meMA.LaudsTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meMA.LaudsTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiProdromou.text
-
 meMA.MM.Lauds1234as5678.text = properties_gr_GR_cog.media.key
 
 meLI.Kontakion1.mode = me.m06.d24_gr_GR_cog.meMA.Kontakion1.mode

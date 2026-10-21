@@ -46,11 +46,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Ἱερεὺς ἐννομώτατος, μέχρι τέλους ἐχρημάτισας…"
 meVE.SticGlory.text = "Ἱερεὺς ἐννομώτατος, μέχρι τέλους ἐχρημάτισας, μάκαρ Ἐλευθέριε· ἱερουργῶν γὰρ τὰ θεῖα καὶ ἄῤῥητα μυστήρια, τὸ αἷμά σου ἐξέχεας ὑπὲρ Χριστοῦ τοῦ Θεοῦ, καὶ θῦμα εὐπρόσδεκτον σεαυτὸν προσήγαγες· διὸ παῤῥησίαν ἔχων πρὸς αὐτόν, ἐκτενῶς ἱκέτευε, ὑπὲρ τῶν πίστει τελούντων σὴν ἀεισέβαστον μνήμην, καὶ τοὺς αὐτὴν γεραίροντας ῥυσθῆναι πειρασμῶν, καὶ παντοίων κινδύνων καὶ περιστάσεων."
 
-meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.SticTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiAthloforou.text
-
 meVE.SticBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
 meVE.SticBoth.melody = ""
 meVE.SticBoth.incipit = me.m12.d06_gr_GR_cog.meVE.SticBoth.incipit

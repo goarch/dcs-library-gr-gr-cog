@@ -62,11 +62,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Σήμερον ἡ οἰκουμένη πᾶσα, ταῖς…"
 meVE.AposGlory.text = "Σήμερον ἡ οἰκουμένη πᾶσα, ταῖς τοῦ Ἀθλοφόρου αὐγάζεται ἀκτῖσι καί ἡ τοῦ Θεοῦ Ἐκκλησία, τοῖς ἄνθεσιν ὡραϊζομένη, Ἀρτέμιε βοᾷ σοι, θεράπον Χριστοῦ, καὶ προστάτα θερμότατε· μὴ ἐλλίπῃς πρεσβεύων, ὑπὲρ τῶν δούλων σου."
 
-meVE.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.AposTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiAthloforou.text
-
 meVE.AposStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
 meVE.AposStavrotheotokion.greekmelody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.greekname
 meVE.AposStavrotheotokion.melody = he.a.m6_gr_GR_cog.heAU.TriimerosAnestis.name

@@ -111,11 +111,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Προφῆτα κήρυξ Χριστοῦ, τοῦ θρόνου…"
 meVE.AposGlory.text = "Προφῆτα κήρυξ Χριστοῦ, τοῦ θρόνου τῆς μεγαλωσύνης οὐδέποτε χωρίζῃ, καὶ ἑκάστῳ ἀσθενοῦντι ἀεὶ παρίστασαι, ἐν τοῖς ὑψίστοις λειτουργῶν, τὴν οἰκουμένην εὐλογεῖς, πανταχοῦ δοξαζόμενος. Αἴτησαι ἱλασμὸν ταῖς ψυχαῖς ἡμῶν."
 
-meVE.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.AposTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiProfitou.text
-
 meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode4
 meVE.Apolytikion1.greekmelody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_gr_GR_cog.heAU.TachyProkatalave.name

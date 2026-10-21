@@ -73,11 +73,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Ἐκ πυθμένος κακίας…"
 meVE.AposGlory.text = "Ἐκ πυθμένος κακίας ἐσχάτης, πρὸς ἀκρότατον ὕψος ἀρετῆς, ὡς ἀετὸς ὑψιπέτης, παραδόξως ἀνέδραμες, Ματθαῖε πανεύφημε· τοῦ γὰρ καλύψαντος οὐρανοὺς ἀρετῇ, καὶ τῆς συνέσεως αὐτοῦ πᾶσαν τὴν γῆν πληρώσαντος, Χριστοῦ ἀκολουθήσας τοῖς ἴχνεσι, μιμητὴς διάπυρος ἐν πᾶσιν αὐτοῦ πεφανέρωσαι, εὐαγγελιζόμενος εἰρήνην, ζωήν καὶ σωτηρίαν, τοῖς πειθαρχοῦσιν εὐσεβῶς, τοῖς θείοις προστάγμασιν· ἐν οἷς ἡμᾶς καθοδήγησον, εὐαρεστοῦντας τῷ Κτίστῃ, καὶ σὲ μακαρίζοντας."
 
-meVE.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.AposTheotokion.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_gr_GR_cog.heOT.TheotokeSyEiApostolou.text
-
 meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode3
 meVE.Apolytikion1.common = he.ga_gr_GR_cog.heGA.ApostoleAgie.name
 meVE.Apolytikion1.incipit = "Ἀπόστολε Ἅγιε…"
