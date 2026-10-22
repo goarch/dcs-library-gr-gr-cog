@@ -99,11 +99,6 @@ meVE.LityGlory.melody = ""
 meVE.LityGlory.incipit = "Δεῦτε συνευφρανθῶμεν…"
 meVE.LityGlory.text = "Δεῦτε συνευφρανθῶμεν, πάντες οἱ γηγενεῖς, ἐπὶ τῇ μνήμῃ τῶν σοφωτάτων Διδασκάλων ἡμῶν, Ἀθανασίου τε καὶ Κυρίλλου· οὗτοι γάρ, ὡς ἀξιόθεοι παλαισταί, καὶ πρόμαχοι τῆς ἀληθείας πιστότατοι, ἐχθροῖς τοῖς ἀοράτοις καὶ ὁρατοῖς, εὐσεβοφρόνως ἀντέστησαν· διὸ ἐν οὐρανοῖς, στεφάνοις τῆς ἀθανασίας αὐτοὺς κατέστεψεν, ὁ τῶν ἁπάντων Βασιλεύς. Καὶ νῦν μετ’ Ἀγγέλων χορεύοντες, ὑμνοῦσιν ἀκαταπαύστως αὐτόν, τρισαγίοις ᾄσμασι, τὸν ἐν Τριάδι ὁμοούσιον."
 
-meVE.LityBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.LityBoth.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.LityBoth.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.LityBoth.text = he.o_gr_GR_cog.heOT.TheotokeSyEiDidaskalon.text
-
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode5
 meVE.Aposticha1.greekmelody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.name

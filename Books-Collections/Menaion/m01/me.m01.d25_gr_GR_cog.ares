@@ -58,11 +58,6 @@ meSV.SticGlory.melody = ""
 meSV.SticGlory.incipit = "Ἱεραρχῶν τὸν ἀρχηγόν, Πατριαρχῶν τὸ…"
 meSV.SticGlory.text = "Ἱεραρχῶν τὸν ἀρχηγόν, Πατριαρχῶν τὸ γέρας, τὸν μύστην τῶν δογμάτων, καὶ ἐννοιῶν Χριστοῦ, νοῦν τὸν ἀκρότατον, συνελθόντες ὦ θεόφρονες, πνευματικοῖς ἐγκωμίοις, αἰνέσωμεν λέγοντες· Χαίροις θεολογίας πηγή, σοφίας ποταμέ, καὶ βρύσις θείας γνώσεως· Χαίροις ἀστὴρ φαεινότατε, ὅτι τὸν κόσμον ἅπαντα, καταυγάζεις σοῖς δόγμασι· Χαίροις τῆς εὐσεβείας, ὑπέρμαχος ὁ μέγας, καὶ τῆς ἀσεβείας, διώκτης ὁ γενναῖος. Ἀλλ’ ὦ πάνσοφε Θεολόγε Γρηγόριε, μὴ παύσῃ πρεσβεύων Χριστῷ τῷ Θεῷ, ὑπὲρ τῶν πίστει καὶ πόθῳ τελούντων ἀεί, τὴν θεάρεστον καὶ σεβάσμιον μνήμην σου."
 
-meSV.SticBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
-meSV.SticBoth.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meSV.SticBoth.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meSV.SticBoth.text = he.o_gr_GR_cog.heOT.TheotokeSyEiIerarchou.text
-
 meSV.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_gr_GR_cog.heAU.OikosTouEfratha.name
 meSV.Aposticha1.incipit = "Δεῦτε οἱ ἐρασταί, σοφίας τῆς…"

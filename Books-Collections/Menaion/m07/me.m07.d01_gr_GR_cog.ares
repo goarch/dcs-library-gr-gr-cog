@@ -80,11 +80,6 @@ meVE.LityGlory.melody = ""
 meVE.LityGlory.incipit = "Φαιδρὰ καὶ ἐπίφωτος…"
 meVE.LityGlory.text = "Φαιδρὰ καὶ ἐπίφωτος, ἀνέτειλε σήμερον, ἡ μνήμη τῶν Ἀναργύρων Χριστοῦ, λαμπρῶς καταλάμπουσα, ταῖς ἀκτῖσι τῶν θαυμάτων. Δεῦτε οὖν φιλέορτοι, πιστῶς πανηγυρίσωμεν· δεῦτε τῇ σορῷ τῶν Ἁγίων, προθύμως πάντες προσδράμωμεν, ὅπως τὴν ταχίστην ἴασιν, ἀφθόνως παρ’ αὐτῶν κομισώμεθα· ἀναργύρως γὰρ παρέχουσι πᾶσι, τῇ ἐνεργείᾳ τοῦ Ἁγίου Πνεύματος, τῶν ἰαμάτων τὰ χαρίσματα."
 
-meVE.LityBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
-meVE.LityBoth.melody = he.o_gr_GR_cog.heOT.TheotokeSyEi.name
-meVE.LityBoth.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-meVE.LityBoth.text = he.o_gr_GR_cog.heOT.TheotokeSyEiAnargyron.text
-
 meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode1
 meVE.Aposticha1.greekmelody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_gr_GR_cog.heAU.TonOuranionTagmaton.name

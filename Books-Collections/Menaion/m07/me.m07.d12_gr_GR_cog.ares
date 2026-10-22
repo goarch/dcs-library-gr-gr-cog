@@ -502,11 +502,6 @@ alt1.meVE.LityGlory.melody = ""
 alt1.meVE.LityGlory.incipit = "Δεῦτε, ἅπαντες πιστοί, εὐφρανθῶμεν ἐνθέως…"
 alt1.meVE.LityGlory.text = "Δεῦτε, ἅπαντες πιστοί, εὐφρανθῶμεν ἐνθέως ἐν τῇ πανσέπτῳ μνήμῃ τοῦ θεοφόρου Παϊσίου, καὶ πνευματικῶς ἑορτάζοντες αὐτῷ βοήσωμεν· Χαίροις, ὁ ἀσιγήτως τὸν Θεὸν δοξολογήσας, θείῳ ἔρωτι τρωθείς· Χαίροις, ὁ δαπανήσας σεαυτὸν ὑπὲρ τοῦ πλησίον, τῇ φλογὶ τῆς ἀγάπης πυρποληθείς· Χαίροις, ὁ πάντας παραμυθήσας, πείθων καταφρονεῖν τῶν ματαίων, καὶ τῆς ψυχῆς τὸ ὄμμα ἔχειν πρὸς πατρίδα τὴν οὐράνιον, ἔνθα ἡ ὄντως χαρὰ καὶ παραμυθία· Χαίροις, ὁ τὴν οἰκουμένην στηρίζων ταῖς θείαις διδαχαῖς, καὶ ταῖς πρεσβείαις σου πρὸς Κύριον· Αὐτὸν μὴ παύσῃ ἱκετεύων, δεόμεθα, ὅσιε Παΐσιε, οἰκουμένης φωστὴρ φαεινότατε, δωρηθῆναι εἰρήνην τῷ κόσμῳ, καὶ ταῖς ψυχαῖς ἡμῶν τὸ μέγα ἔλεος."
 
-alt1.meVE.LityBoth.mode = miscellanea_gr_GR_cog.misc.Mode6
-alt1.meVE.LityBoth.melody = ""
-alt1.meVE.LityBoth.incipit = he.o_gr_GR_cog.heOT.TheotokeSyEi.incipit
-alt1.meVE.LityBoth.text = he.o_gr_GR_cog.heOT.TheotokeSyEiOsiou.text
-
 alt1.meVE.Aposticha1.mode = miscellanea_gr_GR_cog.misc.Mode5
 alt1.meVE.Aposticha1.greekmelody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.greekname
 alt1.meVE.Aposticha1.melody = he.a.m5_gr_GR_cog.heAU.ChairoisAskitikon.name
