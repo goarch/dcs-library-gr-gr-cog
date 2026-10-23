@@ -436,7 +436,7 @@ hoCA.Troparion6.text = oc.m8.d5_gr_GR_cog.ocMA.AposTheotokion.text
 hoCA.Troparion7.mode = miscellanea_gr_GR_cog.misc.Mode2
 hoCA.Troparion7.melody = ""
 hoCA.Troparion7.incipit = "Τὴν πᾶσαν ἐλπίδα μου…"
-hoCA.Troparion7.text = "Τὴν πᾶσαν ἐλπίδα μου, εἰς σὲ ἀνατίθημι, Μήτερ τοῦ Θεοῦ, φύλαξόν με ὑπὸ τὴν σκέπην σου."
+hoCA.Troparion7.text = "Τὴν πᾶσαν ἐλπίδα μου, εἰς σὲ ἀνατίθημι, Μήτερ τοῦ Θεοῦ· φύλαξόν με ὑπὸ τὴν σκέπην σου."
 
 R24.rubric = "Κατὰ τὴν περίοδον τοῦ 15 Αὐγούστου (ἢ μόνον τῇ 14ῃ Αὐγούστου) εἴθισται ἵνα ψάλλωνται, ἀντὶ τῶν ἀνωτέρω Θεοτοκίων, τὰ ἑπόμενα Ἐξαποστειλάρια."
 
@@ -457,8 +457,8 @@ hoCA.Exaposteilarion3.text = da.d3_gr_GR_cog.daMA.ExapTheotokion1.text
 
 hoCA.Exaposteilarion4.mode = miscellanea_gr_GR_cog.misc.Mode3
 hoCA.Exaposteilarion4.melody = he.a.m3_gr_GR_cog.heAU.OOuranonToisAstrois.name
-hoCA.Exaposteilarion4.incipit = "Χρυσοπλοκώτατε πύργε, καὶ δωδεκάτειχε πόλις…"
-hoCA.Exaposteilarion4.text = "Χρυσοπλοκώτατε πύργε, καὶ δωδεκάτειχε πόλις, ἡλιοστάλακτε θρόνε, καθέδρα τοῦ Βασιλέως, ἀκατανόητον θαῦμα, πῶς γαλουχεῖς τὸν Δεσπότην;"
+hoCA.Exaposteilarion4.incipit = "Χρυσοπλοκώτατε πύργε…"
+hoCA.Exaposteilarion4.text = "Χρυσοπλοκώτατε πύργε, καὶ δωδεκάτειχε πόλις, ἡλιοστάλακτε θρόνε, καθέδρα τοῦ Βασιλέως, ἀκατανόητον θαῦμα! πῶς γαλουχεῖς τὸν Δεσπότην;"
 
 //Priest
 //Through the prayers
