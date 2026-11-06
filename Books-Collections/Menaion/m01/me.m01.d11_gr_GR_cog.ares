@@ -84,6 +84,11 @@ meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = "Τὰ τῶν Ἀγγέλων…"
 meVE.AposBoth.text = "Τὰ τῶν Ἀγγέλων στρατεύματα ἐξίσταντο, ὁρῶντά σε σήμερον ἐν Ἰορδάνῃ, γυμνὸν ἑστῶτα Σωτὴρ ἐν τοῖς ὕδασι, καὶ τὴν ἄχραντον κορυφήν σου ὑποκλίναντα, βαπτισθῆναι ὑπὸ Ἰωάννου· σοῦ γὰρ πτωχεύσαντος ἑκουσίως, ὁ κόσμος ἐπλουτίσθη. Κύριε δόξα σοι."
 
+meVE.Apolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode8
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.incipit = "Ταῖς τῶν δακρύων…"
+meVE.Apolytikion1.text = "Ταῖς τῶν δακρύων σου ῥοαῖς, τῆς ἐρήμου τὸ ἄγονον ἐγεώργησας, καὶ τοῖς ἐκ βάθους στεναγμοῖς, εἰς ἑκατὸν τοὺς πόνους ἐκαρποφόρησας, καὶ γέγονας φωστήρ, τῇ οἰκουμένῃ λάμπων τοῖς θαύμασιν, Ὅσιε Πατὴρ ἡμῶν Θεοδόσιε, πρέσβευε Χριστῷ τῷ Θεῷ, σωθῆναι τὰς ψυχὰς ἡμῶν."
+
 meVE.GeneralApolytikion1.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.GeneralApolytikion1.melody = he.ga_gr_GR_cog.heGA.TaisTonDakryonSou.name
 meVE.MM.GeneralApolytikion1.text = properties_gr_GR_cog.media.key
