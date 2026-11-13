@@ -107,7 +107,7 @@ meMA.C1.title = titles_gr_GR_cog.ti.CanonArchangel
 meMA.C1.verse = prayers_gr_GR_cog.pr.verse_Archangel.text
 
 meMA.C2.poet = poets_gr_GR_cog.po.Iosif
-meMA.C2.title = titles_gr_GR_cog.ti.CanonArchangel
+meMA.C2.title = titles_gr_GR_cog.ti.AnotherCanon
 meMA.C2.verse = prayers_gr_GR_cog.pr.verse_Archangel.text
 
 meMA.Ode1C11.ode = miscellanea_gr_GR_cog.misc.Ode1
