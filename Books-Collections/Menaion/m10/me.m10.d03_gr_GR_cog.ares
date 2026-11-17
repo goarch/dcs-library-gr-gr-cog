@@ -367,8 +367,8 @@ meMA.AposGlory.text = "Ἐν ἱερεῦσι καὶ Μάρτυσι διαπρ
 meMA.AposTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.AposTheotokion.greekmelody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.greekname
 meMA.AposTheotokion.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
-meMA.AposTheotokion.incipit = "Ἄπασαν ἔξωσον…"
-meMA.AposTheotokion.text = "Ἄπασαν ἔξωσον Δέσποινα, τῆς ταπεινῆς μου ψυχῆς, ῥαθυμίαν ἀμέλειαν, ἀκηδίαν ἄνοιαν, ἀσωτίαν ἀσέλγειαν, ἀντιλογίαν ἀνηκοΐαν δεινήν, τῶν προσταγμάτων τοῦ Θείου Πνεύματος· πᾶσαν πρὸς τούτοις δέ, ἀπληστίαν ἄγνοιαν, ἀσυμπαθῆ, τρόπον ἀσυνείδητον, γνώμην καὶ σῶσόν με."
+meMA.AposTheotokion.incipit = "Ἅπασαν ἔξωσον…"
+meMA.AposTheotokion.text = "Ἅπασαν ἔξωσον Δέσποινα, τῆς ταπεινῆς μου ψυχῆς, ῥαθυμίαν ἀμέλειαν, ἀκηδίαν ἄνοιαν, ἀσωτίαν ἀσέλγειαν, ἀντιλογίαν ἀνηκοΐαν δεινήν, τῶν προσταγμάτων τοῦ Θείου Πνεύματος· πᾶσαν πρὸς τούτοις δέ, ἀπληστίαν ἄγνοιαν, ἀσυμπαθῆ, τρόπον ἀσυνείδητον, γνώμην καὶ σῶσόν με."
 
 meMA.AposStavrotheotokion.mode = miscellanea_gr_GR_cog.misc.Mode8
 meMA.AposStavrotheotokion.greekmelody = he.a.m8_gr_GR_cog.heAU.KyrieEiKaiKritirio.greekname
