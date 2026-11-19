@@ -26,18 +26,18 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.Stichera01.greekmelody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.greekname
 meVE.Stichera01.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
-meVE.Stichera01.incipit = "Πάτερ θεόφρον Τιμόθεε, δι’ ἐγκρατείας…"
-meVE.Stichera01.text = "Πάτερ θεόφρον Τιμόθεε, δι’ ἐγκρατείας πολλῆς, καὶ συντόνου δεήσεως, τῶν παθῶν σκιρτήματα, παντελῶς ἐξηφάνισας, καὶ ἀπαθείας χάριν δεξάμενος, δοχεῖον ὤφθης τοῦ θείου Πνεύματος· ὅθεν τὰ πνεύματα, ἀπελαύνεις πάντοτε τὰ πονηρά, ζῶν καὶ μετὰ θάνατον, θεομακάριστε."
+meVE.Stichera01.incipit = "Πάτερ θεόφρον…"
+meVE.Stichera01.text = "Πάτερ θεόφρον Τιμόθεε, δι’ ἐγκρατείας πολλῆς, καὶ συντόνου δεήσεως, τῶν παθῶν σκιρτήματα, παντελῶς ἐξηφάνισας· καὶ ἀπαθείας χάριν δεξάμενος, δοχεῖον ὤφθης τοῦ θείου Πνεύματος· ὅθεν τὰ πνεύματα, ἀπελαύνεις πάντοτε τὰ πονηρά, ζῶν καὶ μετὰ θάνατον, θεομακάριστε."
 
 meVE.Stichera02.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.Stichera02.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
-meVE.Stichera02.incipit = "Πάτερ θεόφρον Τιμόθεε, τοῦ Ἀβραὰμ…"
-meVE.Stichera02.text = "Πάτερ θεόφρον Τιμόθεε, τοῦ Ἀβραὰμ μιμητής, ἀψευδὴς ἐχρημάτισας, θεραπεύων πάντοτε, τοὺς πρὸς σὲ καταφεύγοντας, Ἰὼβ ἐκτήσω τὸ ἐν τοῖς πόνοις στεῤῥόν, Δαυῒδ τὸ πρᾷον ἀνατεινόμενος, βίον ἰσάγγελον, ἐπὶ γῆς διήνυσας, τῶν ὀρεκτῶν, ἔφθασας τὸ ἔσχατον, ὑπὲρ ἡμῶν δυσωπῶν."
+meVE.Stichera02.incipit = "Πάτερ θεόφρον Τιμόθεε…"
+meVE.Stichera02.text = "Πάτερ θεόφρον Τιμόθεε, τοῦ Ἀβραὰμ μιμητής, ἀψευδὴς ἐχρημάτισας, θεραπεύων πάντοτε, τοὺς πρὸς σὲ καταφεύγοντας· Ἰὼβ ἐκτήσω τὸ ἐν τοῖς πόνοις στεῤῥόν, Δαυῒδ τὸ πρᾷον ἀνατεινόμενος, βίον ἰσάγγελον, ἐπὶ γῆς διήνυσας· τῶν ὀρεκτῶν, ἔφθασας τὸ ἔσχατον, ὑπὲρ ἡμῶν δυσωπῶν."
 
 meVE.Stichera03.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.Stichera03.melody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.name
-meVE.Stichera03.incipit = "Πάτερ ἱερὲ Τιμόθεε, τῆς σωφροσύνης…"
-meVE.Stichera03.text = "Πάτερ ἱερὲ Τιμόθεε, τῆς σωφροσύνης εἰκών, ἐγκρατείας ὑπόδειγμα, εὐσεβείας, ἴνδαλμα, καὶ πηγὴ κατανύξεως, ὀρθοδοξίας ἔρεισμα ἄσειστον, τῶν ἰαμάτων ῥεῖθρον ἀέναον, ἥλιος ἄδυτος, τέκνον θείας χάριτος, καὶ Μοναστῶν, ὤφθης ἐγκαλλώπισμα, σεβασμιώτατε."
+meVE.Stichera03.incipit = "Πάτερ ἱερὲ…"
+meVE.Stichera03.text = "Πάτερ ἱερὲ Τιμόθεε, τῆς σωφροσύνης εἰκών, ἐγκρατείας ὑπόδειγμα, εὐσεβείας ἴνδαλμα, καὶ πηγὴ κατανύξεως, ὀρθοδοξίας ἔρεισμα ἄσειστον, τῶν ἰαμάτων ῥεῖθρον ἀέναον, ἥλιος ἄδυτος, τέκνον θείας χάριτος, καὶ μοναστῶν, ὤφθης ἐγκαλλώπισμα, σεβασμιώτατε."
 
 meVE.SticTheotokion.mode = miscellanea_gr_GR_cog.misc.Mode8
 meVE.SticTheotokion.greekmelody = he.a.m8_gr_GR_cog.heAU.OTouParadoxou.greekname
@@ -55,14 +55,14 @@ meVE.Apolytikion1ger.poet = poets_gr_GR_cog.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_gr_GR_cog.misc.Mode5
 meVE.Apolytikion1ger.greekmelody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.greekname
 meVE.Apolytikion1ger.melody = he.a.m5_gr_GR_cog.heAU.TonSynanarchonLogon.name
-meVE.Apolytikion1ger.incipit = "Φερωνύμως τιμήσας Θεὸν Τιμόθεε, διὰ…"
+meVE.Apolytikion1ger.incipit = "Φερωνύμως τιμήσας…"
 meVE.Apolytikion1ger.text = "Φερωνύμως τιμήσας Θεὸν Τιμόθεε, διὰ ζωῆς ἐναρέτου ἀπὸ παιδὸς ὡς σοφός, ἐτιμήθης παρ’ αὐτοῦ ἀξίως Ὅσιε· τῶν γὰρ ἐνθέων δωρεῶν, σκεῦος ὤφθης ἱερόν, παρέχων ἑνὶ ἑκάστῳ, πολυτελεῖς χορεγίας, πρὸς σωτηρίαν τῶν ψυχῶν ἡμῶν."
 
 meVE.Apolytikion2ger.poet = poets_gr_GR_cog.po.Gerasimou
 meVE.Apolytikion2ger.mode = miscellanea_gr_GR_cog.misc.Mode3
 meVE.Apolytikion2ger.greekmelody = he.a.m3_gr_GR_cog.heAU.TheiasPisteos.greekname
 meVE.Apolytikion2ger.melody = he.a.m3_gr_GR_cog.heAU.TheiasPisteos.name
-meVE.Apolytikion2ger.incipit = "Θείας ἔμπλεως σοφίας πέλων, ὁμοούσιον…"
+meVE.Apolytikion2ger.incipit = "Θείας ἔμπλεως…"
 meVE.Apolytikion2ger.text = "Θείας ἔμπλεως σοφίας πέλων, ὁμοούσιον Πατρὶ τὸν Λόγον, ἐν τῇ Συνόδῳ τῇ Πρώτῃ ἐκήρυξας· καὶ διωγμοῖς ὁμιλήσας καὶ θλίψεσι, δόξης ἀῤῥήτου μετέσχες Εὐστάθιε. Πάτερ Ὅσιε, Χριστὸν τὸν Θεὸν ἱκέτευε, δωρήσασθαι ἡμῖν τὸ μέγα ἔλεος."
 
 meMA.C1.acrostic.title = "Κανὼν τοῦ Ἁγίου,"
@@ -251,7 +251,7 @@ meMA.Ode6C1T.text = "Ὁ νώτοις χερουβικοῖς, ἀπεριγρ�
 meMA.Kontakion1.mode = miscellanea_gr_GR_cog.misc.Mode4
 meMA.Kontakion1.greekmelody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_gr_GR_cog.heAU.EpefanisSimeron.name
-meMA.Kontakion1.incipit = "Ὡς ἀστὴρ πολύφωτος ἐκ τῆς…"
+meMA.Kontakion1.incipit = "Ὡς ἀστὴρ πολύφωτος…"
 meMA.Kontakion1.text = "Ὡς ἀστὴρ πολύφωτος ἐκ τῆς Ἑῴας, ἀναλάμψας ηὔγασας, ἐν ταῖς καρδίαις τῶν πιστῶν, τὰς ἀρετὰς τῶν θαυμάτων σου, θαυματοφόρε θεόφρον Τιμόθεε."
 
 meMA.Ode7C1H.ode = miscellanea_gr_GR_cog.misc.Ode7
